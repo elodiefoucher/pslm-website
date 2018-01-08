@@ -1,0 +1,67 @@
+{{ define "main"  }}
+<img class="img-banner" src="/img/banner-danse.png">
+<section class="container cours-home">
+<h1 class="text-center text-uppercase display-4">Danse</h1>
+<hr>
+<div class="description-top">
+<p class="lead">{{ .Description | markdownify }}</p>
+</div>
+<ul class="nav nav-tabs justify-content-center" id="myTab" role="tablist">
+  {{ range .Data.Pages }}
+  <li class="nav-item">
+    <a class="nav-link {{ if eq .Weight 1 }}active{{end}}" id="{{.Params.slug}}-tab" data-toggle="tab" href="#{{.Params.slug}}" role="tab" aria-controls="{{.Params.slug }}" aria-selected="{{if eq .Weight 1}}true{{ else}}false{{end}}" >{{ .Title }}</a>
+  </li>
+  {{ end }}
+  </ul>
+
+<!--description activité-->
+  <div class="tab-content" id="myTabContent">
+    {{ range .Data.Pages }}
+    <div class="tab-pane fade {{ if eq .Weight 1 }}show active{{end}}" id="{{.Params.slug}}" role="tabpanel" aria-labelledby="{{.Params.slug}}-tab">
+      <div class="description">{{ .Description | markdownify}}</div>
+
+<!--tarifs-->
+      <div class="row justify-content-md-center">
+        <div class="col col-lg-2">
+                  <h4 class="nos-tarifs">Nos formules</h4>
+        </div>
+        <div class="col-md-auto">
+
+          <div class="tarifs">
+            <ul class="list-group">
+              {{ range .Params.tarifs }}
+            <li class="list-group-item">{{ .public }} - {{ .prix }}</li>
+            {{ end }}
+          </ul>
+          </div>
+        </div>
+        <div class="col col-lg-2">
+        </div>
+      </div>
+
+<!--groupes et horaires-->
+<div class="row">
+  <div class="card-columns">
+    {{ range .Params.horaires }}
+  <div class="card text-center">
+    <div class="card-body">
+      <h2>{{ .cours }}</h2>
+        <hr>
+      <p class="card-text">{{ .age }}</p>
+      <hr>
+      <div class="row">
+      <ul class="horaires">
+        <li>{{ .jour }} {{ .heures }}</li>
+      </ul>
+      </div>
+    </div>
+  </div>
+  {{ end }}
+</div>
+</div>
+
+    </div>
+      {{ end }}
+  </div>
+</section>
+{{ end }}

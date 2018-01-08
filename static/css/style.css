@@ -1,0 +1,123 @@
+/*Général*/
+.green {
+  background-color: rgb(202,219,63)
+}
+.bleu {
+  background-color: rgb(0,109,152)
+}
+
+.red {
+  background-color: rgb(215,29,36)
+}
+
+.home-banner {
+  width: 100%;
+  weight: auto;
+}
+
+
+
+/*cours*/
+
+.cours-home {
+  padding-top: 3rem;
+}
+
+.cours-home .card {
+  margin-bottom: 2rem;
+}
+
+.img-banner {
+  width: 100%;
+}
+
+.horaires {
+  margin-top: 1rem;
+  text-align: left;
+  font-weight: 600;
+  color: rgb(0,109,152);
+  list-style-type: none;
+}
+
+.card h2 {
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+
+.description-top {
+  text-align: center;
+  margin: 4rem;
+}
+
+.description{
+  color: rgb(0,109,152);
+  margin: 3rem;
+}
+
+
+.nos-tarifs{
+  color: rgb(202,219,63);
+  font-variant: small-caps;
+}
+.tarifs {
+  text-align: left;
+  font-weight: 600;
+  color: rgb(0,109,152);
+}
+
+.list-group {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5rem;
+
+}
+
+.titre-cours {
+  text-align: center;
+  font-size: 3rem;
+  color: rgb(0,109,152);
+}
+
+.partenaires {
+  text-align: center;
+  margin: 4rem;
+  font-weight: bold;
+}
+
+/*/mise en forme description cours/*/
+
+.condition {
+  text-align: right;
+  style: italic;
+  color: grey;
+}
+
+.resultat {
+  font-weight: bold;
+}
+
+ /*/Résultats compétition/*/
+.jour {
+  text-align: center;
+  font-weight: lighter;
+  font-size: small;
+}
+
+.lieu{
+  text-align: center;
+}
+
+.card-header {
+  text-align: center;
+  color: rgb(0,109,152);
+}
+
+/*/Inscription/*/
+.lien-doc {
+  font-weight: bold;
+  color: rgb(0,109,152);
+}
+
+.container-inscription {
+  margin: 4rem;
+}

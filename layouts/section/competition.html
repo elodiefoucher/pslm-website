@@ -1,0 +1,36 @@
+{{ define "main"  }}
+<img class="img-banner" src="/img/banner-competition-2.png">
+<section class="container cours-home">
+<h1 class="text-center text-uppercase display-4">Compétition</h1>
+<hr>
+  <div class="description-top">
+  <p class="lead">{{ .Description | markdownify }}</p>
+  </div>
+    <div class="row justify-content-md-center">
+      <div class="col col-lg-1">
+      </div>
+      <div class="col col-lg-10">
+      <p>{{ .Content | markdownify }}</p>
+      </div>
+      <div class="col col-lg-1">
+      </div>
+    </div>
+<ul class="nav nav-tabs justify-content-center" id="myTab" role="tablist">
+  {{ range .Data.Pages }}
+  <li class="nav-item">
+    <a class="nav-link {{ if eq .Weight 1 }}active{{end}}" id="{{.Params.slug}}-tab" data-toggle="tab" href="#{{.Params.slug}}" role="tab" aria-controls="{{.Params.slug }}" aria-selected="{{if eq .Weight 1}}true{{ else}}false{{end}}" >{{ .Title }}</a>
+  </li>
+  {{ end }}
+  </ul>
+
+  <div class="tab-content" id="myTabContent">
+    {{ range .Data.Pages }}
+    <div class="tab-pane fade {{ if eq .Weight 1 }}show active{{end}}" id="{{.Params.slug}}" role="tabpanel" aria-labelledby="{{.Params.slug}}-tab">
+      <div class="container">{{ .Content }}</div>
+    </div>
+      {{ end }}
+  </div>
+
+
+</section>
+{{ end }}

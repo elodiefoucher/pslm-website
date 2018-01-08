@@ -1,0 +1,10 @@
+{{ define "main" }}
+  <img class="img-banner"src="/img/banner-ecole-de-gym.png" alt="{{.Title}}">
+<section class="container cours-home">
+  <h1 class="text-center text-uppercase display-4">Stages</h1>
+  <hr>
+  <div class="description-top">
+  <p class="lead">{{ .Description | markdownify }}</p>
+  </div>
+
+{{ end }}

@@ -1,0 +1,56 @@
+{{ define "main" }}
+  <img class="img-banner" src="/img/banner-gym-fitness.png" alt="{{.Title}}">
+<section class="container cours-home">
+  <h1 class="text-center text-uppercase display-4">Gym Forme Adultes</h1>
+  <hr>
+  <div class="description-top">
+  <p class="lead">{{ .Description | markdownify }}</p>
+  </div>
+
+  <!--liste tarifs-->
+  <div class="container">
+  <div class="row justify-content-md-center">
+    <div class="col col-lg-2">
+        <h4 class="nos-tarifs">Nos formules</h4>
+    </div>
+    <div class="col-md-auto">
+      <div class="tarifs">
+        <ul class="list-group">
+          {{ range .Params.tarifs }}
+        <li class="list-group-item">{{ .frequence }} - {{ .prix }}</li>
+        {{ end }}
+      </ul>
+      </div>
+    </div>
+    <div class="col col-lg-2">
+    </div>
+  </div>
+  <!--liste différents cours proposés avec horaires-->
+  <div class="row">
+    <div class="col col-lg-2">
+    </div>
+    {{ range .Data.Pages }}
+    <div class="col-md-4">
+    <div class="card text-center">
+      <div class="card-body">
+        <h2>{{ .Title }}</h2>
+          <hr>
+        <p class="card-text">{{ .Content }}</p>
+        <hr>
+        <div class="row">
+        <ul class="horaires">
+          {{ range .Params.horaires }}
+          <li>{{ .jour }} {{ .heures }}</li>
+          {{ end }}
+        </ul>
+        </div>
+      </div>
+    </div>
+    </div>
+    {{ end }}
+    <div class="col col-lg-2">
+    </div>
+  </div>
+</section>
+
+{{ end }}

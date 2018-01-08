@@ -1,0 +1,15 @@
+{{ define "main" }}
+<img class="img-banner" src="/img/banner-pslm.png" alt="{{.Title}}">
+<hr>
+<h2 class="partenaires">PARTENAIRES CLUB</h2>
+<hr>
+<div class="container partenaires">
+  <div class="row">
+  {{ range .Params.partenaire }}
+  <div class="col col-lg-6">
+<img src="{{ .img }}" width="300" alt="{{ .nom }}">
+</div>
+{{ end }}
+</div>
+</div>
+{{ end }}

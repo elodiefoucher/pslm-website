@@ -24,16 +24,6 @@
       {{ end }}
             </div>
     </div>
-<section>
-  <div class="row">
-    <div class="col-lg-3 col-md-4 col-sm-12">
-  {{ range .Params.article }}
-  <div class="card">
-  <img class="card-img" src="{{ .img }}" alt="presse">
-</div>
-{{ end }}
-</div>
-</div>
-</section>
 
+{{ .Content }}
 {{ end }}

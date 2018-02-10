@@ -3,94 +3,48 @@
 {{ partial "banner.html" . }}
 
 <section class="container cours-home">
-  <div class="description-top">
+<div class="description-top">
   <p class="lead">{{ .Description | markdownify }}</p>
-  </div>
-  <div class="content">
-    <h3>Entraineur Gymnastique Artistique</h3>
-  </div>
-  <div class="container enca">
-      <div class="row">
-    {{ range .Params.gym }}
+</div>
+{{ range .Data.Pages }}
+{{ if isset .Params "encadrement"}}
+<div class="content">
+  <h3>{{ .Title }}</h3>
+</div>
+<div class="container enca">
+  <div class="row">
+    {{ range .Params.encadrement}}
     <div class="col col-md-4 col-sm-12">
       <div class="encadrement">
-      <img src="{{ .img }}" alt="{{ .title }}" class="img-enca">
-      <p class="enom">{{ .nom }}</p>
-      <p class="efonc">{{ .fonction }}</p>
-      <p class="edip">{{ .diplome }}</p>
-      <p class="eent">Au PSLM depuis {{ .entree }}</p>
+        <img src="{{ .img }}" alt="{{ .title }}" class="img-enca">
+        <p class="enom">{{ .nom }}</p>
+        <p class="efonc">{{ .fonction }}</p>
+        <p class="edip">{{ .diplome }}</p>
+        <p class="eent">Au PSLM depuis {{ .entree }}</p>
+      </div>
+    </div>
+    {{ end }}
   </div>
 </div>
+{{ else }}
+<div class="content">
+  <h3>{{ .Title }}</h3>
+</div>
+<div class="container enca">
+  <div class="container admin">
+    {{ range .Params.conseil }}
+    <div class="row">
+      <div class="col-md-4 col-sm-6">
+        <p class="admin-fonc">{{ .fonction }}</p>
+      </div>
+      <div class="col-md-8 col-sm-6">
+        <p class="admin-nom">{{ .nom }}
+        </div>
+      </div>
       {{ end }}
-</div>
-</div>
-<div class="content">
-<h3>Coach GymFit</h3>
-</div>
-<div class="container enca">
-<div class="row">
-{{ range .Params.gymfit }}
-<div class="col col-md-4 col-sm-12">
-<div class="encadrement">
-<img src="{{ .img }}" alt="{{ .title }}" class="img-enca">
-<p class="enom">{{ .nom }}</p>
-<p class="efonc">{{ .fonction }}</p>
-<p class="edip">{{ .diplome }}</p>
-<p class="eent">Au PSLM depuis {{ .entrée }}</p>
-</div>
-</div>
+    </div>
+  </div>
 {{ end }}
-</div>
-</div>
-  <div class="content">
-<h3>Professeure Danse</h3>
-</div>
-<div class="container enca">
-  <div class="row">
-{{ range .Params.danse }}
-<div class="col col-md-4 col-sm-12">
-  <div class="encadrement">
-  <img src="{{ .img }}" alt="{{ .title }}" class="img-enca">
-  <p class="enom">{{ .nom }}</p>
-  <p class="efonc">{{ .fonction }}</p>
-  <p class="edip">{{ .diplome }}</p>
-  <p class="eent">Au PSLM depuis {{ .entrée }}</p>
-</div>
-</div>
-  {{ end }}
-</div>
-</div>
-
-<div class="content">
-  <h3>Administrateurs du CA</h3>
-</div>
-<div class="container enca">
-<div class="container admin">
-  {{ range .Params.ca }}
-  <div class="row">
-  <div class="col-md-4 col-sm-6">
-    <p class="admin-fonc">{{ .fonction }}</p>
-  </div>
-  <div class="col-md-8 col-sm-6">
-    <p class="admin-nom">{{ .nom }}
-  </div>
-</div>
-  {{ end }}
-</div>
-<div class="container admin">
-  {{ range .Params.commission }}
-  <div class="row">
-  <div class="col-md-6 col-sm-6">
-    <p class="admin-fonc">{{ .fonction }}</p>
-  </div>
-  <div class="col-md-6 col-sm-6">
-    <p class="admin-nom">{{ .nom }}</p>
-  </div>
-</div>
-  {{ end }}
-</div>
-</div>
+{{ end }}
 </section>
-
-
 {{ end }}

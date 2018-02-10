@@ -1,12 +1,6 @@
 {{ define "main" }}
-<section>
-<div class="carousel-inner">
-  <div class="carousel-item active">
-    <img class="d-block w-100" src="/img/banner-presse.png" alt="First slide">
-    <div class="carousel-caption d-none d-md-block">
-  <h1 class="banner-text-d"><span class="banner-title-light">Presse</span></h1>
-</div>
-</section>
+
+{{ partial "banner.html" . }}
 
 {{ .Content }}
 

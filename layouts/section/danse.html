@@ -1,19 +1,15 @@
 {{ define "main"  }}
-<section>
-<div class="carousel-inner">
-  <div class="carousel-item active">
-    <img class="d-block w-100" src="/img/banner-danse.png" alt="First slide">
-    <div class="carousel-caption d-none d-md-block">
-<h1 class="banner-text-d"><span class="banner-title-light">Danse</span></h1>
-</div>
-</div>
-</div>
-</section>
+
+{{ partial "banner.html" . }}
+
+
 <section class="container cours-home">
 <div class="description-top">
 <p class="lead">{{ .Description | markdownify }}</p>
 </div>
 </section>
+
+
 <section>
 <ul class="nav nav-tabs justify-content-center" id="myTab" role="tablist">
   {{ range .Data.Pages }}

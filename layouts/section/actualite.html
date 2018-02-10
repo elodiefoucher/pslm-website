@@ -1,21 +1,11 @@
 {{ define "main" }}
-<section>
-<div class="carousel-inner">
-  <div class="carousel-item active">
-    <img class="d-block w-100" src="/img/banner-actualite.png" alt="First slide">
-    <div class="carousel-caption d-none d-md-block">
-  <h1 class="banner-text-g"><span class="banner-title-dark">actualité</span></h1>
-</div>
-</div>
-</div>
-</section>
 
+{{ partial "banner.html" . }}
+
+{{ partial "description.html" . }}
 
 <section class="container cours-home">
-  <div class="container actu">
-  <div class="description-top">
-  <p class="lead">{{ .Description | markdownify }}</p>
-  </div>
+  <div class="actu">
   {{ range .Data.Pages.ByDate.Reverse }}
 <div class="container article">
   <div class="row">

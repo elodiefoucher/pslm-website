@@ -1,19 +1,9 @@
 {{ define "main" }}
-<section>
-<div class="carousel-inner">
-  <div class="carousel-item active">
-    <img class="img-banner" src="/img/banner-resultats-2.png" alt="{{.Title}}">
-    <div class="carousel-caption d-none d-md-block">
-  <h1 class="banner-text-c"><span class="banner-title-light">compétition</span></h1>
-</div>
-</div>
-</div>
-</section>
-<section class="container cours-home">
-  <div class="description-top">
-  <p class="lead">{{ .Description | markdownify }}</p>
-</div>
-</section>
+
+{{ partial "banner.html" . }}
+
+{{ partial "description.html" . }}
+
 <section>
   <div class="container competition">
   {{ range .Data.Pages.ByDate }}

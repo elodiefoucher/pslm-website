@@ -15,6 +15,7 @@ galerie:
  - logo: "/img/historique-logo-4.png"
  - logo: "/img/historique-logo-1.png"
  - logo: "/img/historique-logo-5.png"
+banner: "/img/banner-historique.png"
 ---
 
 ### 1913 - Premières années : prolonger l’action laïque au-delà de l’école

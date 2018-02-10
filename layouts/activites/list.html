@@ -1,0 +1,46 @@
+{{ define "main"  }}
+<section>
+<div class="carousel-inner">
+  <div class="carousel-item active">
+    <img class="d-block w-100" src="/img/banner-competition-3.png" alt="First slide">
+    <div class="carousel-caption d-none d-md-block">
+  <h1 class="banner-text-c"><span class="banner-title-light">compétition</span></h1>
+</div>
+</section>
+
+<section class="container cours-home">
+  <div class="description-top">
+  <p class="lead">{{ .Description | markdownify }}</p>
+  </div>
+    <div class="description-deroule">
+      <div class="content">
+      <p>{{ .Content | markdownify }}</p>
+      </div>
+    </div>
+</section>
+
+<!--tarifs-->
+<section class="container">
+ <div class="row justify-content-md-center">
+   <div class="col col-lg-2">
+     <h4 class="nos-tarifs">Nos formules</h4>
+   </div>
+   <div class="col-md-auto">
+     <div class="tarifs">
+       <ul class="list-group">
+         {{ range .Params.tarifs }}
+       <li class="list-group-item">{{ .public }} - {{ .prix }}</li>
+       {{ end }}
+     </ul>
+     </div>
+   </div>
+   <div class="col col-lg-2">
+   </div>
+ </div>
+   <p class="condition-tarifs">{{ .Params.condition | markdownify }}</p>
+   <div class="col-md-2 col-centered button-inscription">
+     <a href="/inscription"><button type="button" class="btn btn-light">INSCRIPTION</button></a>
+   </div>
+</section>
+
+{{ end }}

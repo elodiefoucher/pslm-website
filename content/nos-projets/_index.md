@@ -1,6 +1,7 @@
 ---
 title: "La salle"
 description: "Notre volonté ultime depuis 20 ans :<br> obtenir une nouvelle structure d’entrainement adaptée à notre activité en pleine expansion."
+banner: "/img/banner-nos-projets.png"
 ---
 
 ## Nos objectifs avec une structure adaptée

@@ -1,22 +1,8 @@
 {{ define "main" }}
-<section>
-<div class="carousel-inner">
-  <div class="carousel-item active">
-  <img class="img-banner" src="/img/banner-inscription.png" alt="{{.Title}}">
-    <div class="carousel-caption d-none d-md-block">
-  <h1 class="banner-text-d"><span class="banner-title-light">inscription</span></h1>
-    </div>
-   </div>
-</div>
-</section>
-<section>
-<div class="description-top">
-<p class="lead">{{ .Description | markdownify }}</p>
-</div>
-  <div class="description-deroule">
-  <p class="text-right font-italic">{{ .Content | markdownify }}</p>
-  </div>
-</section>
+
+{{ partial "banner.html" . }}
+
+{{ partial "description.html" . }}
 
 <section class="container">
   <h2 class="text-center">Documents d'inscription à télécharger</h2>

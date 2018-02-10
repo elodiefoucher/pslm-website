@@ -6,6 +6,7 @@ condition: "La Baby Gym concerne un public âgé de 18 mois à 4 ans.<br>Lors du
 tarifs:
  - public: mixte
    prix: 205 €
+banner: "/img/banner-baby-gym.png"
 weight: 3
 ---
 
@@ -21,7 +22,7 @@ C'est sans doute la partie la plus riche et la plus dense sur le plan moteur.<br
  * Toujours laisser l'enfant découvrir<br>
  * Le guider ensuite pour lui faire exécuter le mouvement demandé.<br>
 
- 
+
 Durant ce parcours différentes actions corporelles sont sollicitées : tourner, se suspendre, glisser, se balancer, courir, marcher en équilibre , ramper, rouler, se hisser.
 
 ### La phase de créativité et de jeux<br>

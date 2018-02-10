@@ -1,73 +1,12 @@
 {{ define "main" }}
-<section>
-<div class="carousel-inner">
-  <div class="carousel-item active">
-    <img class="d-block w-100" src="/img/banner-baby-gym.png" alt="First slide">
-    <div class="carousel-caption d-none d-md-block">
-  <h1 class="banner-text-b"><span class="banner-title-light">Baby Gym</span></h1>
-</div>
-</section>
 
-<section class="container cours-home">
-  <div class="description-top">
-  <p class="lead">{{ .Description | markdownify }}</p>
-  </div>
-  <div class="description-deroule">
-  <div class="content">
-    <p>{{ .Content | markdownify }}</p>
-  </div>
-  </div>
-</section>
+{{ partial "banner.html" . }}
 
- <!--tarifs-->
- <section class="container-inscription">
+{{ partial "description.html" . }}
 
-  <div class="row justify-content-md-center">
-    <div class="col col-lg-2">
-      <h4 class="nos-tarifs">Nos formules</h4>
-    </div>
-    <div class="col-md-auto">
-      <div class="tarifs">
-        <ul class="list-group">
-          {{ range .Params.tarifs }}
-        <li class="list-group-item">{{ .public }} - {{ .prix }}</li>
-        {{ end }}
-      </ul>
-      </div>
-    </div>
-    <div class="col col-lg-2">
-    </div>
-  </div>
+{{ partial "tarifs.html" . }}
 
-  <!--liste différents cours proposés avec horaires-->
-  <div class="row">
-    <div class="col-lg-3 col-md-2 col-sm-0">
-    </div>
-    {{ range .Data.Pages }}
-    <div class="col-lg-3 col-md-4 col-sm-12 d-flex align-items-stretch col-centered">
-    <div class="card text-center mx-auto">
-      <div class="card-body">
-        <h2>{{ .Title }}</h2>
-          <hr>
-        <p class="card-text">{{ .Content }}</p>
-        <hr>
-        <div class="row">
-        <ul class="horaires mx-auto">
-          {{ range .Params.horaires }}
-          <li>{{ .jour }} {{.heures }}</li>
-          {{ end }}
-        </ul>
-        </div>
-      </div>
-    </div>
-    </div>
-    {{ end }}
-    <div class="col-lg-3 col-md-2 col-sm-0">
-    </div>
-  </div>
-  <div class="col-md-2 col-centered button-inscription">
-    <a href="/inscription"><button type="button" class="btn btn-light">INSCRIPTION</button></a>
-  </div>
-</section>
+{{ partial "list-cours.html" . }}
+
 
 {{ end }}

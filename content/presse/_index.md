@@ -10,7 +10,8 @@ article:
  - date: 2015-05-16
    img: "/img/presse-15-05-16.jpg"
  - date: 2013-12-01
-   img: "/img/presse-13-12.jpg"       
+   img: "/img/presse-13-12.jpg"
+banner: "/img/banner-presse.png"      
 ---
 
 {{< load-photoswipe >}}

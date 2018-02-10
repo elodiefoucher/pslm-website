@@ -28,7 +28,7 @@
     </div>
 </section>
 
-<section class="accueil">
+<section class="section-blue">
           <h2 class="accueil-title-blue">{{ .Params.actualité }}</h2>
       <div class="container">
   <div class="row">
@@ -82,19 +82,20 @@
  </div>
 </section>
 
-<section>
-  <div class="description-top">
-<div class="row">
-  <div class="col-md-3 col-sm-12">
+<div class="section-blue">
+<section class="container">
+  <div class="description-top row">
+    <div class="col-md-3 col-sm-12">
     <img src="{{ .Params.presidente }}" alt="{{ .Title }}" width="180">
   </div>
   <div class="col-md-9 col-sm-12">
-      <h2>Le mot de la présidente<h2>
-  <p class="presidente">{{ .Params.interlude2 | markdownify }}</p>
-  <p class="presidente-s">{{ .Params.signature }}
-</div>
-</div>
+    <h2>Le mot de la présidente<h2>
+      <p class="presidente">{{ .Params.interlude2 | markdownify }}</p>
+      <p class="presidente-s">{{ .Params.signature }}
+      </div>
+    </div>
 </section>
+</div>
 
 <section class="partenaire-bottom">
 <div class="container">

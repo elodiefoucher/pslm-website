@@ -197,9 +197,37 @@ h3 {
   font-weight: bold;
 }
 
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+// Medium devices (tablets, 768px and up)
+
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+
 .description-top {
-  text-align: center;
+    text-align: center;
+    padding: 2rem;
+}
+
+@media (min-width: 768px) {
+  .description-top {
   padding: 4rem;
+}
+.description-deroule {
+  padding-left: 5rem;
+  padding-right: 5rem;
+}
+}
+
+@media (max-width: 576px) {
+  .content ul {
+    padding-left: 4rem;
+  }
 }
 
 .description {
@@ -207,10 +235,6 @@ h3 {
   padding: 3rem;
 }
 
-.description-deroule {
-  padding-left: 5rem;
-  padding-right: 5rem;
-}
 
 .condition-tarifs {
   text-align: center;
@@ -342,9 +366,10 @@ h3 {
 
 /* Accueil */
 
-.accueil {
+.section-blue {
   background-color: RGBa(0,109,152,0.8);
   padding-bottom: 2rem;
+  color: white;
 }
 
 .c-accueil p {

@@ -1,15 +1,54 @@
 {{ define "main" }}
-<img class="img-banner" src="/img/banner-pslm.png" alt="{{.Title}}">
-<hr>
-<h2 class="partenaires">PARTENAIRES CLUB</h2>
-<hr>
-<div class="container partenaires">
+<section>
+<div class="carousel-inner">
+  <div class="carousel-item active">
+    <img class="d-block w-100" src="/img/banner-partenaires-logo.png" alt="First slide">
+    <div class="carousel-caption d-none d-md-block">
+  <h1 class="banner-text-d"><span class="banner-title-white">partenaires</span></h1>
+    </div>
+   </div>
+</div>
+</section>
+
+<section class="container cours-home">
+  <div class="description-top">
+  <p class="lead">{{ .Description | markdownify }}</p>
+  </div>
+  <div class="description-deroule">
+    <div class="content">
+      <p>{{ .Content }}</p>
+  </div>
+</div>
+</section>
+
+
+
+<section>
+  <div class="partenaires">
+  <h2>PARTENAIRE CLUB</h2>
   <div class="row">
   {{ range .Params.partenaire }}
-  <div class="col col-lg-6">
-<img src="{{ .img }}" width="300" alt="{{ .nom }}">
+  <div class="col col-lg-4">
+<a href="{{ .lien }}" target="_blank"><img src="{{ .img }}" width="300" alt="{{ .nom }}"></a>
 </div>
 {{ end }}
 </div>
 </div>
+</section>
+
+<section>
+  <div class="partenaires">
+  <h2>PARTENAIRES Top 12</h2>
+  <div class="row">
+  {{ range .Params.partenairetop12 }}
+  <div class="col col-lg-2">
+      <div class="part">
+<a href="{{ .lien }}" target="_blank"><img src="{{ .img }}" width="180" alt="{{ .nom }}"></a>
+</div>
+</div>
+{{ end }}
+</div>
+</div>
+</section>
+
 {{ end }}

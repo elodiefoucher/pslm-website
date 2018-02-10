@@ -1,11 +1,20 @@
 {{ define "main"  }}
-<img class="img-banner" src="/img/banner-danse.png">
+<section>
+<div class="carousel-inner">
+  <div class="carousel-item active">
+    <img class="d-block w-100" src="/img/banner-danse.png" alt="First slide">
+    <div class="carousel-caption d-none d-md-block">
+<h1 class="banner-text-d"><span class="banner-title-light">Danse</span></h1>
+</div>
+</div>
+</div>
+</section>
 <section class="container cours-home">
-<h1 class="text-center text-uppercase display-4">Danse</h1>
-<hr>
 <div class="description-top">
 <p class="lead">{{ .Description | markdownify }}</p>
 </div>
+</section>
+<section>
 <ul class="nav nav-tabs justify-content-center" id="myTab" role="tablist">
   {{ range .Data.Pages }}
   <li class="nav-item">
@@ -14,19 +23,23 @@
   {{ end }}
   </ul>
 
+</section>
+
 <!--description activité-->
+<section>
   <div class="tab-content" id="myTabContent">
     {{ range .Data.Pages }}
     <div class="tab-pane fade {{ if eq .Weight 1 }}show active{{end}}" id="{{.Params.slug}}" role="tabpanel" aria-labelledby="{{.Params.slug}}-tab">
-      <div class="description">{{ .Description | markdownify}}</div>
+  <div class="description">{{ .Description | markdownify}}</div>
+
 
 <!--tarifs-->
+<section class="container-inscription">
       <div class="row justify-content-md-center">
         <div class="col col-lg-2">
-                  <h4 class="nos-tarifs">Nos formules</h4>
+          <h4 class="nos-tarifs">Nos formules</h4>
         </div>
         <div class="col-md-auto">
-
           <div class="tarifs">
             <ul class="list-group">
               {{ range .Params.tarifs }}
@@ -40,28 +53,61 @@
       </div>
 
 <!--groupes et horaires-->
-<div class="row">
-  <div class="card-columns">
-    {{ range .Params.horaires }}
-  <div class="card text-center">
-    <div class="card-body">
-      <h2>{{ .cours }}</h2>
+  <div class="row">
+    <div class="col-lg-3 col-md-0 col-sm-0">
+    </div>
+    {{ range .Params.horaires2 }}
+    <div class="col-lg-3 col-md-6 col-sm-12 d-flex align-items-stretch col-centered">
+    <div class="card text-center mx-auto">
+      <div class="card-body">
+        <h2>{{ .cours }}</h2>
+          <hr>
+        <p class="card-text">{{ .age }}</p>
         <hr>
-      <p class="card-text">{{ .age }}</p>
-      <hr>
-      <div class="row">
-      <ul class="horaires">
-        <li>{{ .jour }} {{ .heures }}</li>
-      </ul>
+        <div class="row">
+        <ul class="horaires mx-auto">
+          <li>{{ .jour }} {{.heures }}</li>
+        </ul>
+        </div>
       </div>
     </div>
-  </div>
-  {{ end }}
-</div>
-</div>
+    </div>
+    {{ end }}
+    <div class="col-lg-3 col-md-6 col-sm-12">
 
     </div>
-      {{ end }}
   </div>
+  <div class="row">
+    {{ range .Params.horaires4 }}
+    <div class="col col-lg-3 col-sm-12 d-flex align-items-stretch col-centered">
+    <div class="card text-center mx-auto">
+      <div class="card-body">
+        <h2>{{ .cours }}</h2>
+          <hr>
+        <p class="card-text">{{ .age }}</p>
+        <hr>
+        <div class="row">
+        <ul class="horaires mx-auto">
+          <li>{{ .jour }} {{.heures }}</li>
+        </ul>
+        </div>
+      </div>
+    </div>
+    </div>
+    {{ end }}
+  </div>
+<div class="container classique">
+  <div class="content">
+  <p>{{ .Content }}</p>
+</div>
+<div class="col-md-2 col-centered button-inscription">
+  <a href="/inscription"><button type="button" class="btn btn-light">INSCRIPTION</button></a>
+</div>
+</div>
+</div>
+{{ end }}
+</div>
 </section>
+</section>
+
 {{ end }}

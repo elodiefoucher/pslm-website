@@ -1,0 +1,32 @@
+{{ define "main" }}
+
+<section>
+<div class="carousel-inner">
+  <div class="carousel-item active">
+    <img class="d-block w-100" src="/img/banner-competition-3.png" alt="First slide">
+    <div class="carousel-caption d-none d-md-block">
+  <h1 class="banner-text-c"><span class="banner-title-light">actualité</span></h1>
+</div>
+</div>
+</div>
+</section>
+
+<section class="container cours-home">
+  <div class="article-single">
+  <div class="row">
+    <div class="col-md-9 col-sm-12">
+      <a href="{{ .URL }}"><h2 class="article-title">{{ .Title }}</h2></a>
+        <p class="article-date">{{ .Params.jour }}</p>
+        {{ range .Params.galerie }}
+      <img class="article-photo" src="{{ .photo }}" alt="{{ .Title }}">
+      {{ end }}
+      <p>{{ .Content }}</p>
+        <p class="article-lien"><a href="/actualite">Retour à l'actualité</a></p>
+      </div>
+    <div class="col-md-3 col-sm-12">
+    </div>
+  </div>
+</div>
+</section>
+
+{{ end }}

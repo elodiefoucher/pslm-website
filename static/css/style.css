@@ -2,7 +2,7 @@
 .green {
   background-color: rgb(202,219,63)
 }
-.bleu {
+.blue {
   background-color: rgb(0,109,152)
 }
 
@@ -15,16 +15,165 @@
   weight: auto;
 }
 
+footer {
+  background-color: #ededed;
+  padding: 2rem;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover {
+  color: inherit;
+
+  text-decoration: none;
+}
+
+a:active {
+  color: inherit;
+  font-weight: 450;
+  text-decoration: none;
+}
+
+
+.img-home {
+  display: block;
+  margin-bottom: 1rem;
+}
+ .content {
+   font-weight: 300;
+ }
+
+.content h2 {
+  font-weight: 300;;
+  text-transform: uppercase;
+  border-bottom: 1px solid silver;
+  margin-bottom: 1.5rem;
+}
+
+.content h3 {
+  font-weight: 300;
+  border-bottom: 1px solid rgb(202,219,63);
+  margin: 1rem;
+  }
+
+.content h4 {
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  margin-top: 6rem;
+  margin-bottom: 6rem;
+  line-height: 2rem;
+  color: rgb(215,29,36);
+}
+
+.content p {
+  margin-left: 2rem;
+}
+
+
+.content ol {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  padding-left: 6rem;
+  font-size: 1.1rem;
+  line-height: 2rem;
+  display: block;
+  list-style-type: none;
+}
+
+.content ul {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  padding-left: 6rem;
+  font-size: 1.1rem;
+  line-height: 2rem;
+  display: block;
+
+}
+
+.content strong {
+  font-weight: 400;
+}
+
+.retour-accueil {
+  text-align: center;
+  padding: 1rem;
+  color: silver;
+}
+
+h2 {
+  font-weight: 500;
+}
+
+h3 {
+  font-weight: 400;
+}
 
 
 /*cours*/
 
 .cours-home {
-  padding-top: 3rem;
+  padding-top: 1rem;
 }
 
 .cours-home .card {
   margin-bottom: 2rem;
+}
+
+.banner-title-dark {
+  background-color: rgba(0,0,0, 0.4);
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.banner-title-light {
+  background-color: rgba(255,255,255, 0.5);
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.banner-title-white {
+  background-color: rgba(255,255,255, 1);
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.banner-text-b {
+  text-align: right;
+  font-size: 5rem;
+  text-transform: uppercase;
+  color: rgb(215,29,36);
+}
+
+.banner-text-c {
+  text-align: right;
+  font-size: 5rem;
+  text-transform: uppercase;
+  color: rgb(0,109,152);
+}
+
+.banner-text-e {
+  text-align: right;
+  font-size: 5rem;
+  text-transform: uppercase;
+  color: rgb(202,219,63);
+}
+
+.banner-text-g {
+  text-align: right;
+  font-size: 5rem;
+  text-transform: uppercase;
+  color: rgb(255,255,255);
+}
+
+.banner-text-d {
+  text-align: right;
+  font-size: 5rem;
+  text-transform: uppercase;
+  color: rgb(0,0,0);
 }
 
 .img-banner {
@@ -33,6 +182,8 @@
 
 .horaires {
   margin-top: 1rem;
+  padding-right: 2rem;
+  display: block;
   text-align: left;
   font-weight: 600;
   color: rgb(0,109,152);
@@ -46,16 +197,35 @@
 
 .description-top {
   text-align: center;
-  margin: 4rem;
+  padding: 4rem;
 }
 
-.description{
-  color: rgb(0,109,152);
-  margin: 3rem;
+.description {
+  text-align: center;
+  padding: 3rem;
+}
+
+.description-deroule {
+  padding-left: 5rem;
+  padding-right: 5rem;
+}
+
+.condition-tarifs {
+  text-align: center;
+  font-style: italic;
+  color: gray;
+}
+
+.cours-title {
+  text-align: right;
+  text-decoration: uppercase;
+  font-size: 6rem;
+  font-weight: bold;
+  font-family: sans-serif;
 }
 
 
-.nos-tarifs{
+.nos-tarifs {
   color: rgb(202,219,63);
   font-variant: small-caps;
 }
@@ -78,13 +248,58 @@
   color: rgb(0,109,152);
 }
 
+.col-centered {
+    float: none;
+    margin: 0 auto;
+}
+
+.card {
+  margin: 1rem;
+}
+
+.button-inscription {
+  margin-top: 3rem;
+}
+
+/* Danse classique */
+
+.classique {
+  padding: 4rem;
+}
+
+.classique-prepa {
+
+}
+
+
+/* Partenaires */
+
+.partenaires h2 {
+  font-weight: 600;
+  border-bottom: 1px solid silver;
+  margin: 1rem;
+  text-align: center;
+  color: gray;
+}
+
+.partenaires-highlight {
+  font-weight: 300;
+  margin: 4rem;
+  margin-top: 2rem;
+  font-size: 1.2rem;
+  line-height: 2.5;
+}
+
 .partenaires {
   text-align: center;
   margin: 4rem;
   font-weight: bold;
 }
 
-/*/mise en forme description cours/*/
+.part {
+  margin-top: 2rem;
+}
+/*mise en forme description cours*/
 
 .condition {
   text-align: right;
@@ -96,14 +311,15 @@
   font-weight: bold;
 }
 
- /*/Résultats compétition/*/
+
+ /*Résultats compétition*/
 .jour {
   text-align: center;
   font-weight: lighter;
   font-size: small;
 }
 
-.lieu{
+.lieu {
   text-align: center;
 }
 
@@ -112,7 +328,7 @@
   color: rgb(0,109,152);
 }
 
-/*/Inscription/*/
+/*Inscription*/
 .lien-doc {
   font-weight: bold;
   color: rgb(0,109,152);
@@ -121,3 +337,334 @@
 .container-inscription {
   margin: 4rem;
 }
+
+/* Accueil */
+
+.accueil {
+  background-color: RGBa(0,109,152,0.8);
+  padding-bottom: 2rem;
+}
+
+.c-accueil p {
+  text-align: right;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1rem;
+  text-shadow: 0px 0px 7px black;
+}
+
+.c-accueil h1 {
+  font-size: 4rem;
+  text-shadow: 1px -1px 3px black;
+}
+
+.c-accueil h2 {
+  font-size: 1.5rem;
+  margin-left: 3rem;
+  text-shadow: 0px 0px 3px black;
+}
+
+.logo-accueil {
+  margin-bottom: 2rem;
+}
+
+.c-accueil-p {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.accueil-caption {
+  width: 90%;
+  position: absolute;
+  right: 0;
+  left: 3rem;
+  bottom: -1.5rem;
+  top: 5rem;
+  color: white;
+}
+
+.accueil-caption-p {
+  width: 97%;
+  position: absolute;
+  bottom: 12rem;
+  color: white;
+}
+
+.accueil-slogan {
+   color: rgb(0,109,152);
+   text-align: center;
+   padding-top: 6rem;
+}
+
+.accueil-slogan h3 {
+  font-weight: 400;
+  color: black;
+  font-size: 1.7rem;
+}
+
+.accueil-logo {
+  text-align: center;
+  padding-top: 3rem;
+}
+
+.accueil-title-right {
+  border-top: 1px solid rgb(202,219,63);
+}
+
+.accueil-activités {
+  padding: 3rem;
+}
+
+.accueil-nous h3 {
+  text-align: center;
+  padding: 3rem;
+  color: rgb(0,109,152)
+}
+
+.accueil-title {
+  text-align: center;
+  text-transform: uppercase;
+  padding: 1rem;
+}
+
+.accueil-title-blue {
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 1rem;
+}
+
+.carousel-caption {
+  width: 90%;
+  position: absolute;
+  right: 0;
+  left: 0;
+  bottom: -1.5rem;
+}
+
+.presidente {
+  font-weight: 300;
+  font-size: 1rem;
+  text-align: left;
+  margin-bottom: 0.5rem;
+}
+
+.presidente-s {
+  font-weight: 400;
+  font-size: 1rem;
+  text-align: left;
+  padding-left: 3rem;
+}
+
+.container-accueil {
+  padding: 1rem 3rem;
+}
+
+.partenaire-bottom {
+border-top: 0.5px solid grey;
+}
+
+.card-accueil {
+  height: 500px
+}
+
+.lien-accueil {
+  font-style: italic;
+  font-weight: 300;
+}
+
+.date-actu-accueil {
+  padding: 0 1rem;
+  margin: 0;
+  font-size: small;
+  color: silver;
+  text-align: right;
+}
+
+/* Actualité */
+
+.article {
+  padding: 0.5rem
+}
+
+.article-lien {
+  text-decoration: underline;
+  text-align: right;
+  color: rgb(0,109,152);
+
+}
+
+.article-single {
+ padding-top: 3rem;
+ padding-bottom: 3rem;
+}
+
+.article-date {
+  font-size: small;
+  border-bottom: 1px solid silver;
+  color: silver;
+  margin-bottom: 5px;
+}
+
+.article-photo {
+  width: 70%;
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+  padding: 0.5rem;
+}
+
+.actu {
+  padding-bottom: 3rem;
+}
+/* Protraits */
+
+.portraits-accueil {
+  padding: 1rem
+}
+
+.portrait h2 {
+  font-weight: 300;
+  border-bottom: 1px solid rgb(202,219,63);
+  margin: 1rem;
+}
+
+.portrait h3 {
+  font-weight: 200;
+  font-size: 1.5rem;
+  margin: 1rem;
+  text-align: center;
+}
+
+.portraits {
+  padding: 2rem;
+}
+
+.img-portait {
+  display: block;
+  margin-bottom: 1rem;
+  width: 200px;
+
+}
+/* historique */
+
+.conclusion {
+  font-weight: 320;
+  padding: 2rem;
+}
+
+.affiches {
+  padding: 3rem;
+}
+
+.description-historique {
+    text-align: center;
+    padding-left: 4rem;
+    padding-right: 4rem;
+    padding-top: 3rem;
+}
+
+.logo-historique {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+/* Encadrement */
+
+.encadrement {
+  text-align: center;
+}
+
+.enca {
+  padding: 2.5rem 5rem;
+}
+
+.img-enca {
+  width: 130px;
+  margin-bottom: 1rem;
+}
+.enom {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 0;
+}
+
+.efonc {
+  font-weight: 300;
+  margin-bottom: 0;
+}
+
+.edip {
+  font-weight: 300;
+  font-style: italic;
+  margin-bottom: 0;
+}
+
+.eent {
+  font-size: small;
+  color: rgb(0,109,152);
+  padding-top: 0.3rem;
+  padding-bottom: 2rem;
+}
+
+.admin {
+  padding-left: 6rem;
+  margin-top: 1rem;
+  padding-right: 3rem;
+}
+
+.admin-fonc {
+  text-transform: uppercase;
+  color: rgb(0,109,152);
+  font-weight: 500;
+}
+
+.admin-nom {
+  font-weight: 300;
+}
+
+.admin-glob {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+/* Secteur compétition */
+
+.btn-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.competition {
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+.competition-titre {
+  font-size: 1.1rem;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+
+.competition-lieu {
+  font-weight: 400;
+  margin-bottom: 0;
+}
+
+.competition-jour {
+  font-weight: 300;
+  margin-bottom: 0;
+}
+
+.competition-lien {
+  margin-bottom: 0;
+
+}
+
+/* Qui sommes nous */
+
+.qui {
+  padding: 3rem 2rem;
+}
+
+
+/* Nos projets */

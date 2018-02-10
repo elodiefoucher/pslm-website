@@ -1,0 +1,32 @@
+{{ define "main" }}
+<img class="img-banner" src="/img/banner-pslm-2.png" alt="{{.Title}}">
+<section class="container cours-home">
+<h1 class="text-center text-uppercase display-4">Inscription</h1>
+<hr>
+<div class="description-top">
+<p class="lead">{{ .Description | markdownify }}</p>
+</div>
+<div class="row justify-content-md-center">
+  <div class="col col-lg-1">
+  </div>
+  <div class="col col-lg-10">
+  <p class="text-right font-italic">{{ .Content | markdownify }}</p>
+  </div>
+  <div class="col col-lg-1">
+  </div>
+</div>
+
+<div class="row">
+<h3>Documents d'inscription à télécharger</h3>
+<div class="row">
+   {{ range .Params.documents }}
+<div class="text-center">
+<div class="col-lg-6 col-md-6 col-sm-12">
+  <a href="{{ .lien }}" target="_blank"><img src="{{ .photo }}" alt="{{ .Title }}" class="rounded-circle"></a>
+  <p>{{ .nom }}</p>
+</div>
+</div>
+{{ end }}
+</div>
+</section>
+{{ end }}

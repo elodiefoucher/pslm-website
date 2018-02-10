@@ -10,8 +10,8 @@ tarifs:
  - public: "Modern Jazz Ado"
    prix: "240 € (+ 15 euros d'adhésion)"
  - public: "Modern Jazz Adulte"
-   prix: "240 € (+ 15 euros d'adhésion"
-horaires:
+   prix: "240 € (+ 15 euros d'adhésion)"
+horaires4:
  - cours: "Débutants"
    age: "8-10 ans"
    jour: "Samedi"
@@ -25,8 +25,8 @@ horaires:
    jour: "Samedi"
    heures: "12h30 - 14h"
  - cours: "Adultes"
-   age: ""
-   jour: "jour à définir"
+   age: "18 ans et +"
+   jour: "jour et"
    heures: "horaire à définir"
 weight: 3
 ---

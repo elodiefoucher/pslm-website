@@ -4,7 +4,7 @@ slug: hip-hop
 tarifs:
  - public: "Hip-Hop"
    prix: "215 € (+ 15 euros d'adhésion)"
-horaires:
+horaires2:
  - cours: "Hip-Hop"
    age: "Enfants 9-10 ans"
    jour: "jeudi"

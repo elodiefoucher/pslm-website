@@ -1,0 +1,39 @@
+{{ define "main" }}
+<section>
+<div class="carousel-inner">
+  <div class="carousel-item active">
+    <img class="d-block w-100" src="/img/banner-qui-sommes-nous.png" alt="First slide">
+    <div class="carousel-caption d-none d-md-block">
+  <h1 class="banner-text-d"><span class="banner-title-light">le pslm</span></h1>
+</div>
+</section>
+<section class="container cours-home">
+  <div class="description-top">
+  <p class="lead">{{ .Description | markdownify }}</p>
+  </div>
+</section>
+
+  <section>
+  <ul class="nav nav-tabs justify-content-center" id="myTab" role="tablist">
+    {{ range .Data.Pages }}
+    <li class="nav-item">
+      <a class="nav-link {{ if eq .Weight 1 }}active{{end}}" id="{{.Params.slug}}-tab" data-toggle="tab" href="#{{.Params.slug}}" role="tab" aria-controls="{{.Params.slug }}" aria-selected="{{if eq .Weight 1}}true{{ else}}false{{end}}" >{{ .Title }}</a>
+    </li>
+    {{ end }}
+    </ul>
+  </section>
+
+ <section class="container qui">
+    <div class="tab-content" id="myTabContent">
+      {{ range .Data.Pages }}
+      <div class="tab-pane fade {{ if eq .Weight 1 }}show active{{end}}" id="{{.Params.slug}}" role="tabpanel" aria-labelledby="{{.Params.slug}}-tab">
+       <div class="description-deroule">
+        <div class="content">{{ .Content | markdownify}}</div>
+       </div>
+      </div>
+      {{end}}
+    </div>
+  </section>
+
+
+{{ end }}

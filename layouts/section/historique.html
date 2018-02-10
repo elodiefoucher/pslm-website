@@ -1,0 +1,42 @@
+{{ define "main" }}
+<section>
+<div class="carousel-inner">
+  <div class="carousel-item active">
+    <img class="d-block w-100" src="/img/banner-historique.png" alt="First slide">
+    <div class="carousel-caption d-none d-md-block">
+  <h1 class="banner-text-d"><span class="banner-title-white">Notre histoire</span></h1>
+</div>
+</div>
+</div>
+</section>
+
+<section class="container cours-home">
+  <div class="description-historique">
+  <p class="lead">{{ .Params.Description2 | markdownify }}</p>
+  </div>
+  <div class="description-historique">
+  <p class="lead">{{ .Description | markdownify }}</p>
+  </div>
+  <div class="logo-historique">
+  <div class="col">
+    {{ range .Params.galerie }}
+    <img src="{{ .logo }}" alt="{{ .Title }}" width="200">
+    {{ end }}
+  </div>
+</div>
+  <div class="description-deroule">
+    <div class="content">{{ .Content | markdownify}}</div>
+
+<p class="conclusion">{{ .Params.conclusion | markdownify }}</p>
+  </div>
+</section>
+
+<section class="affiches">
+  <img src="/img/historique-affiches.png" alt="Affiches" width="100%">
+
+    </div>
+
+  </div>
+</section>
+
+{{ end }}

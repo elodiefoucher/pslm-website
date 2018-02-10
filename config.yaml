@@ -1,0 +1,8 @@
+baseURL: "http://example.org/"
+languageCode: "en-us"
+title: "PSLMontchat"
+params:
+  email: "pslmontchat@outlook.fr"
+  adresse: "33 Rue Jeanne d'Arc, 69003 Lyon"
+  info: "Informations toutes sections : **09 67 49 69 40**<br>*Les soirs à partir de 17h et le mercredi toute la journée.*<hr>
+Informations spécifiques secteur compétition UNIQUEMENT, appeler au 06 87 43 09 04"

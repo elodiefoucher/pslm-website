@@ -1,32 +1,38 @@
 {{ define "main" }}
-<img class="img-banner" src="/img/banner-pslm.png" alt="{{.Title}}">
-<section class="container cours-home">
-<h1 class="text-center text-uppercase display-4">Inscription</h1>
-<hr>
+<section>
+<div class="carousel-inner">
+  <div class="carousel-item active">
+  <img class="img-banner" src="/img/banner-inscription.png" alt="{{.Title}}">
+    <div class="carousel-caption d-none d-md-block">
+  <h1 class="banner-text-d"><span class="banner-title-light">inscription</span></h1>
+    </div>
+   </div>
+</div>
+</section>
+<section>
 <div class="description-top">
 <p class="lead">{{ .Description | markdownify }}</p>
 </div>
-<div class="row justify-content-md-center">
-  <div class="col col-lg-1">
-  </div>
-  <div class="col col-lg-10">
+  <div class="description-deroule">
   <p class="text-right font-italic">{{ .Content | markdownify }}</p>
   </div>
-  <div class="col col-lg-1">
-  </div>
-</div>
+</section>
+
+<section class="container">
+  <h2 class="text-center">Documents d'inscription à télécharger</h2>
+    <div class="container-inscription">
+
 
 <div class="row">
-<h3>Documents d'inscription à télécharger</h3>
-<div class="row">
    {{ range .Params.documents }}
-<div class="text-center">
-<div class="col-lg-6 col-md-6 col-sm-12">
-  <a href="{{ .lien }}" target="_blank"><img src="{{ .photo }}" alt="{{ .Title }}"></a>
-  <p>{{ .nom }}</p>
-</div>
+<div class="col-lg-3 col-md-6 col-sm-12">
+  <a href="{{ .lien }}" target="_blank"><img src="{{ .photo }}" alt="{{ .Title }}" class="img-home mx-auto rounded-circle"></a>
+  <p class="text-center">{{ .nom }}</p>
 </div>
 {{ end }}
 </div>
+</div>
 </section>
+
+
 {{ end }}

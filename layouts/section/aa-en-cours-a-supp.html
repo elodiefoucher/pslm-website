@@ -1,0 +1,64 @@
+<!-- Accueil-->
+<section>
+  <div class="row">
+  <div class="col-lg-7 col-md-7 col-sm-12">
+      <h2 class="accueil-title">Nos activités</h2>
+  </div>
+  <div class="col-lg-7 col-md-7 col-sm-12">
+  </div>
+</div>
+  <div class="container-accueil">
+    <div class="accueil-activités">
+      <div class="row">
+          {{ range .Params.Domaines }}
+        <div class="col s12 m4">
+          <div class="container">
+          <div>
+           <img class="mx-auto img-home" width="130px" src="{{ .img }}" alt="Image {{ .title }}">
+        <a href="{{ .lien }}"><h3 class="text-center">{{ .title }}</h3></a>
+            <p class="text-center"></p>
+          </div>
+        </div>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+
+
+
+      <img class="d-block w-100" src="/img/banner-accueil.png" alt="PSLM">
+<div class="c-accueil">
+      <div class="accueil-caption d-none d-md-block">
+    <h1>PSLMontchat</h1>
+    <h2>Enfant/Juniors/Adultes</h2>
+      </div>
+  <div class="accueil-caption-p d-none d-md-block">
+    <p><a href="/baby-gym">Baby Gym</a></p>
+    <p><a href="/ecole-de-gym">Ecole de Gym</a></p>
+    <p><a href="/competition">Gym compétition</a></p>
+    <p><a href="/gym-fit">Gym Fit Adultes</a></p>
+    <p><a href="/danse">Danse</a></p>
+  </div>
+</div>
+  </div>
+    </div>
+
+
+    <section class="accueil-slogan-c">
+        <div class="row">
+        <div class="col-lg-3 col-md-3 col-sm-12">
+          <div class="accueil-logo">
+          <img src="/img/logo-pslm.png" alt="PSLM" width="200px">
+        </div>
+      </div>
+        <div class="col-lg-9 col-md-9 col-sm-12">
+            <div class="accueil-slogan">
+        <h2>Club de quartier historique à l'esprit familial</h2>
+        <h3>Une pratique sportive pour tous, du loisir à la performance</h3>
+      </div>
+    </div>
+    </div>
+    </section>

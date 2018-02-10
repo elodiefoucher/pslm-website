@@ -11,14 +11,17 @@ weight: 3
 
 ## Déroulement des séances :
 
-### L'accueil et la mise en situation<br>
+### L'accueil et la mise en situation
 Ce moment est très important pour l'enfant et la personne qui l'accompagne. Par des déplacements sous formes ludiques l'enfant se canalise et entre dans la séance en confiance. Cette prise en main rassure le petit enfant qui évolue parmi d'autres.
 
-### Le parcours gymnique<br>
+### Le parcours gymnique
 C'est sans doute la partie la plus riche et la plus dense sur le plan moteur.<br>
  Les situations sont très variées et deux principes sont suivis: <br>
+
  * Toujours laisser l'enfant découvrir<br>
  * Le guider ensuite pour lui faire exécuter le mouvement demandé.<br>
+
+ 
 Durant ce parcours différentes actions corporelles sont sollicitées : tourner, se suspendre, glisser, se balancer, courir, marcher en équilibre , ramper, rouler, se hisser.
 
 ### La phase de créativité et de jeux<br>

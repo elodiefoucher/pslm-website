@@ -1,10 +1,16 @@
 {{ define "main" }}
-  <img class="img-banner"src="/img/banner-ecole-de-gym.png" alt="{{.Title}}">
-<section class="container cours-home">
-  <h1 class="text-center text-uppercase display-4">Stages</h1>
-  <hr>
-  <div class="description-top">
-  <p class="lead">{{ .Description | markdownify }}</p>
-  </div>
+<section>
+<div class="carousel-inner">
+  <div class="carousel-item active">
+    <img class="img-banner"src="/img/banner-stage.png" alt="{{.Title}}">
+    <div class="carousel-caption d-none d-md-block">
+  <h1 class="banner-text-e"><span class="banner-title-dark">stage</span></h1>
+</div>
+</div>
+</div>
+<div class="description-top">
+<p class="lead">{{ .Description | markdownify }}</p>
+</div>
+</section>
 
 {{ end }}

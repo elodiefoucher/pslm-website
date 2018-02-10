@@ -1,0 +1,39 @@
+{{ define "main" }}
+<section>
+<div class="carousel-inner">
+  <div class="carousel-item active">
+    <img class="d-block w-100" src="/img/banner-presse.png" alt="First slide">
+    <div class="carousel-caption d-none d-md-block">
+  <h1 class="banner-text-d"><span class="banner-title-light">Presse</span></h1>
+</div>
+</section>
+
+<div class="container">
+        <div class="row">
+    {{ range .Params.article }}
+
+        <div class="col-lg-3 col-md-4 col-xs-6">
+          <a href="{{ .img }}" class="d-block mb-4 h-100">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+            <img class="img-thumbnail" width="300" height="300" src="{{ .img }}" alt="ff">
+          </a>
+        </div>
+
+      {{ end }}
+            </div>
+    </div>
+<section>
+  <div class="row">
+    <div class="col-lg-3 col-md-4 col-sm-12">
+  {{ range .Params.article }}
+  <div class="card">
+  <img class="card-img" src="{{ .img }}" alt="presse">
+</div>
+{{ end }}
+</div>
+</div>
+</section>
+
+{{ end }}

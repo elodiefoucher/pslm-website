@@ -1,15 +1,38 @@
 {{ define "main" }}
-<img class="img-banner" src="/img/banner-partenaires.png" alt="{{.Title}}">
-<div class="card">
-  <div class="card-header">
-    Quote
+<section>
+<div class="carousel-inner">
+  <div class="carousel-item active">
+    <img class="d-block w-100" src="/img/banner-actualite.png" alt="First slide">
+    <div class="carousel-caption d-none d-md-block">
+  <h1 class="banner-text-g"><span class="banner-title-dark">actualité</span></h1>
+</div>
+</div>
+</div>
+</section>
+
+
+<section class="container cours-home">
+  <div class="container actu">
+  <div class="description-top">
+  <p class="lead">{{ .Description | markdownify }}</p>
   </div>
-  <div class="card-body">
-    <blockquote class="blockquote mb-0">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-      <footer class="blockquote-footer">Someone famous in <cite title="Source Title">Source Title</cite></footer>
-    </blockquote>
+  {{ range .Data.Pages.ByDate.Reverse }}
+<div class="container article">
+  <div class="row">
+    <div class="col-md-4 sm-12">
+        <a href="{{ .URL }}"><img src="{{ .Params.galerieaccueil }}" alt="{{ .Title }}" width="300"></a>
+    </div>
+    <div class="col-md-7 sm-12">
+      <p class="article-date">{{ .Params.jour }}</p>
+      <a href="{{ .URL }}"><h2>{{ .Title }}</h2></a>
+      <a href="{{ .URL }}"><p>{{ .Params.accueil | markdownify }} [...]</p></a>
+      </div>
+    <div class="col-md-2 sm-0">
+    </div>
   </div>
 </div>
+{{ end }}
+</div>
+</section>
 
 {{ end }}

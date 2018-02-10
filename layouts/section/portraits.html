@@ -2,26 +2,24 @@
 
 {{ partial "banner.html" . }}
 
-<section class="container cours-home">
-  <div class="description-top">
-  <p class="lead">{{ .Description | markdownify }}</p>
-  </div>
+{{ partial "description.html" . }}
+
+<section class="container">
   <div class="portrait">
-  <h2>{{ .Params.Subtitle }}</h2>
-  <div class="container portraits">
-    <div class="row">
-    {{ range .Data.Pages }}
-    <div class="col-sm-12 col-md-4">
-      <div class="portraits-accueil">
-        <a href="{{ .URL }}"><img class="img-portait mx-auto" src="{{ .Params.accueil }}" alt="Image {{ .Title }}"></a>
-              <h3><a href="{{ .URL }}">{{ .Title }}</a></h3>
+    <h2>{{ .Params.Subtitle }}</h2>
+    <div class="container portraits">
+      <div class="row">
+        {{ range .Data.Pages }}
+        <div class="col-sm-12 col-md-4">
+          <div class="portraits-accueil">
+            <a href="{{ .URL }}"><img class="img-portait mx-auto" src="{{ .Params.accueil }}" alt="Image {{ .Title }}"></a>
+            <h3><a href="{{ .URL }}">{{ .Title }}</a></h3>
+          </div>
+        </div>
+        {{ end }}
       </div>
     </div>
-    {{ end }}
   </div>
-</div>
-</div>
 </section>
-
 
 {{ end }}

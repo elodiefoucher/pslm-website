@@ -2,10 +2,9 @@
 
 {{ partial "banner.html" . }}
 
-<section class="container cours-home">
-<div class="description-top">
-  <p class="lead">{{ .Description | markdownify }}</p>
-</div>
+{{ partial "description.html" . }}
+
+<section class="container">
 {{ range .Data.Pages }}
 {{ if isset .Params "encadrement"}}
 <div class="content">

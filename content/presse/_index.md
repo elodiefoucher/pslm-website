@@ -12,3 +12,7 @@ article:
  - date: 2013-12-01
    img: "/img/presse-13-12.jpg"       
 ---
+
+{{< load-photoswipe >}}
+
+{{< gallery dir="/img/presse/" />}}

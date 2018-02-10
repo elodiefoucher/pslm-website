@@ -37,7 +37,9 @@ a:active {
   text-decoration: none;
 }
 
-
+.icons {
+  font-size: 1.5rem;
+}
 .img-home {
   display: block;
   margin-bottom: 1rem;

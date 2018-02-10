@@ -1,4 +1,7 @@
 ---
+title: "PSLMontchat"
+subtible: "Enfant/Juniors/Adultes"
+
 domaines:
 - baby-gym:
   title: "Baby-Gym"
@@ -38,7 +41,7 @@ signature: "Audret Chapelan"
 
 presidente: "/img/encadrement-audret-chapelan.png"
 
-actualité: "Les dernières actualités"
+actualite: "Les dernières actualités"
 
 partenaire:
  - nom: Grand Lyon
@@ -59,8 +62,7 @@ partenaire:
  - nom: Office des Sport lyon
    img: /img/partenaire-osl.png
    lien: http://www.oslyon.com/
----
 
-## Patronage Scolaire Laïque de Montchat
-#### Club de quartier historique à l'esprit familial
-### Une pratique sportive pour tous, du loisir à la performance
+slogan: "Club de quartier historique à l'esprit familial"
+catchline: "Une pratique sportive pour tous, du loisir à la performance"
+---

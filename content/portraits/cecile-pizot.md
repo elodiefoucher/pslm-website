@@ -52,10 +52,10 @@ Mon agrès fort...les barres! Et pour ce qui est des points faibles ... je dirai
 Sans hésitation les barres mais j’avoue que j’aime beaucoup le sol, surtout les acrobaties.
 
 **Un petit rituel d'avant compet ?**<br>
-C’est vrai qu’on a toutes nos petites habitudes. Pour ma part, je mange toujours des pâtes avant une compèt sans oublier ma banane magique pour éviter les crampes. En fonction de l’heure de passage une petite sieste s’impose sous oublier de mettre le mode « sleep » sur la tv (Chofé Nuf Nuf Dulour 🤣). Ensuite, je me prépare et j’arrive toujours la dernière au point de rdv. 😉N’oublions pas notre petit concours de celle qui est la plus stressée avec les filles de l’équipe ☺️. Une fois arrivée en salle d’échauffement, je coupe mon tel et je me mets en mode compèt.
+C’est vrai qu’on a toutes nos petites habitudes. Pour ma part, je mange toujours des pâtes avant une compèt sans oublier ma banane magique pour éviter les crampes. En fonction de l’heure de passage une petite sieste s’impose sous oublier de mettre le mode « sleep » sur la tv ! Ensuite, je me prépare et j’arrive toujours la dernière au point de rdv. N’oublions pas notre petit concours de celle qui est la plus stressée avec les filles de l’équipe ☺️. Une fois arrivée en salle d’échauffement, je coupe mon tel et je me mets en mode compèt.
 
 **Parce qu'il n'y a pas d'âge pour s'amuser et que j'ai entendu dire que les défis sont une institution chez les Monchatoyantes ...A qui le prochain cap ou pas cap ?**<br>
-À toute l’équipe comme ça pas de jalouse! Sinon Chloé doit toujours honorer son cap de l’année dernière en réalisant mon mouvement de barres … 😜
+À toute l’équipe comme ça pas de jalouse! Sinon Chloé doit toujours honorer son cap de l’année dernière en réalisant mon mouvement de barres …
 
 **En dehors de la gym, si tu trouves un peu de temps pour te distraire quel serait ton incontournable à faire sur Lyon ?**<br>
 Il y a plein de choses à faire sur Lyon. J’aime beaucoup le parc de la tête d’or pour les pique-nique, balade, footing sans oublier les animaux.

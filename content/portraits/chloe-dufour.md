@@ -28,7 +28,7 @@ Barres - les lâchers de barres ( Ginger, retrait équi), les valses aussi puis 
 Poutre - le pivot car c'est peut-être le seul élément qui ne m'a pas fait tomber en poutre en compétition depuis un moment !!
 
 **Un élément que tu rêverais savoir faire ?**<br>
-Tenir un équi 😁
+Tenir un équi !
 
 **Tes objectifs pour la saison ?**<br>
 Prendre un Max de plaisir avec la team Montchatoyante! Et se maintenir en Top12, la boucle sera bouclée.
@@ -41,6 +41,6 @@ Notre titre en DN2, une compétition très intense ou tout le monde était très
 Une autre souvenir fort: le top12 en mars dernier. Une grande partie de Club avait fait le déplacement jusqu'à Valenciennes, juste incroyable!
 
 **Pour finir, une citation ?**<br>
-Toujours plus!! 😉
+Toujours plus!!
 
 Merci à Chloé d'avoir pris le temps de répondre à nos questions, ainsi qu'à LB-photogtaphie pour ses jolies photos.

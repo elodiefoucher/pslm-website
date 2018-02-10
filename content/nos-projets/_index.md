@@ -1,9 +1,8 @@
 ---
 title: "La salle"
-description: "Notre volonté ultime depuis 20 ans :<br>
-obtenir une nouvelle structure d’entrainement adaptée à notre activité en pleine expansion."
-
+description: "Notre volonté ultime depuis 20 ans :<br> obtenir une nouvelle structure d’entrainement adaptée à notre activité en pleine expansion."
 ---
+
 ## Nos objectifs avec une structure adaptée
 
 ### Se diversifier

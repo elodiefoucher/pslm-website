@@ -24,6 +24,11 @@
         <p class="article-lien"><a href="/actualite">Retour à l'actualité</a></p>
       </div>
     <div class="col-md-3 col-sm-12">
+  {{ range first 3 (where .Data.Pages "Section" "actualite") }}
+      <a href="{{ .URL }}"><img class="article-photo" src="{{ .photo }}" alt="{{ .Title }}" width="200"></a>
+      <p class="article-date">{{ .Params.jour }}</p>
+      <a href="{{ .URL }}"><h2 class="article-title">{{ .Title }}</h2></a>
+      {{ end }}
     </div>
   </div>
 </div>

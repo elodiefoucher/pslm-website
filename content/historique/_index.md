@@ -41,3 +41,13 @@ En 2011 est ouvert l’école de gym qui a permis d’augmenter fortement les ef
 En 2011 aussi, écriture des **nouveaux statuts** avec le dépôt en préfecture du nouveau nom : **PSLM : Patronage Scolaire et Laïque de Montchat**  
 En 2013, le PSLM fête ses 100 ans.  
 Depuis 2016, le club a fait son **entrée en Top 12**, l’élite de la gymnastique française.  
+
+{{< load-photoswipe >}}
+{{< gallery dir="/img/affiches/" width="13%" />}}
+
+
+{{< gallery >}}
+{{< figure link="/img/affiches/affiche-pslm-07-08.png" width="13%" >}}
+{{< figure link="/img/affiches/affiche-pslm-07-08.png" width="13%" >}}
+{{< figure link="/img/affiches/affiche-pslm-07-08.png" width="13%" >}}
+{{< /gallery >}}

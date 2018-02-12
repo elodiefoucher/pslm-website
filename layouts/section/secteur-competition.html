@@ -16,7 +16,10 @@
     </div>
     <div class="col col-md-3 col-sm-12">
       <p class="competition-lieu">{{ .Params.lieu }}</p>
-      <p class="competition-jour">{{ .Params.jour }}</p>
+      {{$start := time .Params.start}}
+      {{$end := time .Params.end}}
+      {{$month := $start.Month }}
+      <time class="competition-jour" datetime="{{ $start.Format "2006-01-02" | safeHTML }}">{{ $start.Day }}/{{ $end.Day }} {{ index $.Site.Data.mois (printf "%d" $start.Month) }} {{ $start.Year }}</time>
     </div>
     <div class="col col-md-3 col-sm-12">
       <a href="{{ .Params.passage }}"><p class="competition-lien">Ordre de passage</p>

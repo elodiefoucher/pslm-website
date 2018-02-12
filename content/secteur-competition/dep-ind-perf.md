@@ -2,6 +2,8 @@
 title: "Département indiv Performance"
 jour: "16/17 décembre 2017"
 date: 2017-12-16
+start: 2017-12-16
+end: 2017-12-17
 slug: "dep-ind-perf"
 lieu: "Lyon"
 passage: "/doc/inscription-ecole-de-gym.pdf"

@@ -19,15 +19,19 @@
   color: rgb(0,109,152);
 }
 
+.text-green {
+  color: rgb(172,189,33);
+}
+
+
 .text-center {
   text-align: center;
 }
 
 .text-thin h3 {
   font-weight: 500;
-  color: rgb(202,219,63);
-  font-size: 1.5rem;
-  text-shadow: 1 1 3 black;
+  color: rgb(172,189,33);
+  font-size: 1.7rem;
 }
 
 .home-banner {
@@ -60,6 +64,11 @@ a:active {
 .icons {
   font-size: 1.5rem;
 }
+
+.icon {
+  padding-top: 1rem;
+}
+
 .img-home {
   display: block;
   margin-bottom: 1rem;
@@ -389,24 +398,24 @@ h3 {
 /* Accueil */
 
 .section-blue {
-  background-color: RGBa(0,109,152,0.8);
+  background-color: RGBa(0,109,152,0.9);
   padding-bottom: 2rem;
   padding-top: 2rem;
-}
-
-.section-b {
   text-align: center;
-  padding-bottom: 2rem;
-  padding-top: 2rem;
 }
 
 .section-icon {
-  padding-top: 5rem;
+  padding-top: 3rem;
+  padding-bottom: 1rem;
 }
 
 .section {
   padding-bottom: 3rem;
   padding-top: 3rem;
+}
+
+.activites {
+  font-weight: 500;
 }
 
 .accueil-title {
@@ -459,6 +468,7 @@ h3 {
 
 .accueil-logo {
   text-align: center;
+  padding-top: 6rem;
 }
 
 .carousel-caption {
@@ -487,9 +497,6 @@ h3 {
   padding: 1rem 3rem;
 }
 
-.partenaire-bottom {
-border-top: 0.5px solid grey;
-}
 
 .card-accueil {
   height: 500px

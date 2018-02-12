@@ -18,7 +18,7 @@
         <div class="container">
           <div>
             <a href="{{ .lien }}"><img class="mx-auto img-home" src="{{ .img }}" alt="Image {{ .title }}"></a>
-            <a href="{{ .lien }}"><h3 class="text-center">{{ .title }}</h3></a>
+            <a href="{{ .lien }}"><h3 class="text-center activites">{{ .title }}</h3></a>
             <p class="text-center"></p>
           </div>
         </div>
@@ -69,7 +69,7 @@
           <div class="row">
                 {{ range .Params.icon }}
             <div class="col-lg-4 col-md-4 col-sm-12">
-              <a href="{{ .lien }}"><img src="{{ .img }}" alt="{{ .nom }}" width="90px"></a>
+              <a href="{{ .lien }}"><img src="{{ .img }}" alt="{{ .nom }}" width="90px" class="icon"></a>
               <h3><a href="{{ .lien }}">{{ .nom }}</a></h3>
             </div>
                 {{ end }}
@@ -82,7 +82,7 @@
 
 
 
-<section class="section-b blue">
+<section class="section-blue">
   <div class="container">
     <div class="row">
       <div class="col-md-3 col-sm-12">
@@ -97,7 +97,7 @@
   </div>
 </section>
 
-<section class="partenaire-bottom">
+<section>
   <div class="container">
     <div class="row">
       {{ range .Params.partenaire }}

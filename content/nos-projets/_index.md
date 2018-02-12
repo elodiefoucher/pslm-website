@@ -32,7 +32,11 @@ banner: "/img/banner-nos-projets.png"
 * Continuer à former **des gymnastes et des juges performants**  
 * **Organiser des compétitions fédérales**  
 
-#### Pour tout cela nous avons un besoin impératif de nouvelles installations. <br>Notre gymnase et salle de danse actuels ne correspondent plus aux besoins et à la réalité économique de notre association.<br> CELA RESTE UN FREIN  INDENIABLE au développement de notre association. <br>{{< load-photoswipe >}} {{< gallery gallery-position="mx-auto" dir="/img/salle/" width="10%" />}}
+#### Pour tout cela nous avons un besoin impératif de nouvelles installations. <br>Notre gymnase et salle de danse actuels ne correspondent plus aux besoins et à la réalité économique de notre association.<br> CELA RESTE UN FREIN  INDENIABLE au développement de notre association.
+
+
+{{< load-photoswipe >}} {{< gallery dir="/img/salle/" />}}
+
 
 
 ## Une infrastructure qui n'est plus adaptée :  
@@ -46,14 +50,10 @@ banner: "/img/banner-nos-projets.png"
 ### Au développement du quartier et à la demande croissante des habitants
 
 Le quartier du 3ème arrondissement manque cruellement d'équipement sportif.   
-Une étude démontre que c'est l'arrondissement qui posséde :
 
-1. **Le ratio d'équipement sportif pour 10 000 habitants le plus faible de Lyon**
+Une étude démontre que c'est l'arrondissement qui posséde les ratio sur le nombre d'équipements sportifs les plus faibles de Lyon
 
-|  |  |
-|----------------------------------------------------------------------------|-----------------------------------------------------------|
-| **Le ratio d'équipement sportif pour 10 000 habitants le plus faible de Lyon** |
-| ![/img/ratio-equip-10000.png](/img/ratio-equip-10000.png)                  | ![/img/ratio-equip-asso.png](/img/ratio-equip-asso.png)   |
+ ![/img/ratio-equip-10000.png](/img/ratio-equip-10000.png) ![/img/ratio-equip-asso.png](/img/ratio-equip-asso.png)   
 
 Dans le quartier de Montchat et le 3ème arrondissement la demande et les besoins sont réels.   
 Au PSLM nous le mesurons chaque année au moment des inscriptions.  

@@ -3,12 +3,7 @@ title: "Historique"
 description: "**LE PATRONAGE LAIQUE SCOLAIRE DE MONTCHAT**<br>
 *(1er nom officiel de la structure)*"
 description2: "Notre association née en juin 1913 est un club sportif regroupant 680 personnes âgées de 18 mois à plus de 80 ans."
-conclusion: "A travers toutes les disciplines du club, et divers évènements tels que le challenge annuel qui met en compétition tou(te)s les gymnastes de l’école de gym du club, ou la soirée finale qui clôture la saison, le PSLM continue avec le même fonctionnement et une organisation bien maîtrisée.  
-<br>
-L’association est devenue au fil des décennies, un **club formateur**, un club qui fait partie des **fleurons de la vie associative du quartier de Montchat**, où chacun peut s’épanouir quel que soit son statut, son niveau ou son origine.  
-<br>
-Les personnes y entrent comme gymnaste, puis y inscrivent leurs enfants et petits-enfants. <br>Les jeunes gymnastes deviennent aussi entraîneurs puis membre du Conseil d’Administration.  
-"
+
 galerie:
  - logo: "/img/historique-logo-3.png"
  - logo: "/img/historique-logo-2.png"
@@ -40,10 +35,15 @@ En septembre 2010, le PSLM est **affilié à la FFG** (Fédération Française d
 En 2011 est ouvert l’école de gym qui a permis d’augmenter fortement les effectifs de la section gym.  
 En 2011 aussi, écriture des **nouveaux statuts** avec le dépôt en préfecture du nouveau nom : **PSLM : Patronage Scolaire et Laïque de Montchat**  
 En 2013, le PSLM fête ses 100 ans.  
-Depuis 2016, le club a fait son **entrée en Top 12**, l’élite de la gymnastique française.  
+Depuis 2016, le club a fait son **entrée en Top 12**, l’élite de la gymnastique française.
+
+1. *A travers toutes les disciplines du club, et divers évènements tels que le challenge annuel qui met en compétition tou(te)s les gymnastes de l’école de gym du club, ou la soirée finale qui clôture la saison, le PSLM continue avec le même fonctionnement et une organisation bien maîtrisée.   
+L’association est devenue au fil des décennies, un* ***club formateur***, *un club qui fait partie des* ***fleurons de la vie associative du quartier de Montchat***, *où chacun peut s’épanouir quel que soit son statut, son niveau ou son origine.*   
+3. *Les personnes y entrent comme gymnaste, puis y inscrivent leurs enfants et petits-enfants.   
+Les jeunes gymnastes deviennent aussi entraîneurs puis membre du Conseil d’Administration.*  
 
 {{< load-photoswipe >}}
-{{< gallery dir="/img/affiches/" width="13%" />}}
+{{< gallery dir="/img/affiches/" width="10%" />}}
 
 
 {{< gallery >}}

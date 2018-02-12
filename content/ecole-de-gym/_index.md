@@ -20,6 +20,6 @@ Lors de cette mise en action vos enfants réalisent différents déplacements et
 Vos enfants approchent les bases de la gymnastique à travers des circuits gymniques. Ils développent des qualités psychomotrices comme la coordination, le cran, l'équilibre, la souplesse et le dynamisme. Ils apprennent aussi les mouvements de base de notre sport: roulade, équilibre, roue, équerre, grand écart...
 
 ### Le temps de jeu
-Souvent fait en musique: des relais, des parcours acrobatiques ludiques et variés. Un moment de détente et de jeux collectifs qui développent la rapidité, le dynamisme, la persévérance, la volonté. Autant de valeurs qui aident vos enfants à bien grandir !
-Les groupes Ecole de Gym sont des groupes de formation des jeunes gymnastes.
+Souvent fait en musique: des relais, des parcours acrobatiques ludiques et variés. Un moment de détente et de jeux collectifs qui développent la rapidité, le dynamisme, la persévérance, la volonté. Autant de valeurs qui aident vos enfants à bien grandir !  
+Les groupes Ecole de Gym sont des groupes de formation des jeunes gymnastes.  
 Selon leur âge différents créneaux horaires sont proposés.

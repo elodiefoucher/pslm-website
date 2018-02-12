@@ -5,7 +5,7 @@ encadrement:
    diplome: "BEES 2 GAF"
    fonction: "Entraineur Secteur Compétition"
    entree: "1999"
-   img: "/img/encadrement-olivier-esquerb.png"
+   img: "/img/encadrement-olivier-esquer.png"
  - nom: "Audrey LEBON"
    diplome: "DE JEPS Activités gymniques acrobatiques"
    fonction: "Secteur compétition, Ecole de Gym"

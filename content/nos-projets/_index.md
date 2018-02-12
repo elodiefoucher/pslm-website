@@ -1,5 +1,5 @@
 ---
-title: "La salle"
+title: "Nos Projets"
 description: "Notre volonté ultime depuis 20 ans :<br> obtenir une nouvelle structure d’entrainement adaptée à notre activité en pleine expansion."
 banner: "/img/banner-nos-projets.png"
 ---
@@ -32,8 +32,7 @@ banner: "/img/banner-nos-projets.png"
 * Continuer à former **des gymnastes et des juges performants**  
 * **Organiser des compétitions fédérales**  
 
-#### Pour tout cela nous avons un besoin impératif de nouvelles installations. <br>Notre gymnase et salle de danse actuels ne correspondent plus aux besoins et à la réalité économique de notre association.<br> CELA RESTE UN FREIN  INDENIABLE au développement de notre association
-
+#### Pour tout cela nous avons un besoin impératif de nouvelles installations. <br>Notre gymnase et salle de danse actuels ne correspondent plus aux besoins et à la réalité économique de notre association.<br> CELA RESTE UN FREIN  INDENIABLE au développement de notre association. <br>{{< load-photoswipe >}} {{< gallery gallery-position="mx-auto" dir="/img/salle/" width="10%" />}}
 
 
 ## Une infrastructure qui n'est plus adaptée :  
@@ -56,15 +55,16 @@ Une étude démontre que c'est l'arrondissement qui posséde :
 | **Le ratio d'équipement sportif pour 10 000 habitants le plus faible de Lyon** |
 | ![/img/ratio-equip-10000.png](/img/ratio-equip-10000.png)                  | ![/img/ratio-equip-asso.png](/img/ratio-equip-asso.png)   |
 
-Dans le quartier de Montchat et le 3ème arrondissement la demande et les besoins sont réels. Au PSLM nous le mesurons chaque année au moment des inscription.  
+Dans le quartier de Montchat et le 3ème arrondissement la demande et les besoins sont réels.   
+Au PSLM nous le mesurons chaque année au moment des inscriptions.  
 A notre niveau, les moyens publics sont en baisses et les promesses de campagne ne sont pas tenues.  
 
 **Lors de la cérémonie de notre centenaire en décembre 2013, Gérard Colomb a fait la promesse devant tous nos adhérents de la construction d'une nouvelle structure pour le PSLM.**
 
 **Le dossier de la nouvelle structure était présent dans le plan d’action lors de la campagne de Thierry Philip aux dernières élections municipales de 2014.**  
 
-Aujourd'hui, 2018, aucunes de ces promesses n'est encore amorcées à l'état de projet.
+1. Aujourd'hui, 2018, aucunes de ces promesses n'est encore amorcées à l'état de projet.
 
-Le club continue sa progression en s'adaptant toujours un peu plus.  
+**Le club continue sa progression en s'adaptant toujours un peu plus.**  
 
 1. *Le PSLM remercie la Jeune France de Villeurbanne, partenaire depuis 10 ans, et la Convention Gymnique de Lyon, partenaire depuis 2 ans, car sans leur hospitalité nous ne serions pas dans le Top 12, élite de la gymnastique française.*

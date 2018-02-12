@@ -92,18 +92,20 @@
     </div>
     {{ end }}
   </div>
+  </section>
+  {{ if isset .Params "condition" }}
 <div class="container classique">
   <div class="content">
   <p>{{ .Content }}</p>
 </div>
-<div class="col-md-2 col-centered button-inscription">
-  <a href="/inscription"><button type="button" class="btn btn-light">INSCRIPTION</button></a>
 </div>
+{{ end }}
+<div class="col-md-2 col-centered button-inscription mx-auto">
+  <a href="/inscription"><button type="button" class="btn btn-light">INSCRIPTION</button></a>
 </div>
 </div>
 {{ end }}
 </div>
-</section>
 </section>
 
 {{ end }}

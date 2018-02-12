@@ -69,8 +69,8 @@ Nous nous engageons à faire connaitre votre entreprise à travers tous nos supp
 ## Nos moyens de communication :
 
 1. Notre site web :  [**www.pslm.fr**](www.pslm.fr)  
-2. Notre page Facebook : [**Pslm Montchat**](https://www.facebook.com/profile.php?id=100011609463221)  ()
-3. Les articles de Presse   
+2. Notre page Facebook : [**Pslm Montchat**](https://www.facebook.com/profile.php?id=100011609463221)
+3. Les articles de [**Presse**](/presse)   
 4. Nos plaquettes de présentation   
-5. Nos affiches   
+5. Nos [**affiches**](/historique#affiches)   
 6. Nos différentes manifestations

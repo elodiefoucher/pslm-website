@@ -1,6 +1,6 @@
 {{ define "main" }}
 <section>
-  <img class="d-block w-100" src="/img/banner-accueilcb.png" alt="PSLM">
+  <img class="d-block w-100" src="/img/banner-accueil.png" alt="PSLM">
   <div class="c-accueil">
     <div class="accueil-caption d-none d-md-block">
       <h1>{{ .Title }}</h1>
@@ -64,29 +64,27 @@
         <h2>{{ .Params.slogan }}</h2>
         <h3>{{ .Params.catchline }}</h3>
       </div>
+      <section class="container section-icon">
+        <div class="text-thin text-center">
+          <div class="row">
+                {{ range .Params.icon }}
+            <div class="col-lg-4 col-md-4 col-sm-12">
+              <a href="{{ .lien }}"><img src="{{ .img }}" alt="{{ .nom }}" width="90px"></a>
+              <h3><a href="{{ .lien }}">{{ .nom }}</a></h3>
+            </div>
+                {{ end }}
+          </div>
+        </div>
+      </section>
     </div>
   </div>
 </section>
 
-<section class="container section">
-  <div class="text-blue text-center">
-    <div class="row">
-      <div class="col-lg-4 col-md-4 col-sm-12">
-        <h3><a href="/qui-sommes-nous">Qui sommes nous ?</a></h3>
-      </div>
-      <div class="col-lg-4 col-md-4 col-sm-12">
-        <h3><a href="/portraits">Portraits</a></h3>
-      </div>
-      <div class="col-lg-4 col-md-4 col-sm-12">
-        <h3><a href="/nos-projets">Nos projets</a></h3>
-      </div>
-    </div>
-  </div>
-</section>
 
-<section class="blue">
+
+<section class="section-b blue">
   <div class="container">
-    <div class="description-top row">
+    <div class="row">
       <div class="col-md-3 col-sm-12">
         <img src="{{ .Params.presidente }}" alt="{{ .Title }}" width="180">
       </div>

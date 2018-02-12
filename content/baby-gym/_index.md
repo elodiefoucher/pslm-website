@@ -16,17 +16,17 @@ weight: 3
 Ce moment est très important pour l'enfant et la personne qui l'accompagne. Par des déplacements sous formes ludiques l'enfant se canalise et entre dans la séance en confiance. Cette prise en main rassure le petit enfant qui évolue parmi d'autres.
 
 ### Le parcours gymnique
-C'est sans doute la partie la plus riche et la plus dense sur le plan moteur.<br>
- Les situations sont très variées et deux principes sont suivis: <br>
+C'est sans doute la partie la plus riche et la plus dense sur le plan moteur.  
+ Les situations sont très variées et deux principes sont suivis:
 
- * Toujours laisser l'enfant découvrir<br>
- * Le guider ensuite pour lui faire exécuter le mouvement demandé.<br>
+ * Toujours laisser l'enfant découvrir
+ * Le guider ensuite pour lui faire exécuter le mouvement demandé.
 
 
 Durant ce parcours différentes actions corporelles sont sollicitées : tourner, se suspendre, glisser, se balancer, courir, marcher en équilibre , ramper, rouler, se hisser.
 
-### La phase de créativité et de jeux<br>
+### La phase de créativité et de jeux
 Une histoire que l'on mime, un fond sonore, un foulard, un ballon, des anneaux ou des cerceaux et votre enfant laisse libre cours à son imagination.
 
-### Le retour au calme<br>
+### Le retour au calme
 Nécessaire après 45 minutes bien employées. On s'allonge, on se relaxe.

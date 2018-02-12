@@ -23,6 +23,13 @@
   text-align: center;
 }
 
+.text-thin h3 {
+  font-weight: 500;
+  color: rgb(202,219,63);
+  font-size: 1.5rem;
+  text-shadow: 1 1 3 black;
+}
+
 .home-banner {
   width: 100%;
   weight: auto;
@@ -266,10 +273,15 @@ h3 {
   background-color:
 }
 
+.tarifs-cont {
+  padding-top: 4rem;
+}
+
 .nos-tarifs {
   color: rgb(202,219,63);
   font-variant: small-caps;
 }
+
 .tarifs {
   text-align: left;
   font-weight: 600;
@@ -299,19 +311,14 @@ h3 {
 }
 
 .button-inscription {
-  margin-top: 3rem;
+  margin: 2rem;
 }
 
 /* Danse classique */
 
 .classique {
-  padding: 4rem;
+  padding-top: 2rem;
 }
-
-.classique-prepa {
-
-}
-
 
 /* Partenaires */
 
@@ -383,8 +390,18 @@ h3 {
 
 .section-blue {
   background-color: RGBa(0,109,152,0.8);
-  padding-bottom: 3rem;
-  padding-top: 3rem;
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+}
+
+.section-b {
+  text-align: center;
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+}
+
+.section-icon {
+  padding-top: 5rem;
 }
 
 .section {
@@ -431,7 +448,7 @@ h3 {
 .accueil-slogan {
    color: rgb(0,109,152);
    text-align: center;
-   padding-top: 6rem;
+   padding-top: 3rem;
 }
 
 .accueil-slogan h3 {
@@ -442,7 +459,6 @@ h3 {
 
 .accueil-logo {
   text-align: center;
-  padding-top: 3rem;
 }
 
 .carousel-caption {

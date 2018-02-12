@@ -65,4 +65,15 @@ partenaire:
 
 slogan: "Club de quartier historique à l'esprit familial"
 catchline: "Une pratique sportive pour tous, du loisir à la performance"
+
+icon:
+ - nom: "Qui sommes nous ?"
+   img: "/img/icon-qui-sommes-nous-g.png"
+   lien: "/qui-sommes-nous"
+ - nom: "Portraits"
+   img: "/img/icon-portraits-g.png"
+   lien: "/portraits"
+ - nom: "Nos projets"
+   img: "/img/icon-projets-g.png"
+   lien: "/nos-projets"
 ---

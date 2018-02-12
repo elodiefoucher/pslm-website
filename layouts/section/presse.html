@@ -2,6 +2,12 @@
 
 {{ partial "banner.html" . }}
 
-{{ .Content }}
+{{ partial "description.html" . }}
+
+<section class="container">
+  <div class="content">
+    {{ .Content }}
+  </div>
+</section>
 
 {{ end }}

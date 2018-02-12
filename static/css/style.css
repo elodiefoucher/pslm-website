@@ -93,7 +93,6 @@ a:active {
   font-size: 1.1rem;
   line-height: 2rem;
   display: block;
-
 }
 
 .content strong {
@@ -226,6 +225,9 @@ h3 {
   font-family: sans-serif;
 }
 
+.cours-card {
+  background-color:
+}
 
 .nos-tarifs {
   color: rgb(202,219,63);

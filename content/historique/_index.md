@@ -3,7 +3,6 @@ title: "Historique"
 description: "**LE PATRONAGE LAIQUE SCOLAIRE DE MONTCHAT**<br>
 *(1er nom officiel de la structure)*"
 description2: "Notre association née en juin 1913 est un club sportif regroupant 680 personnes âgées de 18 mois à plus de 80 ans."
-
 galerie:
  - logo: "/img/historique-logo-3.png"
  - logo: "/img/historique-logo-2.png"
@@ -44,12 +43,13 @@ L’association est devenue au fil des décennies, un* ***club formateur***, *un
 3. *Les personnes y entrent comme gymnaste, puis y inscrivent leurs enfants et petits-enfants.   
 Les jeunes gymnastes deviennent aussi entraîneurs puis membre du Conseil d’Administration.*  
 
-{{< load-photoswipe >}}
-{{< gallery dir="/img/affiches/" width="10%" />}}
-
 
 {{< gallery >}}
 {{< figure link="/img/affiches/affiche-pslm-07-08.png" width="13%" >}}
-{{< figure link="/img/affiches/affiche-pslm-07-08.png" width="13%" >}}
-{{< figure link="/img/affiches/affiche-pslm-07-08.png" width="13%" >}}
+{{< figure link="/img/affiches/affiche-pslm-08-09.png" width="13%" >}}
+{{< figure link="/img/affiches/affiche-pslm-09-10.png" width="13%" >}}
+{{< figure link="/img/affiches/affiche-pslm-10-11.png" width="13%" >}}
+{{< figure link="/img/affiches/affiche-pslm-12-13.png" width="13%" >}}
+{{< figure link="/img/affiches/affiche-pslm-13-14.png" width="13%" >}}
+{{< figure link="/img/affiches/affiche-pslm-14-15.png" width="13%" >}}
 {{< /gallery >}}

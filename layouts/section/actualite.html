@@ -13,7 +13,7 @@
         <a href="{{ .URL }}"><img src="{{ .Params.galerieaccueil }}" alt="{{ .Title }}" width="300"></a>
     </div>
     <div class="col-md-7 sm-12">
-      <p class="article-date">{{ .Params.jour }}</p>
+      <p class="article-date"> <time datetime="{{ .Date.Format "2006-01-02" | safeHTML }}">{{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</time></p>
       <a href="{{ .URL }}"><h2>{{ .Title }}</h2></a>
       <a href="{{ .URL }}"><p>{{ .Params.accueil | markdownify }} [...]</p></a>
       </div>

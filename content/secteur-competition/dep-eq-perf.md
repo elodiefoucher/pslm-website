@@ -1,9 +1,7 @@
 ---
 title: "Département équipe Performance"
 slug: "dep-eq-perf"
-jour: "27/28 janvier 2018"
-quand: 2018-01-27
-start: 2018-01-27
+date: 2018-01-27
 end: 2018-01-28
 lieu: "Francheville"
 passage: "/doc/inscription-ecole-de-gym.pdf"

@@ -6,7 +6,7 @@
 
 <section class="container">
   <div class="actu">
-  {{ range .Data.Pages.ByDate.Reverse }}
+    {{ range (.Paginate ( first 3 .Data.Pages.ByDate.Reverse)).Pages }}
 <div class="container article">
   <div class="row">
     <div class="col-md-4 sm-12">

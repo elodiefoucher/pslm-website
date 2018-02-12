@@ -1,16 +1,8 @@
 {{ define "main" }}
-<section>
-<div class="carousel-inner">
-  <div class="carousel-item active">
-    <img class="d-block w-100" src="/img/banner-historique.png" alt="First slide">
-    <div class="carousel-caption d-none d-md-block">
-  <h1 class="banner-text-d"><span class="banner-title-white">Notre histoire</span></h1>
-</div>
-</div>
-</div>
-</section>
 
-<section class="container cours-home">
+{{ partial "banner.html" . }}
+
+<section class="container historique">
   <div class="description-historique">
   <p class="lead">{{ .Params.Description2 | markdownify }}</p>
   </div>

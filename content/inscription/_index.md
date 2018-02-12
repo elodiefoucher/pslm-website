@@ -19,7 +19,7 @@ documents:
  - photo: "/img/inscription-danse.png"
    lien: "/doc/inscription-danse.pdf"
    nom: "Danse"
-
+banner: "/img/banner-inscription.png"
 ---
 
 Reprise des cours la semaine du 18 septembre.

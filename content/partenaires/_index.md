@@ -37,6 +37,7 @@ partenairetop12:
 - nom: Citron Vert
   img: /img/partenaire-citron-vert.png
   lien: http://www.citron-vert.fr/
+banner: "/img/banner-partenaires.png"
 ---
 
 

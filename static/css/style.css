@@ -1,3 +1,4 @@
+
 /*Général*/
 .green {
   background-color: rgb(202,219,63)
@@ -8,6 +9,18 @@
 
 .red {
   background-color: rgb(215,29,36)
+}
+
+.text-white {
+  color: white;
+}
+
+.text-blue {
+  color: rgb(0,109,152);
+}
+
+.text-center {
+  text-align: center;
 }
 
 .home-banner {
@@ -196,9 +209,37 @@ h3 {
   font-weight: bold;
 }
 
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+// Medium devices (tablets, 768px and up)
+
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+
 .description-top {
-  text-align: center;
+    text-align: center;
+    padding: 2rem;
+}
+
+@media (min-width: 768px) {
+  .description-top {
   padding: 4rem;
+}
+.description-deroule {
+  padding-left: 5rem;
+  padding-right: 5rem;
+}
+}
+
+@media (max-width: 576px) {
+  .content ul {
+    padding-left: 4rem;
+  }
 }
 
 .description {
@@ -206,10 +247,6 @@ h3 {
   padding: 3rem;
 }
 
-.description-deroule {
-  padding-left: 5rem;
-  padding-right: 5rem;
-}
 
 .condition-tarifs {
   text-align: center;
@@ -344,9 +381,21 @@ h3 {
 
 /* Accueil */
 
-.accueil {
+.section-blue {
   background-color: RGBa(0,109,152,0.8);
-  padding-bottom: 2rem;
+  padding-bottom: 3rem;
+  padding-top: 3rem;
+}
+
+.section {
+  padding-bottom: 3rem;
+  padding-top: 3rem;
+}
+
+.accueil-title {
+  text-align: center;
+  text-transform: uppercase;
+  padding-bottom: 1rem;
 }
 
 .c-accueil p {
@@ -354,26 +403,19 @@ h3 {
   font-size: 1.5rem;
   font-weight: 500;
   line-height: 1rem;
-  text-shadow: 0px 0px 7px black;
 }
 
 .c-accueil h1 {
   font-size: 4rem;
-  text-shadow: 1px -1px 3px black;
 }
 
 .c-accueil h2 {
   font-size: 1.5rem;
   margin-left: 3rem;
-  text-shadow: 0px 0px 3px black;
 }
 
 .logo-accueil {
   margin-bottom: 2rem;
-}
-
-.c-accueil-p {
-  background-color: rgba(0, 0, 0, 0.5);
 }
 
 .accueil-caption {
@@ -383,13 +425,6 @@ h3 {
   left: 3rem;
   bottom: -1.5rem;
   top: 5rem;
-  color: white;
-}
-
-.accueil-caption-p {
-  width: 97%;
-  position: absolute;
-  bottom: 12rem;
   color: white;
 }
 
@@ -408,33 +443,6 @@ h3 {
 .accueil-logo {
   text-align: center;
   padding-top: 3rem;
-}
-
-.accueil-title-right {
-  border-top: 1px solid rgb(202,219,63);
-}
-
-.accueil-activités {
-  padding: 3rem;
-}
-
-.accueil-nous h3 {
-  text-align: center;
-  padding: 3rem;
-  color: rgb(0,109,152)
-}
-
-.accueil-title {
-  text-align: center;
-  text-transform: uppercase;
-  padding: 1rem;
-}
-
-.accueil-title-blue {
-  color: white;
-  text-align: center;
-  text-transform: uppercase;
-  padding: 1rem;
 }
 
 .carousel-caption {
@@ -550,6 +558,18 @@ border-top: 0.5px solid grey;
 
 }
 /* historique */
+
+.historique .gallery {
+  margin: 0;
+}
+
+.gallery .box {
+    float: left;
+    position: relative;
+    /* Default: 1 tile wide */
+    width: 12%;
+    padding-bottom: 100%;
+}
 
 .conclusion {
   font-weight: 320;

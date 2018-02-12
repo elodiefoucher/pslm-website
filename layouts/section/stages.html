@@ -1,16 +1,7 @@
 {{ define "main" }}
-<section>
-<div class="carousel-inner">
-  <div class="carousel-item active">
-    <img class="img-banner"src="/img/banner-stage.png" alt="{{.Title}}">
-    <div class="carousel-caption d-none d-md-block">
-  <h1 class="banner-text-e"><span class="banner-title-dark">stage</span></h1>
-</div>
-</div>
-</div>
-<div class="description-top">
-<p class="lead">{{ .Description | markdownify }}</p>
-</div>
-</section>
+
+{{ partial "banner.html" . }}
+
+{{ partial "description.html" . }}
 
 {{ end }}

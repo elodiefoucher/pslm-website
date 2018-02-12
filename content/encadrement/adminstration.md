@@ -1,0 +1,31 @@
+---
+title: "Administrateurs du CA"
+conseil:
+ - fonction: "Présidente"
+   nom: "Audret CHAPELAN"
+ - fonction: "Vice-Présidente"
+   nom: "Myriam CAMUS"
+ - fonction: "Vice-Président"
+   nom: "Jérôme VICARD"
+ - fonction: "Présidents d'honneur"
+   nom: "Robert BATAILLY et Marc CHOURAQUI"
+ - fonction: "Trésorière"
+   nom: "Pascale VARAGNAT"
+ - fonction: "Trésoriers adjoints"
+   nom: "Jean CERUTTI, Bernadette ROZEL"
+ - fonction: "Secrétaires"
+   nom: Claude COHANA, Christine DONOVAN
+ - fonction: "Responsable Section gymnastique artistique"
+   nom: "Florence VILLAIN"
+ - fonction: "Responsable Section gymnastique adulte"
+   nom: "Nathalie SORNAY"
+ - fonction: "Responsable Section gymnastique loisirs"
+   nom: "Maryse MERY"
+ - fonction: "Responsable Section danse"
+   nom: "Joëlle CHOURAQUI"
+ - fonction: "Commission Intendance et Fêtes"
+   nom: "Christine PONCET, Hervé LENOIR,  Evelyne BOUTRAN, Christine DONOVAN, Claude COHANA"
+ - fonction: "Commission Communication"
+   nom: "Christèle MURGUE (non-membre du CA), Estelle VARAGNAT, Laetitia BASTIN "
+weight: 4
+---

@@ -1,0 +1,25 @@
+<section class="container">
+
+ <div class="row justify-content-md-center">
+   <div class="col col-lg-2">
+     <h4 class="nos-tarifs">Nos formules</h4>
+   </div>
+   <div class="col-md-auto">
+     <div class="tarifs">
+       <ul class="list-group">
+         {{ range .Params.tarifs }}
+       <li class="list-group-item">{{ .public }} - {{ .prix }}</li>
+       {{ end }}
+     </ul>
+     </div>
+   </div>
+   <div class="col col-lg-2">
+   </div>
+ </div>
+ {{ if isset .Params "condition" }}
+   <p class="condition-tarifs">{{ .Params.condition | markdownify }}</p>
+   {{ end }}
+   <div class="col-md-2 col-centered button-inscription">
+     <a href="/inscription"><button type="button" class="btn btn-light">INSCRIPTION</button></a>
+   </div>
+</section>

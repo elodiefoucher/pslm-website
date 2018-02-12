@@ -1,8 +1,10 @@
-<section>
-<div class="carousel-inner">
-  <div class="carousel-item active">
-    <img class="d-block w-100" src="{{.Params.banner}}" alt="First slide">
-    <div class="carousel-caption d-none d-md-block">
-  <h1 class="banner-text-b"><span class="banner-title-light">{{.Title}}</span></h1>
-</div>
+<section class="banner">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="{{.Params.banner}}" alt="First slide">
+      <div class="carousel-caption d-none d-md-block">
+        <h1 class="{{.Params.color}}"><span class="{{.Params.background}}">{{.Title}}</span></h1></span>
+      </div>
+    </div>
+  </div>
 </section>

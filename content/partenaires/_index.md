@@ -38,6 +38,8 @@ partenairetop12:
   img: /img/partenaire-citron-vert.png
   lien: http://www.citron-vert.fr/
 banner: "/img/banner-partenaires.png"
+color: "text-black"
+background: "banner-light"
 ---
 
 

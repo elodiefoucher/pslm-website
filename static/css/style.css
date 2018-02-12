@@ -11,12 +11,24 @@
   background-color: rgb(215,29,36)
 }
 
-.text-white {
-  color: white;
+.text-red {
+  color: rgb(215,29,36);
 }
 
-.text-blue {
+.text-blue{
   color: rgb(0,109,152);
+}
+
+.text-green {
+  color: rgb(202,219,63);
+}
+
+.text-white {
+  color: rgb(255,255,255);
+}
+
+.text-black {
+  color: rgb(0,0,0);
 }
 
 .text-center {
@@ -133,6 +145,35 @@ h3 {
   font-weight: 400;
 }
 
+/*banner*/
+
+.banner h1 {
+  font-size: 5rem;
+  text-transform: uppercase;
+  text-align: right;
+}
+.banner-dark {
+  background-color: rgba(0,0,0, 0.4);
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.banner-light {
+  background-color: rgba(255,255,255, 0.5);
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.banner-white {
+  background-color: rgba(255,255,255, 1);
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.img-banner {
+  width: 100%;
+}
+
 
 /*cours*/
 
@@ -142,63 +183,6 @@ h3 {
 
 .cours-home .card {
   margin-bottom: 2rem;
-}
-
-.banner-title-dark {
-  background-color: rgba(0,0,0, 0.4);
-  padding-left: 2rem;
-  padding-right: 2rem;
-}
-
-.banner-title-light {
-  background-color: rgba(255,255,255, 0.5);
-  padding-left: 2rem;
-  padding-right: 2rem;
-}
-
-.banner-title-white {
-  background-color: rgba(255,255,255, 1);
-  padding-left: 2rem;
-  padding-right: 2rem;
-}
-
-.banner-text-b {
-  text-align: right;
-  font-size: 5rem;
-  text-transform: uppercase;
-  color: rgb(215,29,36);
-}
-
-.banner-text-c {
-  text-align: right;
-  font-size: 5rem;
-  text-transform: uppercase;
-  color: rgb(0,109,152);
-}
-
-.banner-text-e {
-  text-align: right;
-  font-size: 5rem;
-  text-transform: uppercase;
-  color: rgb(202,219,63);
-}
-
-.banner-text-g {
-  text-align: right;
-  font-size: 5rem;
-  text-transform: uppercase;
-  color: rgb(255,255,255);
-}
-
-.banner-text-d {
-  text-align: right;
-  font-size: 5rem;
-  text-transform: uppercase;
-  color: rgb(0,0,0);
-}
-
-.img-banner {
-  width: 100%;
 }
 
 .horaires {

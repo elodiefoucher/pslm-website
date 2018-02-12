@@ -13,6 +13,8 @@ article:
    img: "/img/presse-13-12.jpg"
 banner: "/img/banner-presse.png"    
 description: "Résultats en compétition, gala de danse, manifestations internes,<br> régulièrement le PSLM est cité dans la presse locale et sur internet."  
+color: "text-black"
+background: "banner-light"
 ---
 ### Presse Web
 

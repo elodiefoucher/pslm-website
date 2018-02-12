@@ -7,6 +7,8 @@ tarifs:
  - public: mixte
    prix: 205 €
 banner: "/img/banner-baby-gym.png"
+color: "text-red"
+background: banner-light
 weight: 3
 ---
 

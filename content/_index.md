@@ -1,7 +1,6 @@
 ---
 title: "PSLMontchat"
 subtitle: "Enfant/Juniors/Adultes"
-
 domaines:
 - baby-gym:
   title: "Baby-Gym"
@@ -76,4 +75,6 @@ icon:
  - nom: "Nos projets"
    img: "/img/icon-projets-g.png"
    lien: "/nos-projets"
+color: "text-green"
+background: "banner-dark"
 ---

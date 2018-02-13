@@ -1,5 +1,5 @@
 ---
-title: "Historique"
+title: "Notre histoire"
 description: "**LE PATRONAGE LAIQUE SCOLAIRE DE MONTCHAT**<br>
 *(1er nom officiel de la structure)*"
 description2: "Notre association née en juin 1913 est un club sportif regroupant 680 personnes âgées de 18 mois à plus de 80 ans."

@@ -1,7 +1,7 @@
 ---
 title: "Danse Classique"
 slug: danse-classique
-description: Jouer, danser au rythme de la musique, c'est l'apprentissage des premiers pas d'un petit rat. <br>Pas à pas, entre plié et temps lié, la technique classique et la grâce se développeront et nous ferons rêver. <br>Puis viendra le temps de se hisser sur la pointe des pieds et d'enchainer pirouettes et sauts de chat.
+description: "Jouer, danser au rythme de la musique, c'est l'apprentissage des premiers pas d'un petit rat. <br>Pas à pas, entre plié et temps lié, la technique classique et la grâce se développeront et nous ferons rêver. <br>Puis viendra le temps de se hisser sur la pointe des pieds et d'enchainer pirouettes et sauts de chat."
 tarifs:
  - public: "1 cours par semaine"
    prix: "220 €"

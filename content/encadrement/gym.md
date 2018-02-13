@@ -29,7 +29,7 @@ encadrement:
  - nom: "Marie-Eve GERBOUD"
    diplome: "lala"
    fonction: "Ecole de Gym"
-   entree: "2002"
+   entree: ""
    img: "/img/inscription-ecole-de-gym.png"
  - nom: "Laurence BLEUSE"
    diplome: "Bénévole"

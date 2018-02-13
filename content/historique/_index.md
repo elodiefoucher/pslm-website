@@ -42,14 +42,3 @@ Depuis 2016, le club a fait son **entrée en Top 12**, l’élite de la gymnasti
 L’association est devenue au fil des décennies, un* ***club formateur***, *un club qui fait partie des* ***fleurons de la vie associative du quartier de Montchat***, *où chacun peut s’épanouir quel que soit son statut, son niveau ou son origine.*   
 3. *Les personnes y entrent comme gymnaste, puis y inscrivent leurs enfants et petits-enfants.   
 Les jeunes gymnastes deviennent aussi entraîneurs puis membre du Conseil d’Administration.*  
-
-
-{{< gallery >}}
-{{< figure link="/img/affiches/affiche-pslm-07-08.png" width="13%" >}}
-{{< figure link="/img/affiches/affiche-pslm-08-09.png" width="13%" >}}
-{{< figure link="/img/affiches/affiche-pslm-09-10.png" width="13%" >}}
-{{< figure link="/img/affiches/affiche-pslm-10-11.png" width="13%" >}}
-{{< figure link="/img/affiches/affiche-pslm-12-13.png" width="13%" >}}
-{{< figure link="/img/affiches/affiche-pslm-13-14.png" width="13%" >}}
-{{< figure link="/img/affiches/affiche-pslm-14-15.png" width="13%" >}}
-{{< /gallery >}}

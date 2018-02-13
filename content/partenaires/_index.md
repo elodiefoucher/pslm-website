@@ -37,9 +37,12 @@ partenairetop12:
 - nom: Citron Vert
   img: /img/partenaire-citron-vert.png
   lien: http://www.citron-vert.fr/
+- nom: Symbolik
+  img: /img/partenaire-symbolik.png
+  lien: https://www.facebook.com/symbolik.fr
 banner: "/img/banner-partenaires.png"
 color: "text-black"
-background: "banner-light"
+background: "banner-white"
 ---
 
 
@@ -66,7 +69,11 @@ Nous nous engageons à faire connaitre votre entreprise à travers tous nos supp
 * **Partenariat équipementier** : tenue pour nos gymnastes - entraineurs
 * **Partenariat évènementiel** : organisation de notre compétition Top 12 et autres manifestations
 * **Partenariat financier** : pour aider au fonctionnement du club
-* **Don financier** : mécénat (déductible des impôts)
+* **Don financier** : mécénat (déductible des impôts à hauteur de 60% pour les entreprises et 66% pour les particuliers)
+
+### Une personne à contacter
+1. **Audrey Chapelan** (Présidente) **06 77 77 77 77** -  audrey.chapelan@pslm.fr
+
 
 ## Nos moyens de communication :
 

@@ -2,12 +2,25 @@
 
 {{ partial "banner.html" . }}
 
-{{ partial "description.html" . }}
-
 <section class="container">
-  <div class="content">
-    {{ .Content }}
+  <div class="description-top">
+  <p class="lead">{{ .Description | markdownify }}</p>
   </div>
 </section>
 
+
+<section class="container">
+<div class="description-deroule">
+  <div class="content">
+    <h3>Internet</h3>
+  {{ range .Data.Pages.ByDate.Reverse }}
+  
+  <p class="journal"><time datetime="{{ .Date.Format "2006-01-02" | safeHTML }}" style="font-size: small ; font-weight: 300; font-style: italic;">{{ .Date.Day | markdownify }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</time> - <a href="{{ .Params.lien }}" target="_blank">{{ .Params.journal | markdownify }} - {{ .Title | markdownify }}</a></p>
+  {{ end }}
+    <h3>Presse</h3>
+  <p>{{ .Content }}</p>
+</div>
+</div>
+  <p class="envoi">{{ .Params.envoi | markdownify }}</p>
+</section>
 {{ end }}

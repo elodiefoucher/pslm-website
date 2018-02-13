@@ -37,23 +37,25 @@ background: "banner-light"
 #### Pour tout cela nous avons un besoin impératif de nouvelles installations. <br>Notre gymnase et salle de danse actuels ne correspondent plus aux besoins et à la réalité économique de notre association.<br> CELA RESTE UN FREIN  INDENIABLE au développement de notre association.
 
 
-{{< load-photoswipe >}} {{< gallery dir="/img/salle/" />}}
-
+![Petite salle](/img/salle-petite.png) ![Salle agrès](/img/salle-agres.png)
 
 
 ## Une infrastructure qui n'est plus adaptée :  
 
 ### A notre développement et à notre niveau de pratique
 
-**A l’accueil d’un nombre plus important d’adhérents** : des adhésions en augmentation grâce à la qualité de l’enseignement prodigué mais que nous devons limiter en raison des installations mises à disposition.  
+* **A l’accueil d’un nombre plus important d’adhérents**  
+Nous sommes passé de **341 adhérents en juin 2009 à 652 en juin 2017.**  
+Des adhésions en augmentation et un effectif presque doublé en moins de 10 ans grâce à la qualité de l’enseignement prodigué mais que nous devons limiter en raison des installations mises à disposition.  
 
-**À la pratique de haut niveau** : une infrastructure qui ne nous permet plus d’offrir à certains de nos adhérents des conditions permettant la pratique de la gymnastique au plus haut niveau. Des gymnastes qui vont s’entrainer dans des gymnases d’accueil (Jeune France de Villeurbanne (gymnase hors secteur) ; Pôle France de Lyon (gymnase masculin) )
+* **À la pratique de haut niveau**  
+Une infrastructure qui ne nous permet plus d’offrir à certains de nos adhérents des conditions permettant la pratique de la gymnastique au plus haut niveau. **Des gymnastes qui vont s’entrainer dans des gymnases d’accueil** (Jeune France de Villeurbanne (gymnase hors secteur) ; Pôle France de Lyon (gymnase masculin) )
 
 ### Au développement du quartier et à la demande croissante des habitants
 
-Le quartier du 3ème arrondissement manque cruellement d'équipement sportif.   
+1. Le quartier du 3ème arrondissement manque cruellement d'équipement sportif.   
 
-Une étude démontre que c'est l'arrondissement qui posséde les ratio sur le nombre d'équipements sportifs les plus faibles de Lyon
+Une étude démontre que c'est l'arrondissement lyonnais qui posséde les ratio sur le nombre d'équipements sportifs les plus faibles de Lyon
 
  ![/img/ratio-equip-10000.png](/img/ratio-equip-10000.png) ![/img/ratio-equip-asso.png](/img/ratio-equip-asso.png)   
 

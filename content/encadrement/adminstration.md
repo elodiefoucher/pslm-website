@@ -15,6 +15,7 @@ conseil:
    nom: "Jean CERUTTI, Bernadette ROZEL"
  - fonction: "Secrétaires"
    nom: Claude COHANA, Christine DONOVAN
+commission:
  - fonction: "Responsable Section gymnastique artistique"
    nom: "Florence VILLAIN"
  - fonction: "Responsable Section gymnastique adulte"

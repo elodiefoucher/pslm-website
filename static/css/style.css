@@ -20,7 +20,6 @@
 }
 
 .text-green {
-<<<<<<< HEAD
   color: rgb(202,219,63);
 }
 
@@ -31,11 +30,6 @@
 .text-black {
   color: rgb(0,0,0);
 }
-=======
-  color: rgb(172,189,33);
-}
-
->>>>>>> 447e218f27944bb02a23458a8b273164a7ff0b40
 
 .text-center {
   text-align: center;
@@ -108,7 +102,7 @@ a:active {
   font-size: 1.2rem;
   font-weight: 400;
   margin-top: 6rem;
-  margin-bottom: 6rem;
+  margin-bottom: 2rem;
   line-height: 2rem;
   color: rgb(215,29,36);
 }
@@ -121,7 +115,6 @@ a:active {
 .content ol {
   margin-top: 2rem;
   margin-bottom: 2rem;
-  padding-left: 6rem;
   font-size: 1.1rem;
   line-height: 2rem;
   display: block;
@@ -131,10 +124,36 @@ a:active {
 .content ul {
   margin-top: 2rem;
   margin-bottom: 2rem;
-  padding-left: 6rem;
   font-size: 1.1rem;
   line-height: 2rem;
   display: block;
+}
+
+
+@media (max-width: 576px) {
+  .content ul {
+    padding-left: 2rem;
+  }
+  .content ol {
+    padding-left: 2rem;
+  }
+  .content img {
+    width: 100%;
+  }
+}
+
+@media (min-width: 768px) {
+  .content ul {
+    padding-left: 6rem;
+  }
+  .content ol {
+    padding-left: 4rem;
+  }
+  .content img {
+    width: 45%;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
 }
 
 .content strong {
@@ -155,13 +174,73 @@ h3 {
   font-weight: 400;
 }
 
-/*banner*/
+@media (max-width: 576px) {
+.videos {
+  width: 100%;
+  height: 250px;
+}
+}
 
+@media (min-width: 768px) {
+.videos {
+  width: 60%;
+  height: 315px;
+  margin-left: 6rem;
+}
+}
+
+@media (max-width: 576px) {
+.logo-footer {
+  text-align: center;
+  padding-bottom: 1rem;
+}
+}
+
+@media (min-width: 768px) {
+  .logo-footer {
+    padding-top: 1rem;
+    padding-left: 3rem;
+}
+}
+
+/*banner*/
+@media (max-width: 576px) {
+.banner h1 {
+  font-size: 3rem;
+  text-transform: uppercase;
+  text-align: center;
+}
+}
+
+@media (min-width: 768px) {
 .banner h1 {
   font-size: 5rem;
   text-transform: uppercase;
   text-align: right;
 }
+}
+
+@media (max-width: 576px) {
+.banner-dark {
+  background-color: rgba(0,0,0, 0.4);
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+
+.banner-light {
+  background-color: rgba(255,255,255, 0.5);
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+
+.banner-white {
+  background-color: rgba(255,255,255, 1);
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+}
+
+@media (min-width: 768px) {
 .banner-dark {
   background-color: rgba(0,0,0, 0.4);
   padding-left: 2rem;
@@ -178,6 +257,7 @@ h3 {
   background-color: rgba(255,255,255, 1);
   padding-left: 2rem;
   padding-right: 2rem;
+}
 }
 
 .img-banner {
@@ -235,12 +315,6 @@ h3 {
   padding-left: 5rem;
   padding-right: 5rem;
 }
-}
-
-@media (max-width: 576px) {
-  .content ul {
-    padding-left: 4rem;
-  }
 }
 
 .description {
@@ -332,10 +406,20 @@ h3 {
   line-height: 2.5;
 }
 
+@media (max-width: 576px) {
+.partenaires {
+  text-align: center;
+  margin: 0.5rem;
+  font-weight: bold;
+}
+}
+
+@media (min-width: 768px) {
 .partenaires {
   text-align: center;
   margin: 4rem;
   font-weight: bold;
+}
 }
 
 .part {
@@ -416,19 +500,36 @@ h3 {
   line-height: 1rem;
 }
 
+@media (max-width: 576px) {
 .c-accueil h1 {
-  font-size: 4rem;
+  font-size: 2rem;
+}
 }
 
+@media (min-width: 768px) {
+.c-accueil h1 {
+ font-size: 4rem;
+}
+}
+
+@media (max-width: 576px) {
 .c-accueil h2 {
-  font-size: 1.5rem;
-  margin-left: 3rem;
+  font-size: 0.9rem;
+}
+}
+
+@media (min-width: 768px) {
+  .c-accueil h2 {
+    font-size: 1.5rem;
+    margin-left: 3rem;
+  }
 }
 
 .logo-accueil {
   margin-bottom: 2rem;
 }
 
+@media (min-width: 768px) {
 .accueil-caption {
   width: 90%;
   position: absolute;
@@ -437,6 +538,19 @@ h3 {
   bottom: -1.5rem;
   top: 5rem;
   color: white;
+}
+}
+
+@media (max-width: 576px) {
+.accueil-caption {
+  width: 100%;
+  position: absolute;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  top: 6rem;
+  color: white;
+}
 }
 
 .accueil-slogan {
@@ -456,12 +570,24 @@ h3 {
   padding-top: 6rem;
 }
 
+@media (max-width: 576px) {
+.carousel-caption {
+  width: 100%;
+  position: absolute;
+  right: 0;
+  left: 0;
+  bottom: -1.6rem;
+}
+}
+
+@media (min-width: 768px) {
 .carousel-caption {
   width: 90%;
   position: absolute;
   right: 0;
   left: 0;
   bottom: -1.5rem;
+}
 }
 
 .presidente {
@@ -563,8 +689,8 @@ h3 {
   display: block;
   margin-bottom: 1rem;
   width: 200px;
-
 }
+
 /* historique */
 
 .historique .gallery {
@@ -699,4 +825,38 @@ h3 {
 }
 
 
+/* Presse */
+
+.journal {
+  font-weight: 500;
+  padding-left: 4rem;
+}
+
+@media (max-width: 576px) {
+.journal {
+  padding-left: 0rem;
+}
+}
+
+.envoi {
+  font-weight: 300;
+  font-style: italic;
+  text-align: right;
+  padding: 3rem;
+}
+
 /* Nos projets */
+
+.savoir-plus {
+  padding: 4rem;
+}
+
+.savoir-plus h3 {
+  font-size: 1.5rem;
+  padding: 2rem;
+  font-weight: 500;
+}
+
+.savoir-plus p {
+  font-weight: 500;
+}

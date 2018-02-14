@@ -46,7 +46,7 @@ background: "banner-light"
 
 * **A l’accueil d’un nombre plus important d’adhérents**  
 Nous sommes passé de **341 adhérents en juin 2009 à 652 en juin 2017.**  
-Des adhésions en augmentation et un effectif presque doublé en moins de 10 ans grâce à la qualité de l’enseignement prodigué mais que nous devons limiter en raison des installations mises à disposition.  
+Des adhésions en augmentation et un effectif presque doublé en moins de 10 ans grâce à la qualité de l’enseignement prodigué et à la bonne ambiance qui règne, mais que nous devons limiter en raison des installations mises à disposition.  
 
 * **À la pratique de haut niveau**  
 Une infrastructure qui ne nous permet plus d’offrir à certains de nos adhérents des conditions permettant la pratique de la gymnastique au plus haut niveau. **Des gymnastes qui vont s’entrainer dans des gymnases d’accueil** (Jeune France de Villeurbanne (gymnase hors secteur) ; Pôle France de Lyon (gymnase masculin) )

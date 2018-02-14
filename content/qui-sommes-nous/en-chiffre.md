@@ -8,7 +8,7 @@ weight: 3
 
 ## 105 années d'éxistence
 1. **652** adhérents en 2018
-1. **80** l'âge du plus vieux
+1. **80** l'écart d'âge entre notre plus jeune adhérent et notre doyen.
 1. **450** le nombre d'heures de cours dispensés par semaine
 2. **52** le record du plus grand nombre d'années de bénévolat au PSLM pour une personne
 3. **3** générations d'une même famille adhérente au club
@@ -23,6 +23,7 @@ weight: 3
 6. **32** âge de la doyenne du groupe compétition
 7. **17** mètres de course d'élan pour la piste de saut (**19** en partant des toilettes)
 8. **2** titres de Championne de France DN d'affilés
+9. **2** participation au Top 12
 
 ## La Danse
 

@@ -6,11 +6,11 @@ Moment unique et inoubliable !<br>
 Vous pourrez apprécier des chorégraphies et des costumes variées ainsi que le travail effectué par les élèves durant l'année."
 tarifs:
  - public: "Modern Jazz Débutant"
-   prix: "220 € (+ 15 euros d'adhésion)"
+   prix: "235 €"
  - public: "Modern Jazz Ado"
-   prix: "240 € (+ 15 euros d'adhésion)"
+   prix: "255 €"
  - public: "Modern Jazz Adulte"
-   prix: "240 € (+ 15 euros d'adhésion)"
+   prix: "255 €"
 horaires4:
  - cours: "Débutants"
    age: "8-10 ans"

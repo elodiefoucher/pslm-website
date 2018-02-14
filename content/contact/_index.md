@@ -18,8 +18,3 @@ Informations toutes sections : **09 67 49 69 40**
 Les soirs à partir de 17h et le mercredi toute la journée.
 
 Informations spécifiques secteur compétition UNIQUEMENT, appeler au 06 87 43 09 04
-#### -
-## infos utiles
-1. **Adresse du gymnase du PSLM** : 33 rue Jeanne d'Arc, 69003 Lyon
-
-2. **Adresse du gymnase Antoinette** : 14 rue Antoinette, 69003 Lyon

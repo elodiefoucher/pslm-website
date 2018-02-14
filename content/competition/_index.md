@@ -1,5 +1,5 @@
 ---
-title: "Compétition"
+title: "Gym compétition"
 description: "La compétition permet aux enfants de montrer à leurs parents ce qu'ils ont appris au cours de la saison et de se mesurer aux autres gymnastes et aux autres clubs du département, de la région, de la zone ou encore de France selon le niveau de compétition atteint."
 thumbnail: /img/home-banner.png
 inscription:

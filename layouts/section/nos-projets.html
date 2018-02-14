@@ -17,5 +17,13 @@
       <a href="/doc/cahier-des-charges-gymnase-grand-projet-pslm.pdf" target="_blank"><p>PROGRAMME NOUVEAU COMPLEXE SPORTIF <br>Dossier Juillet 2014</p></a>
     </div>
   </div>
+  <div class="description-deroule savoir-plus">
+    {{ range .Data.Pages }}
+    <div class="content">
+      <h2>{{ .Title }}</h2>
+    </div>
+      {{ .Content }}
+      {{ end }}
+  </div>
 </section>
 {{ end }}

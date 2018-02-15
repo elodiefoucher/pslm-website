@@ -1,7 +1,7 @@
 ---
 title: "Nos Projets"
 description: "Notre volonté ultime depuis 20 ans :<br> obtenir une nouvelle structure d’entrainement adaptée à notre activité en pleine expansion."
-banner: "/img/banner-nos-projets.png"
+banner: "/img/banner-nos-projets.jpg"
 color: "text-black"
 background: "banner-light"
 ---

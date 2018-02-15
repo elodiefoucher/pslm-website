@@ -15,7 +15,7 @@ article:
 reportage:
   - nom: "Gymnastique : les féminines du PSL Montchat à l'étroit !"
     lien: "https://www.youtube.com/watch?v=pVmv8GXjBgk"
-banner: "/img/banner-presse.png"    
+banner: "/img/banner-presse.jpg"    
 description: "Résultats en compétition, gala de danse, manifestations internes,<br> régulièrement le PSLM est cité dans la presse locale et sur internet."  
 color: "text-black"
 background: "banner-light"

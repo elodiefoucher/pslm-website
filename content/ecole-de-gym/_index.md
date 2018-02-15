@@ -8,7 +8,7 @@ tarifs:
    prix: "245 €"
  - public: "Adultes & Ados"
    prix: "245 €"
-banner: "/img/banner-ecole-de-gym.png"
+banner: "/img/banner-ecole-de-gym.jpg"
 color: "text-green"
 background: "banner-dark"
 weight: 1

@@ -9,7 +9,7 @@ galerie:
  - logo: "/img/historique-logo-4.png"
  - logo: "/img/historique-logo-1.png"
  - logo: "/img/historique-logo-5.png"
-banner: "/img/banner-historique.png"
+banner: "/img/banner-historique.jpg"
 color: "text-black"
 background: "banner-white"
 ---

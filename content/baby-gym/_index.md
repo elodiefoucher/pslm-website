@@ -6,7 +6,7 @@ condition: "La Baby Gym concerne un public âgé de 18 mois à 4 ans.<br>Lors du
 tarifs:
  - public: mixte
    prix: 205 €
-banner: "/img/banner-baby-gym.png"
+banner: "/img/banner-baby-gym.jpg"
 color: "text-red"
 background: banner-light
 weight: 3

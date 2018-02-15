@@ -21,8 +21,7 @@ partenaire:
   img: /img/partenaire-osl.png
   lien: http://www.oslyon.com/
 partenairetop12:
-- nom: Entreprise Saunier
-  img: /img/partenaire-saunier.png
+
 - nom: Kaffee Berlin
   img: /img/partenaire-kaffee-berlin.png
   lien: https://www.kaffeeberlin.com/
@@ -32,14 +31,16 @@ partenairetop12:
 - nom: Montchat en Fête
   img: /img/partenaire-montchat-en-fete.png
   lien: http://montchatenfete.fr/
+- nom: Symbolik
+  img: /img/partenaire-symbolik.png
+  lien: https://www.facebook.com/symbolik.fr
 - nom: Montchat Perché
   img: /img/partenaire-montchat-perche.png
 - nom: Citron Vert
   img: /img/partenaire-citron-vert.png
   lien: http://www.citron-vert.fr/
-- nom: Symbolik
-  img: /img/partenaire-symbolik.png
-  lien: https://www.facebook.com/symbolik.fr
+- nom: Entreprise Saunier
+  img: /img/partenaire-saunier.png
 banner: "/img/banner-partenaires.png"
 color: "text-black"
 background: "banner-white"
@@ -76,10 +77,3 @@ Nous nous engageons à faire connaitre votre entreprise à travers tous nos supp
 
 
 ## Nos moyens de communication :
-
-1. Notre site web :  [**www.pslm.fr**](www.pslm.fr)  
-2. Notre page Facebook : [**Pslm Montchat**](https://www.facebook.com/profile.php?id=100011609463221)
-3. Les articles de [**Presse**](/presse)   
-4. Nos plaquettes de présentation   
-5. Nos [**affiches**](/historique#affiches)   
-6. Nos différentes manifestations

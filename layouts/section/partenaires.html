@@ -4,6 +4,22 @@
 
 {{ partial "description.html" . }}
 
+<section class="container">
+<div class="description-deroule">
+  <div class="content link-bold">
+    <p>
+      <ol>
+        <li>Notre site web :  <a href="https://www.pslm.fr" target="_blank">www.pslm.fr</a></li>
+        <li>Notre page Facebook : <a href="https://www.facebook.com/profile.php?id=100011609463221" target="_blank">Pslm Montchat</a></li>
+        <li>Les articles de <a href="/presse" target="_blank">Presse</a>
+        <li>Nos plaquettes de présentation</li>
+        <li>Nos <a href="/affiches" target="_blank">affiches</a></li>
+        <li>Nos différentes <a href="/evenements" target="_blank">manifestations</a></li>
+      </ol>
+    </p>
+  </div>
+</div>
+</section>
 
 <section>
   <div class="partenaires">
@@ -25,7 +41,7 @@
   {{ range .Params.partenairetop12 }}
   <div class="col col-lg-3 col-md-3 col-sm-6 col-centered">
       <div class="part">
-<a href="{{ .lien }}" target="_blank"><img src="{{ .img }}" width="180" alt="{{ .nom }}"></a>
+<a href="{{ .lien }}" target="_blank"><img src="{{ .img }}" width="200" alt="{{ .nom }}"></a>
 </div>
 </div>
 {{ end }}

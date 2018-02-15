@@ -10,7 +10,7 @@ tarifs:
   prix: 390 €
 condition: "Ces prix incluent la licence FFG de 40€<br>
 A partir de 4 entraînements par semaine les tarifs compétition sont à demander directement au bureau."
-banner: "/img/banner-competition.png"
+banner: "/img/banner-competition.jpg"
 color: "text-blue"
 background: "banner-light"
 weight: 2

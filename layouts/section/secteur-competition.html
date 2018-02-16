@@ -20,8 +20,8 @@
             <time class="competition-jour" datetime="{{ .Date.Format "2006-01-02" | safeHTML }}">{{ .Date.Day }}/{{ $end.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</time>
           </div>
           <div class="col col-md-3 col-sm-12">
-            <a href="{{ .Params.passage }}"><p class="competition-lien">Ordre de passage</p></a>
-            <a href="{{ .Params.convocation }}"><p class="competition-lien">Convocation</p></a>
+            <a href="{{ .Params.passage }}" target="_blank"><p class="competition-lien">Ordre de passage</p></a>
+            <a href="{{ .Params.convocation }}" target="_blank"><p class="competition-lien">Convocation</p></a>
           </div>
           <div class="col col-md-3 col-sm-12">
             <button type="button" class="btn btn-link" data-toggle="modal" data-target="#{{ .Slug }}">Résultats</button>

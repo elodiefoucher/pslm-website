@@ -112,7 +112,7 @@ commission:
    nom: "Christine PONCET, Hervé LENOIR,  Evelyne BOUTRAN, Christine DONOVAN, Claude COHANA"
  - fonction: "Commission Communication"
    nom: "Christèle MURGUE (non-membre du CA), Estelle VARAGNAT, Laetitia BASTIN "
-banner: "/img/banner-encadrement.png"
+banner: "/img/banner-encadrement.jpg"
 color: "text-black"
 background: "banner-light"
 ---

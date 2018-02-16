@@ -1,7 +1,7 @@
 ---
 title: "Forum des Associations"
 slug: "forum-des-associations"
-quand: 2018-06-06
+mois: "juin"
 description: "cjzkdlcjziol cza cjoc joc jc oz "
 weight: 5
 ---

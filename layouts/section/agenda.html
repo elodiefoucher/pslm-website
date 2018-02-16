@@ -1,0 +1,32 @@
+{{ define "main" }}
+
+{{ partial "banner.html" . }}
+
+{{ partial "description.html" . }}
+
+<section class="container">
+  <div class="description-deroule">
+    {{ range .Data.Pages.GroupByParam "mois" }}
+    <h2 class="event">h1</h2>
+<div id="accordion">
+  {{ range .Pages }}
+  <div class="card card-event">
+    <div class="card-header card-header-event" id="heading{{ .Slug }}">
+      <h5 class="mb-0">
+        <button class="btn btn-link btn-title" data-toggle="collapse" data-target="#collapse{{ .Slug }}" aria-expanded="false" aria-controls="collapse{{ .Slug }}">
+          {{ .Title }}
+        </button>
+      </h5>
+    </div>
+    <div id="collapse{{ .Slug }}" class="collapse" aria-labelledby="heading{{ .Slug }}" data-parent="#accordion">
+      <div class="card-body card-body-event">
+        {{ .Description }}
+      </div>
+    </div>
+  </div>
+  {{ end }}
+</div>
+ {{end }}
+</div>
+</section>
+{{ end }}

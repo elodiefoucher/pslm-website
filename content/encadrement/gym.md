@@ -35,7 +35,7 @@ encadrement:
    diplome: "Bénévole"
    fonction: "Ecole de Gym"
    entree: "2002"
-   img: "/img/inscription-ecole-de-gym.png"
+   img: "/img/encadrement-laurence-bleuse.jpg"
  - nom: "Flore"
    fonction: "Aide-monitrice Ecole de Gym"
    diplome: "Bénévole"

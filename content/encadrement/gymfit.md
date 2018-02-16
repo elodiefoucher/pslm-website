@@ -5,7 +5,7 @@ encadrement:
    diplome: "DEUST métiers de la forme"
    fonction: "Coach GymFit"
    entree: "2004"
-   img: "/img/inscription-ecole-de-gym.png"
+   img: "/img/encadrement-estelle-varagnat.jpg"
  - nom: "Vérane Da Costa Silva"
    diplome: "DEUST métiers de la forme"
    fonction: "Coach Gym Fit"

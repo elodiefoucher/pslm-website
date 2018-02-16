@@ -14,7 +14,7 @@ tarifs:
 conditions: "Les choix des cours sont à définir en début de saison lors des inscriptions.<br>
 Cours en salle ou en extérieur."
 banner: "/img/banner-gym-fitness.jpg"
-color: "text-white"
-background: "banner-dark"
+color: "text-black"
+background: "banner-light"
 weight: 5
 ---

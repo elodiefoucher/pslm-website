@@ -1,0 +1,13 @@
+{{ define "main"  }}
+
+{{ partial "banner.html" . }}
+
+
+<section class="container cours-home">
+<div class="description-top">
+<p class="lead">{{ .Description | markdownify }}</p>
+</div>
+</section>
+
+
+{{ end }}

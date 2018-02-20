@@ -15,6 +15,6 @@ encadrement:
    diplome: "Formation classique, jazz, claquette américaine"
    fonction: "Modern Jazz"
    entree: "2013"
-   img: "/img/inscription-ecole-de-gym.png"
+   img: "/img/encadrement-isabelle-burianne.jpg"
 weight: 3
 ---

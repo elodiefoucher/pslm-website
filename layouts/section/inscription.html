@@ -13,9 +13,12 @@
    {{ range .Params.documents }}
 <div class="col-lg-3 col-md-6 col-sm-12">
   <a href="{{ .lien }}" target="_blank"><img src="{{ .photo }}" alt="{{ .Title }}" class="img-home mx-auto rounded-circle"></a>
-  <p class="text-center">{{ .nom }}</p>
+  <h3 class="text-center activites">{{ .nom }}</h3>
 </div>
 {{ end }}
+</div>
+<div class="container-inscription">
+<p class="condition-tarifs">{{ .Params.conditions | markdownify }}</p>
 </div>
 </div>
 </section>

@@ -1,0 +1,65 @@
+{{ define "main" }}
+
+{{ partial "banner.html" . }}
+
+{{ partial "description.html" . }}
+
+
+<section>
+  <div class="container competition">
+    {{ range .Data.Pages.ByDate }}
+    <hr>
+    <div class="text-center">
+      <div class="row">
+        <div class="col col-md-3 col-sm-12">
+          <p class="competition-titre">{{ .Params.title }}
+          </div>
+          <div class="col col-md-3 col-sm-12">
+            <p class="competition-lieu">{{ .Params.lieu }}</p>
+            {{$end := time .Params.end}}
+            <time class="competition-jour" datetime="{{ .Date.Format "2006-01-02" | safeHTML }}">{{ .Date.Day }}/{{ $end.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</time>
+          </div>
+          <div class="col col-md-3 col-sm-12">
+              {{ if isset .Params "passage" }}
+            <a href="{{ .Params.passage }}" target="_blank">
+              {{ end }}
+              <p class="competition-lien">Ordre de passage</p></a>
+              {{ if isset .Params "convocation" }}
+            <a href="{{ .Params.convocation }}" target="_blank">
+              {{ end }}
+              <p class="competition-lien">Convocation</p></a>
+          </div>
+          <div class="col col-md-3 col-sm-12">
+            {{ if isset .Params "resultats" }}
+            <button type="button" class="btn btn-link" data-toggle="modal" data-target="#{{ .Slug }}">Résultats</button>
+            <div class="modal fade" id="{{ .Slug }}" tabindex="-1" role="dialog" aria-labelledby="{{ .Slug }}" aria-hidden="true">
+              <div class="modal-dialog modal-dialog-centered" role="document">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <h5 class="modal-title" id="{{ .Slug }}">Résultats {{ .Title }}</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                      <span aria-hidden="true">&times;</span>
+                    </button>
+                  </div>
+                  <div class="modal-body text-left">
+                    {{ range .Params.resultats }}
+                    <h6 class="card-title">{{ .categorie }}</h6>
+                    {{ range .athlete }}
+                    <ul class="resultats">
+                      <li>{{ .nom }} - {{ .place }} - {{ .points }} pts</li>
+                    </ul>
+                    {{ end }}
+                    {{ end }}
+                  </div>
+                </div>
+              </div>
+            </div>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+      {{ end }}
+      <hr>
+    </div>
+  </section>
+{{ end }}

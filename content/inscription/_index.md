@@ -2,7 +2,7 @@
 title: "Inscription"
 description: "Les inscriptions reprennent le 21 août.<br>
 Le bureau sera ouvert à cet effet les soirs de 17h à 19h et les mercredi de 10h à 11h30 et de 13h30 à 19h.<br>
-Les nouveaux horaires sont sur les plaquettes (rubrique tarifs 2107/2018) ainsi que sur les fiches d'inscriptions que vous trouverez ci-dessous."
+Les nouveaux horaires sont dans la rubrique Activités ainsi que sur les fiches d'inscriptions que vous trouverez ci-dessous."
 
 conditions: "Nous vous rappelons que pour valider l'inscription il nous faut impérativement le règlement.<br> Le certificat médical est obligatoire pour les activités gyms."
 
@@ -23,5 +23,3 @@ banner: "/img/banner-inscription.jpg"
 color: "text-black"
 background: "banner-light"
 ---
-
-Reprise des cours la semaine du 18 septembre.

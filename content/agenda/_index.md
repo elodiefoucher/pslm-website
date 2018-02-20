@@ -1,8 +1,7 @@
 ---
 title: "agenda"
 slug: evenements
-description: "Pour nos manifestations, nos déplacements, nos ou simplement notre fonctionnement quotidien, nous avons parfois des besoins.
-Afin d. Nous vous proposons ici de nous faire part de vos talents et/ou de ce que vous pouvez apportez au club sur un secteur spécifique."
+description: "Temps fort de la vie de l'association, les manifestations permettent aux adhérents des différentes sections et aux bénévoles de se retrouver."
 banner: "/img/banner-contact.png"
 color: text-black
 background: banner-light

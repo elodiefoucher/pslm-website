@@ -8,7 +8,7 @@ title: "Comment nous aider ?"
 
 ### Vous êtes une entreprise ?
 
-1. Dirigez vous vers notre [**Espace partenaires**](/partenaires)
+1. Dirigez vous vers notre espace [**Partenaires**](/partenaires)
 
 ### Vous êtes un particulier ?
 

@@ -2,6 +2,7 @@
 title: "Soirée Finale"
 slug: "soiree-finale"
 mois: "juin"
-Description: "bi biz ucae vui huvma hvum hvuo o hom ahoia hao vho hz hoza hfz hzo hfo hfom hfoim  a fhoz hfoz chzo chido choza hcoza hcuozd chaz :hcoimd chsd chizo chzio chudms hcuorc hjdskm qchm fhdio cj"
+date: 2017-06-01
+Description: "Moment festif qui clôture la saison et qui regroupe au gymnase Antoinette la section Gym, la section Danse la section Gym Fit. Elle permet à tous les spectateurs d’assister à un spectacle chorégraphique et musical de haute qualité."
 weight: 9
 ---

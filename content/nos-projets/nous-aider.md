@@ -4,7 +4,7 @@ title: "Comment nous aider ?"
 
 ### Vous êtes journaliste ?
 
-1. Contactez ***
+1. Contactez **Laetitia BASTIN** (Commission communication)  **06 13 59 11 06** - laetitia.bastin@gmail.com
 
 ### Vous êtes une entreprise ?
 

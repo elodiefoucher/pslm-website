@@ -1,6 +1,6 @@
 ---
 title: "PSLMontchat"
-subtitle: "Enfant/Juniors/Adultes"
+subtitle: "Enfants/Juniors/Adultes"
 domaines:
 - baby-gym:
   title: "Baby-Gym"

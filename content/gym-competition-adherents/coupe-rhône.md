@@ -25,5 +25,5 @@ resultats:
   athlete:
     - nom: "Anna"
       place: "4ème"
-      points: "Valide la Formagym 1 avec 100 pts"
+      points: "Valide la Formagym 1 avec 100"
 ---

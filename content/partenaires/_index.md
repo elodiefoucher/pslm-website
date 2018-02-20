@@ -73,7 +73,7 @@ Nous nous engageons à faire connaitre votre entreprise à travers tous nos supp
 * **Don financier** : mécénat (déductible des impôts à hauteur de 60% pour les entreprises et 66% pour les particuliers)
 
 ### Une personne à contacter
-1. **Audrey Chapelan** (Présidente) **06 77 77 77 77** -  audrey.chapelan@pslm.fr
 
+1. **Laetitia BASTIN** (Commission communication)  **06 13 59 11 06** - laetitia.bastin@gmail.com
 
 ## Nos moyens de communication :

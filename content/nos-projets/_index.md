@@ -31,6 +31,7 @@ background: "banner-light"
 ### Performer
 
 * Rester dans le **TOP 12**  
+* Développer un **accompagnement vers la pratique du haut niveau** en créant des partenariats avec des écoles du quartier (horaires aménagées, ...)
 * Continuer à former **des gymnastes et des juges performants**  
 * **Organiser des compétitions fédérales**  
 
@@ -53,7 +54,7 @@ Une infrastructure qui ne nous permet plus d’offrir à certains de nos adhére
 
 ### Au développement du quartier et à la demande croissante des habitants
 
-1. Le quartier du 3ème arrondissement manque cruellement d'équipement sportif.   
+1. Le quartier du **3ème arrondissement manque cruellement d'équipement sportif.**   
 
 Une étude démontre que c'est l'arrondissement lyonnais qui posséde les ratio sur le nombre d'équipements sportifs les plus faibles de Lyon
 
@@ -61,13 +62,14 @@ Une étude démontre que c'est l'arrondissement lyonnais qui posséde les ratio 
 
 Dans le quartier de Montchat et le 3ème arrondissement la demande et les besoins sont réels.   
 Au PSLM nous le mesurons chaque année au moment des inscriptions.  
-A notre niveau, les moyens publics sont en baisses et les promesses de campagne ne sont pas tenues.  
 
-**Lors de la cérémonie de notre centenaire en décembre 2013, Gérard Colomb a fait la promesse devant tous nos adhérents de la construction d'une nouvelle structure pour le PSLM.**
+1. A notre niveau, les moyens publics sont en baisses et les promesses de campagne ne sont pas tenues :
 
-**Le dossier de la nouvelle structure était présent dans le plan d’action lors de la campagne de Thierry Philip aux dernières élections municipales de 2014.**  
+* **Lors de la cérémonie de notre centenaire en décembre 2013, Gérard Colomb a fait la promesse devant tous nos adhérents de la construction d'une nouvelle structure pour le PSLM.**
 
-1. Aujourd'hui, 2018, aucunes de ces promesses n'est encore amorcées à l'état de projet.
+* **Le dossier de la nouvelle structure était présent dans le plan d’action lors de la campagne de Thierry Philip aux dernières élections municipales de 2014.**  
+
+##### Aujourd'hui, 2018, aucunes de ces promesses n'est encore amorcées à l'état de projet.
 
 **Le club continue sa progression en s'adaptant toujours un peu plus.**  
 

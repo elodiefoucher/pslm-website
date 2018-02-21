@@ -31,14 +31,9 @@ weight: 3
 
 1. **117** danseurs
 2. **113** filles, **4** garçons
-3. le nombre de costumes pour le gala
-4. le nombre d'élèves présentées au conservatoire en 2018
-5. le nombre de pointes par semaine
-6. le nombre d'épingles par chignons en danse classique
-7. le nombre de chutes (cascades?) par cours en Hip Hop
 
 
-## La Gym Fit
+## La Gym Fitness
 
 1. **177** adhérents en 2017/2018
 2. **10** hommes

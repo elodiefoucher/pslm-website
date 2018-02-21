@@ -40,7 +40,7 @@ encadrement:
    fonction: "Aide-monitrice Ecole de Gym"
    diplome: "Bénévole"
    entree: "2004"
-   img: "/img/inscription-ecole-de-gym.png"
+   img: "/img/encadrement-flore.jpg"
  - nom: "Laurie"
    diplome: "Bénévole"
    fonction: "Aide monitrice Ecole de Gym"

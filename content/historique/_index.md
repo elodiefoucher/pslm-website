@@ -28,15 +28,15 @@ Aujourd’hui, la clique n’existe plus, mais l’esprit familial est toujours 
 ### Années 2000 : Professionnalisation de la structure
 En 2000, les entraîneurs sont salariés.  
 De nouvelles activités en danse sont créées.  
-Chaque année, des équipes et des individuels sont sélectionnées en Finales Nationales.  
+Chaque année, des équipes et des individuelles sont sélectionnées en Finales Nationales.  
 De 2005 à 2010, des équipes et des individuelles ont remporté des titres de championnes des Finales Nationales en UFOLEP.
 ### Années 2010 : Virage vers la performance et le développement
 Depuis 2010, à chaque nouvelle saison, le PSLM constate une **croissance importante du nombre d’inscription**. A ce jour, le club compte plus de 600 inscrits et ceci depuis plusieurs années.  
-En septembre 2010, le PSLM est **affilié à la FFG** (Fédération Française de Gymnastique). Suivant l’évolution amorcée dans les années 2000, des équipes et des individuels sont sélectionnées au Championnat de France, des titres de Championne et de Vice-Championne de France ont été remportés par nos gymnastes dans cette nouvelle Fédération.  
+En septembre 2010, le PSLM est **affilié à la FFG** (Fédération Française de Gymnastique). Suivant l’évolution amorcée dans les années 2000, des équipes et des individuelles sont sélectionnées au Championnat de France, des titres de Championne et de Vice-Championne de France ont été remportés par nos gymnastes dans cette nouvelle Fédération.  
 En 2011 est ouvert l’école de gym qui a permis d’augmenter fortement les effectifs de la section gym.  
-En 2011 aussi, écriture des **nouveaux statuts** avec le dépôt en préfecture du nouveau nom : **PSLM : Patronage Scolaire et Laïque de Montchat**  
+En 2011 aussi, écriture des **nouveaux statuts** avec le dépôt en préfecture du nouveau nom : **PSLM : Patronage Scolaire et Laïque de Montchat.**  
 En 2013, le PSLM fête ses 100 ans.  
-Depuis 2016, le club a fait son **entrée en Top 12**, l’élite de la gymnastique française.
+Depuis 2016, le club a fait son **entrée dans le Top 12**, l’élite de la gymnastique française.
 
 1. *A travers toutes les disciplines du club, et divers évènements tels que le challenge annuel qui met en compétition tou(te)s les gymnastes de l’école de gym du club, ou la soirée finale qui clôture la saison, le PSLM continue avec le même fonctionnement et une organisation bien maîtrisée.   
 L’association est devenue au fil des décennies, un* ***club formateur***, *un club qui fait partie des* ***fleurons de la vie associative du quartier de Montchat***, *où chacun peut s’épanouir quel que soit son statut, son niveau ou son origine.*   

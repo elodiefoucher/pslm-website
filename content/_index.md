@@ -13,7 +13,7 @@ domaines:
   img: /img/inscription-ecole-de-gym.png
   lien: "/ecole-de-gym"
 - competition:
-  title: "Compétition"
+  title: "Gym compétition"
   description: "."
   img: /img/inscription-competition.png
   lien: "/competition"

@@ -9,7 +9,7 @@ weight: 2
 Chaque jour, nous travaillons à honorer les valeurs qui nous rassemble au travers du savoir-faire et des actions du PSLM :
 
 * **Le vivre ensemble, le respect de chacun.**
-* **Le développement chez les jeunes du sens de l’engagement, du bénévolat, de l’initiative, de la responsabilité.**
+* **Le développement chez les jeunes du sens de l’engagement, du bénévolat, de l’initiative et de la responsabilité.**
 * **La transmission des valeurs sportives : le fair play, le dépassement de soi, l’esprit d’équipe, la solidarité.**
 * **L'harmonisation du bien-être physique et social.**
 
@@ -20,7 +20,7 @@ Chaque jour, nous travaillons à honorer les valeurs qui nous rassemble au trave
 
 
 * **Proposer des activités pour tous, adaptées aux niveaux de pratique et aux attentes de chacun.**
-* **Favoriser et maintenir la bonne santé par la pratique d’activité physique variée.**
+* **Favoriser et maintenir la bonne santé par la pratique d’activités physiques variées.**
 * **Ouvrir la pratique gymnique au plus grand nombre.**
 * **Développer chez les jeunes l’envie de faire, le goût de l’effort, l’envie de se dépasser.**
 * **Permettre aux jeunes d'accomplir leurs ambitions sportives avec un enseignement de qualité.**  

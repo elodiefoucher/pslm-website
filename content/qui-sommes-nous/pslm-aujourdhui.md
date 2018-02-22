@@ -11,8 +11,8 @@ Le club dispose d’une équipe jeune et dynamique regroupant aussi **des béné
 
 
 ### Une association florissante :   
-*	**Une école de gym en pleine expansion**
-*	**Une section adulte en croissance chaque année**
+*	**Une Ecole de gym en pleine expansion**
+*	**Une section Gym fitness en croissance chaque année**
 *	**Le développement du sport santé et bien-être**
 
 

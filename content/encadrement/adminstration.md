@@ -16,13 +16,13 @@ conseil:
  - fonction: "Secrétaires"
    nom: Claude COHANA, Christine DONOVAN
 commission:
- - fonction: "Responsable Section gymnastique artistique"
+ - fonction: "Responsable Section Gymnastique Artistique"
    nom: "Florence VILLAIN"
- - fonction: "Responsable Section gymnastique adulte"
+ - fonction: "Responsable Section Gym Fitness"
    nom: "Nathalie SORNAY"
- - fonction: "Responsable Section gymnastique loisirs"
+ - fonction: "Responsable Section Ecole de Gym"
    nom: "Maryse MERY"
- - fonction: "Responsable Section danse"
+ - fonction: "Responsable Section Danse"
    nom: "Joëlle CHOURAQUI"
  - fonction: "Commission Intendance et Fêtes"
    nom: "Christine PONCET, Hervé LENOIR,  Evelyne BOUTRAN, Christine DONOVAN, Claude COHANA"

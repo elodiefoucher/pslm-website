@@ -10,7 +10,7 @@ encadrement:
    diplome: "Formation Hip Hop"
    fonction: "Hip Hop"
    entree: "2014"
-   img: "/img/inscription-ecole-de-gym.png"
+   img: "/img/encadrement-julie-katchadourian.jpg"
  - nom: "Isabelle BURIANNE"
    diplome: "Formation classique, jazz, claquette américaine"
    fonction: "Modern Jazz"

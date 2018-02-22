@@ -1,6 +1,11 @@
 ---
 title: "Coach Gym Fitness"
 encadrement:
+ - nom: "Marie-Eve GERBOUD"
+   diplome: "Licence STAPS"
+   fonction: "Coach Gym Fitness"
+   entree: "1994"
+   img: "/img/encadrement-marie-eve-gerboud.jpg"
  - nom: "Estelle VARAGNAT"
    diplome: "DEUST métiers de la forme"
    fonction: "Coach Gym Fitness"
@@ -11,10 +16,5 @@ encadrement:
    fonction: "Coach Gym Fitness"
    entree: "2017"
    img: "/img/encadrement-verane-da-costa-silva.jpg"
- - nom: "Marie-Eve GERBOUD"
-   diplome: "Licence Staps"
-   fonction: "Coach Gym Fitness"
-   entree: "1994"
-   img: "/img/encadrement-marie-eve-gerboud.jpg"
 weight: 2
 ---

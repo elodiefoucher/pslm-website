@@ -1,9 +1,7 @@
 ---
-title: "Modern Jazz"
+title: "Moderne Jazz"
 slug: modern-jazz
-description: "En fin d'année, une représentation scénique est organisée par les professeurs.<br>
-Moment unique et inoubliable !<br>
-Vous pourrez apprécier des chorégraphies et des costumes variées ainsi que le travail effectué par les élèves durant l'année."
+description: "Le moderne jazz puise un travail technique et en second un travail rythmique.<br>En moderne jazz nous avons une plus grande liberté du corps. <br>La singularité de cette danse réside dans ce mélange surprenant entre l'énergie, la décontraction et le bien-être.<br>Cette danse s'adresse a tout ceux qui souhaitent libérer leur esprit, leurs tensions et ressentir la musique."
 tarifs:
  - public: "Modern Jazz Débutant"
    prix: "235 €"

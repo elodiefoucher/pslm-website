@@ -1,7 +1,7 @@
 ---
-title: "Gym Fit"
+title: "Gym Fitness"
 banner-img: ""
-description: "La Gym Fit consiste en des cours collectifs avec un professeur diplômé.<br>
+description: "La Gym fitness consiste en des cours collectifs avec un professeur diplômé.<br>
 Le cours vont du STRETCHING jusqu'à l'AEROBIC et au STEP pour que chacun et chacune trouve ce qui lui convient le mieux."
 categories: ["cours"]
 tarifs:

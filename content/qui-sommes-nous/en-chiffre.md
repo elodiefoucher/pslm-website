@@ -5,10 +5,10 @@ weight: 3
 ---
 
 ## 105 années d'éxistence
-1. **652** adhérents en 2017-2018
+1. **639** adhérents en 2017-2018
 4. **20** administrateurs bénévoles pour assurer le fonctionnement du club
-5. **9** présidents se sont succèdé à la tête du PSLM depuis sa création
-6. **1** présidente
+5. **9** présidents se sont succèdés à la tête du PSLM depuis sa création
+6. **1** présidente (qui tient très honorablement la barre depuis 2001 !)
 6. **12** profs salariés toutes sections confondues
 1. **70** heures de cours dispensées par semaine
 2. **52** le record du plus grand nombre d'années de bénévolat au PSLM pour une personne

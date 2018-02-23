@@ -30,7 +30,9 @@ weight: 3
 
 1. **117** danseurs
 2. **4** garçons
-3. **** tableaux de danse pendant le gala
+3. **2** gala dans l'année
+3. **26** danses ou tableaux présentées lors du gala
+4. **100** costumes différents
 3. **5** bobos minimum par cours de Hip Hop en essayant des nouvelles figures
 4. **2** figures hip hop acquises ou plus par chaque élève
 

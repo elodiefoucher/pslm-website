@@ -46,10 +46,5 @@ encadrement:
    fonction: "Aide monitrice Ecole de Gym"
    entree: "2007"
    img: "/img/encadrement-laurie.jpg"
- - nom: "Jeanne"
-   diplome: "Bénévole"
-   fonction: "Aide monitrice Ecole de Gym"
-   entree: ""
-   img: "/img/encadrement-none.jpg"
 weight: 1
 ---

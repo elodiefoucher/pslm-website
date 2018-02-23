@@ -16,7 +16,7 @@
   <div class="row">
     <div class="col-md-9 col-sm-12">
       <a href="{{ .URL }}"><h2 class="article-title">{{ .Title }}</h2></a>
-        <p class="article-date">{{ .Params.jour }}</p>
+        <p class="article-date"><time class="competition-jour" datetime="{{ .Date.Format "2006-01-02" | safeHTML }}">{{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</time></p>
         {{ range .Params.galerie }}
       <img class="article-photo" src="{{ .photo }}" alt="{{ .Title }}">
       {{ end }}

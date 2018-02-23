@@ -9,7 +9,8 @@
 <section class="container">
   <div class="description-deroule">
     {{ range (.Data.Pages.GroupByDate "2006-01-01").Reverse }}
-      {{ dateFormat "January" .Key }} 
+      {{ $date := time .Key }}
+       {{ index $.Site.Data.mois (printf "%d"  $date.Month) | title }}
    {{ range .Pages.Reverse }}
 <div id="accordion">
 

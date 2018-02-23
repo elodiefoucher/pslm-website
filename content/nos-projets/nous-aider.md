@@ -12,10 +12,5 @@ title: "Comment nous aider ?"
 
 ### Vous êtes un particulier ?
 
-1. Vous pouvez envoyer un mail à ..
-..
-...
-
-Mail type à envoyer à la mairie
-
-2. Vous pouvez faire un don sur HelloAsso
+2. Restez connecté, nous lancerons prochainement une campagne de dons en ligne.
+1. *Les dons aux associations sont déductibles des impôts à 66%, vous pourrez télécharger directement votre reçu sur le site.*

@@ -36,7 +36,7 @@
         <div class="card text-center">
           <a href="{{ .URL }}"><img class="card-img-top" src="{{ .Params.galerieaccueil }}" alt="Image {{ .Title }}"></a>
           <div class="card-body">
-            <div class="date-actu-accueil">{{ .Params.jour }}</div>
+            <div class="date-actu-accueil">    <time class="competition-jour" datetime="{{ .Date.Format "2006-01-02" | safeHTML }}">{{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</time></div>
             <h2><a href="{{ .URL }}">{{ .Title }}</a></h2>
             <a href="{{ .URL }}"><p class="card-text">{{ .Params.accueil }} [...]</p></a>
           </div>

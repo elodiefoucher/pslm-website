@@ -24,7 +24,7 @@ horaires4:
    heures: "12h30 - 14h"
  - cours: "Adultes"
    age: "18 ans et +"
-   jour: "jour et"
-   heures: "horaire à définir"
+   jour: "Vendredi"
+   heures: "19h30 - 21h"
 weight: 3
 ---

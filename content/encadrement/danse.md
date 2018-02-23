@@ -5,7 +5,7 @@ encadrement:
    diplome: "DE Danse classique"
    fonction: "Danse classique"
    entree: "2007"
-   img: "/img/inscription-ecole-de-gym.png"
+   img: "/img/encadrement-none.jpg"
  - nom: " Julie KATCHADOURIAN"
    diplome: "Formation Hip Hop"
    fonction: "Hip Hop"

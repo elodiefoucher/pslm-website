@@ -50,6 +50,6 @@ encadrement:
    diplome: "Bénévole"
    fonction: "Aide monitrice Ecole de Gym"
    entree: ""
-   img: "/img/inscription-ecole-de-gym.png"
+   img: "/img/encadrement-none.jpg"
 weight: 1
 ---

@@ -6,26 +6,25 @@ weight: 3
 
 ## 105 années d'éxistence
 1. **652** adhérents en 2017-2018
-4. **20** le nombre d’administrateurs bénévoles pour assurer le fonctionnement du club
+4. **20** administrateurs bénévoles pour assurer le fonctionnement du club
 5. **9** présidents se sont succèdé à la tête du PSLM depuis sa création
 6. **1** présidente
-6. **12** profs toutes sections confondues assurent chaque semaine
-1. **450** heures de cours dispensées par semaine
+6. **12** profs salariés toutes sections confondues
+1. **70** heures de cours dispensées par semaine
 2. **52** le record du plus grand nombre d'années de bénévolat au PSLM pour une personne
 7. **10** membres d’une même famille sur **3** générations ont participé et participent encore aux activités du PSLM
-1. **80** l'écart d'âge entre notre plus jeune adhérent et notre doyen.
+1. **80,5** années d'écart d'âge entre notre plus jeune adhérent et notre doyenne.
 
 ## La gymnastique artistique
 
-2. **205** la superficie du gymnase
-3. **19** le nombre de compétition où le PSLM est représenté en 2018
-4. **30** le nombre de challenges Anselme organisés par le club
-5. **200** le nombre de blocs de magnésie consommés en 2017
-6. **32** l'âge de la doyenne du groupe compétition
-7. **17** mètres de course d'élan pour la piste de saut (**19** en partant des toilettes)
+3. **19** compétitions fédérales où le PSLM est représenté en 2018
+10. **8** le nombre d'années qu'il a fallu au PSLM après son affiliation en FFG pour rejoindre l’élite de la gym française dans le top 12
 8. **2** titres de Championne de France DN sur **2** années consécutives
 9. **2** participations au Top 12 (et on est parti pour une troisième !)
-10. **8** le nombre d'années qu'il a fallu au PSLM après son affiliation en FFG pour rejoindre l’élite de la gym française dans le top 12
+6. **32** ans, l'âge de la doyenne du groupe compétition
+2. **205** m² la superficie de notre gymnase actuel
+7. **16** mètres de course d'élan pour la piste de saut (**18** en partant des toilettes)
+5. **550** blocs de magnésie consommés par saison à l'entraînement
 
 ## La Danse
 
@@ -40,8 +39,8 @@ weight: 3
 
 1. **177** adhérents en 2017-2018
 2. **10** hommes
-3. **82** l'âge de la doyenne
-4. **7** le nombre de fois où la prof se trompe dans les comptes et en rajoute pendant un cours
+3. **82** ans, l'âge de la doyenne de la section (et du club !)
+4. **7** le nombre de fois où la prof se trompe dans le décompte et en rajoute pendant un cours
 5. **0** le nombre de fois où elle se trompe à la baisse
 7. **3** litres de sueur par cours de step
 8. **7** personnes en moyenne qui s'endorme dans l'année pendant le cours de stretching

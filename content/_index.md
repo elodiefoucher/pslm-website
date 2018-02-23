@@ -18,7 +18,7 @@ domaines:
   img: /img/inscription-competition.png
   lien: "/competition"
 - gym-fitness:
-  title: "Gym Fitness"
+  title: "Gym fitness"
   description: "Remise en forme avec des coachs diplomés."
   img: /img/inscription-gym-fitness.png
   lien: "/gym-fitness"

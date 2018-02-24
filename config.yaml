@@ -3,6 +3,7 @@ languageCode: "en-us"
 title: "PSLMontchat"
 description: "Club de quartier historique à l'esprit familial. Une pratique sportive pour tous, du loisir à la performance. Nos activités: Baby-Gym, Ecole de Gym, Gym compétition, Gym Fit et Danse"
 buildfuture: true
+favicon: "/favicon.ico"
 params:
   email: "pslmontchat@outlook.fr"
   adresse: "33 Rue Jeanne d'Arc, 69003 Lyon"

@@ -21,4 +21,4 @@ color: "text-black"
 background: "banner-light"
 ---
 {{< load-photoswipe >}}
-{{< gallery dir="/img/presse/" />}}
+{{< gallery dir="/img/presse" />}}

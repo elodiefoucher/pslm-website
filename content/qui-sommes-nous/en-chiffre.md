@@ -30,10 +30,10 @@ weight: 3
 
 1. **117** danseurs
 2. **4** garçons
-3. **2** gala dans l'année
+3. **2** galas dans l'année
 3. **26** danses ou tableaux présentées lors du gala
-4. **100** costumes au minimum
-3. **5** bobos minimum par cours de Hip Hop en essayant des nouvelles figures
+4. **100** costumes au minimum par gala
+3. **5** bobos par cours de Hip Hop en essayant des nouvelles figures
 4. **2** figures hip hop acquises ou plus par chaque élève
 
 
@@ -45,5 +45,5 @@ weight: 3
 4. **7** le nombre de fois où la prof se trompe dans le décompte et en rajoute pendant un cours
 5. **0** le nombre de fois où elle se trompe à la baisse
 7. **3** litres de sueur par cours de step
-8. **7** personnes en moyenne qui s'endorme dans l'année pendant le cours de stretching
+8. **7** personnes en moyenne qui s'endorment dans l'année pendant le cours de stretching
 9. **1362** minutes de gainages cumulées sur toute l'année (largement devant le record du monde de gainage qui est de 481 minutes !)

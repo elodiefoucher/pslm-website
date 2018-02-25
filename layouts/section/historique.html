@@ -10,9 +10,9 @@
   <p class="lead">{{ .Description | markdownify }}</p>
   </div>
   <div class="logo-historique">
-  <div class="col">
+  <div class="col text-center">
     {{ range .Params.galerie }}
-    <img src="{{ .logo }}" alt="{{ .Title }}" width="200">
+    <img src="{{ .logo }}" alt="{{ .Title }}" width="200" style="margin-top:1rem;margin-bottom:1rem;">
     {{ end }}
   </div>
 </div>

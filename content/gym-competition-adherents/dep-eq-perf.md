@@ -5,6 +5,7 @@ date: 2018-01-27
 end: 2018-01-28
 lieu: "Francheville"
 passage: "http://www.comiterhonegym.fr/sites/default/files/files/Orga%20GAF(8).pdf"
+convocation: "/doc/convoc-dept-equipes-francheville.pdf"
 resultats:
  - categorie: "Nationale 10-11 ans"
    athlete:

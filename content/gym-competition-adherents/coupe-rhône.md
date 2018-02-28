@@ -5,6 +5,7 @@ date: 2018-02-03
 end: 2018-02-04
 lieu: "L'Arbresle"
 passage: "http://www.comiterhonegym.fr/sites/default/files/files/ODP%20L'ARBRESLE%20GAF%20(6).pdf"
+convocation: "/doc/convoc-cdr1-l-arbresle.pdf"
 resultats:
 - categorie: "Poussine Excellence"
   athlete:

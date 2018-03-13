@@ -4,7 +4,6 @@ date: 2017-12-16
 end: 2017-12-17
 slug: "dep-ind-perf"
 lieu: "Lyon"
-draft: true
 passage: "http://www.comiterhonegym.fr/sites/default/files/files/GAF%20Indiv_%20LYON%2017_12_17(3).pdf"
 resultats:
 - categorie: "Nationale A 13 ans"

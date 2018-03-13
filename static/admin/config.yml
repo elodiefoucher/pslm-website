@@ -19,8 +19,8 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Début Compet", name: "date", widget: "date"}
       - {label: "Fin Compet", name: "end", widget: "date"}
       - {label: "Lieu", name: "lieu", widget: "string"}
-      - {label: "Passage", name: "passage", widget: "file"}
-      - {label: "Convocation", name: "convocation", widget: "file"}
+      - {label: "Passage", name: "passage", required: false, widget: "file"}
+      - {label: "Convocation", name: "convocation", required: false, widget: "file"}
       - {label: "Résultats", name: "resultats", required: false, widget: list, fields: [
           {label: "Catégorie", name: "categorie", widget: "string"},
           {label: "Athlètes", name: "athlete", widget: "list", fields: [
@@ -35,12 +35,13 @@ collections: # A list of collections the CMS should be able to edit
     create: true # Allow users to create new documents in this collection
     fields:
       - {label: "Titre", name: "title", widget: "string", tagname: "h1"}
-      - {label: "Date", name: "date", widget:"date"}
-      - {label: "Image d'accueil (Format paysage)", name: "galerieaccueil", widget:"image"}
-      - {label: "Galerie", name: galerie, widget: list, fields: [
-          {label: "Photo", name: "photo", widget:"image"}]}
-      - {label: "Article", name: "body", widget: "markdown"}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Image d'accueil (Format paysage)", name: "galerieaccueil", widget: "image"}
+      - {label: "Galerie", name: galerie, widget: "list", fields: [
+          {label: "Photo", name: "photo", widget: "image"}]}
       - {label: "Accueil (Début tronqué de l'article, ~ 2 lignes)", name: "accueil", widget: "string"}
+      - {label: "Article", name: "body", widget: "markdown"}
+
 
   - name: "portraits" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Portraits" # Used in the UI, ie.: "New Post"

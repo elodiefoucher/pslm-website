@@ -24,18 +24,18 @@ resultats:
   athlete:
    - nom: "Luna, Ambre, Garance L, Garance T, Lili"
      place: "1ère"
-     points: ""
+     points: "166.700"
 - categorie: "Poussine Honneur"
   athlete:
-   - nom: "Ysée, Violette, Izia"
+   - nom: "Ysée, Violette, Izia, Iliana, Mathilde"
      place: "8ème"
-     points: ""
-   - nom: "Mathilde, Anna, Chloé, Victoria"
+     points: "143.500"
+   - nom: "Anna, Chloé, Victoria"
      place: "13ème"
-     points: ""
+     points: "130.800"
 - categorie: "Formagym"
   athlete:
    - nom: "Anna"
      place: "7ème"
-     points: ""
+     points: "47"
 ---

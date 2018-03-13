@@ -22,4 +22,5 @@ resultats:
      - nom: "Flore, Laurie, Léa, Solène, Maurine"
        place: "4ème"
        points: "138.750"
+draft: true
 ---

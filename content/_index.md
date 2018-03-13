@@ -43,24 +43,28 @@ presidente: "/img/encadrement-audret-chapelan.png"
 actualite: "Les dernières actualités"
 
 partenaire:
- - nom: Grand Lyon
-   img: /img/partenaire-grand-lyon.png
-   lien: https://www.grandlyon.com/
- - nom: Ville de Lyon
-   img: /img/partenaire-ville-lyon.png
-   lien: https://www.lyon.fr/
- - nom: Crédit Mutuel
-   img: /img/partenaire-credit-mutuel.png
-   lien: https://www.creditmutuel.fr/cmmabn/fr/accueil.html
- - nom: Intermarché
-   img: /img/partenaire-intermarche.png  
-   lien: https://www.intermarche.com/home.html  
- - nom: FFGym
-   img: /img/partenaire-ffg.png
-   lien: https://www.ffgym.fr/
- - nom: Office des Sport lyon
-   img: /img/partenaire-osl.png
-   lien: http://www.oslyon.com/
+ - nom: "Grand Lyon"
+   img: "/img/partenaire-grand-lyon.png"
+   lien: "https://www.grandlyon.com/"
+ - nom: "Ville de Lyon"
+   img: "/img/partenaire-ville-lyon.png"
+   lien: "https://www.lyon.fr/"
+ - nom: "Crédit Mutuel"
+   img: "/img/partenaire-credit-mutuel.png"
+   lien: "https://www.creditmutuel.fr/cmmabn/fr/accueil.html"
+ - nom: "Intermarché"
+   img: "/img/partenaire-intermarche.png"  
+   lien: "https://www.intermarche.com/home.html"
+ - nom: "FFGym"
+   img: "/img/partenaire-ffg.png"
+   lien: "https://www.ffgym.fr/"
+ - nom: "Office des Sport lyon"
+   img: "/img/partenaire-osl.png"
+   lien: "http://www.oslyon.com/"
+ - nom: "Région Auvergne-Rhône-Alpes"
+   img: "/img/partenaire-region.png"
+   lien: "https://www.auvergnerhonealpes.fr/"
+
 
 slogan: "Club de quartier historique à l'esprit familial"
 catchline: "Une pratique sportive pour tous, du loisir à la performance"

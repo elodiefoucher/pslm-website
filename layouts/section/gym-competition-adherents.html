@@ -44,7 +44,7 @@
                   <div class="modal-body text-left">
                     {{ range .Params.resultats }}
                     <h6 class="card-title">{{ .categorie }}</h6>
-                    {{ range .categorie }}
+                    {{ range .athlete }}
                     <ul class="resultats">
                       <li>{{ .nom }} - {{ .place }} - {{ .points }} pts</li>
                     </ul>

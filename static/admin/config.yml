@@ -9,25 +9,6 @@ media_folder: "static/img/" # Folder where user uploaded files should go
 public_folder: "/img" # The src attribute for uploaded media will begin with /images/uploads
 
 collections: # A list of collections the CMS should be able to edit
-  - name: "gym-competition" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Gym Compétition" # Used in the UI, ie.: "New Post"
-    folder: "content/gym-competition-adherents" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    fields:
-      - {label: "Titre", name: "title", widget: "string", tagname: "h1"}
-      - {label: "Début Compet", name: "date", widget: "date"}
-      - {label: "Fin Compet", name: "end", widget: "date"}
-      - {label: "Lieu", name: "lieu", widget: "string"}
-      - {label: "Passage", name: "passage", required: false, widget: "file"}
-      - {label: "Convocation", name: "convocation", required: false, widget: "file"}
-      - {label: "Résultats", name: "resultats", required: false, widget: list, fields: [
-          {label: "Catégorie", name: "categorie", widget: "string"},
-          {label: "Athlètes", name: "athlete", widget: "list", fields: [
-              {label: "Nom", name: "nom", widget: "string"},
-              {label: "Place", name: "place", widget: "string"},
-              {label: "Points", name: "points", widget: "string"}]}]}
-
   - name: "actualite" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Actualité" # Used in the UI, ie.: "New Post"
     folder: "content/actualite" # The path to the folder where the documents are stored
@@ -39,9 +20,39 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Image d'accueil (Format paysage)", name: "galerieaccueil", widget: "image"}
       - {label: "Galerie", name: galerie, widget: "list", fields: [
           {label: "Photo", name: "photo", widget: "image"}]}
-      - {label: "Accueil (Début tronqué de l'article, ~ 2 lignes)", name: "accueil", widget: "string"}
+      - {label: "Accueil (Début tronqué de l'article, environ les 2 premières lignes)", name: "accueil", widget: "string"}
       - {label: "Article", name: "body", widget: "markdown"}
 
+  - name: "gym-competition" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Gym Compétition Adhérents" # Used in the UI, ie.: "New Post"
+    folder: "content/gym-competition-adherents" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields:
+      - {label: "Titre", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Début Compet", name: "date", widget: "date"}
+      - {label: "Fin Compet", name: "end", widget: "date"}
+      - {label: "Lieu", name: "lieu", widget: "string"}
+      - {label: "Ordre de Passage", name: "passage", required: false, widget: "file"}
+      - {label: "Convocation", name: "convocation", required: false, widget: "file"}
+      - {label: "Résultats", name: "resultats", required: false, widget: list, fields: [
+          {label: "Catégorie", name: "categorie", widget: "string"},
+          {label: "Athlètes", name: "athlete", widget: "list", fields: [
+              {label: "Nom", name: "nom", widget: "string"},
+              {label: "Place", name: "place", widget: "string"},
+              {label: "Points", name: "points", widget: "string"}]}]}
+
+  - name: "gym-fitness-adherents" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Gym Fitness Adhérents" # Used in the UI, ie.: "New Post"
+    folder: "content/gym-fitness-adherents" # The path to the folder where the documents are stored
+    fields:
+      - {label: "Infos", name: "body", widget: "markdown"}
+
+  - name: "danse-adherents" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Danse Adhérents" # Used in the UI, ie.: "New Post"
+    folder: "content/danse-adherents" # The path to the folder where the documents are stored
+    fields:
+      - {label: "Infos", name: "body", widget: "markdown"}
 
   - name: "portraits" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Portraits" # Used in the UI, ie.: "New Post"
@@ -50,47 +61,16 @@ collections: # A list of collections the CMS should be able to edit
     create: true # Allow users to create new documents in this collection
     fields:
       - {label: "Titre", name: "title", widget: "string", tagname: "h1"}
-      - {label: "Mois Année", name: "jour", widget:"string"}
-      - {label: "Image d'accueil (Format paysage)", name: "galerieaccueil", widget:"image"}
+      - {label: "Mois Année", name: "jour", widget: "string"}
+      - {label: "Image d'accueil (photo ronde)", name: "galerieaccueil", widget: "image"}
       - {label: "Galerie", name: galerie, widget: list, fields: [
-          {label: "Photo", name: "photo", widget:"image"}]}
+          {label: "Photo", name: "photo", widget: "image"}]}
       - {label: "Article", name: "body", widget: "markdown"}
-      - {label: "Accueil (Début tronqué de l'article, ~ 2 lignes)", name: "accueil", widget: "string"}
 
-
-  - name: "evenements" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Evenements" # Used in the UI, ie.: "New Post"
-    folder: "content/agenda" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+  - name: "inscription" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Inscription" # Used in the UI, ie.: "New Post"
+    folder: "content/inscription" # The path to the folder where the documents are stored
     fields:
-      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
-      - {label: Categories, name: categories, widget: list}
-      - {label: Tags, name: tags, widget: list, default: ['term_1', 'term_2']}
-      - {label: Lieu, name: lieu, widget: "string"}
-      - {label: "Quand", name: "start", widget: "datetime"}
-      - {label: "Fin", name: "end", widget: "datetime"}
-      - {label: "Tarif", name: "tarif", widget: "string"}
-      - {label: "Image Banner", name: "banner", widget:"image"}
-      - {label: "Thumbnail", name: "thumbnail", widget:"image"}
-      - {label: "Description", name: "description", widget: "string"}
-      - {label: "Parent", name: "parent", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - name: porteurs
-        label: Animateurs
-        widget: list
-        fields:
-          - {label: Name, name: name, widget: string}
-          - {label: Image, name: image, widget: image}
-      - name: documentation
-        label: Documentation
-        widget: list
-        fields:
-          - {label: Name, name: name, widget: string}
-          - {label: Lien, name: link, widget: string}
-      - name: ressources
-        label: Ressources
-        widget: list
-        fields:
-          - {label: Name, name: name, widget: string}
-          - {label: Lien, name: link, widget: string}
+      - {label: "Documents d'inscription", name: "documents", widget: list, fields: [
+              {label: "Section", name: "nom", widget: "string"},
+              {label: "Doc", name: "lien", widget: "file"}]}

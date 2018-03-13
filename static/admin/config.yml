@@ -21,15 +21,12 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Lieu", name: "lieu", widget: "string"}
       - {label: "Passage", name: "passage", widget:"file"}
       - {label: "Convocation", name: "convocation", widget:"file"}
-      - {label: "Resulats", name: "thumbnail", widget:"image"}
-      - {label: "Description", name: "description", widget:"string"}
       - {label: "Résultats", name: "resultats", required: false, widget: list, fields: [
-          {label: "Catégorie", name: "categorie", widget: list, fields: [
-            {label: "Athlètes", name: "athlete", widget: "list", fields: [
+          {label: "Catégorie", name: "categorie", widget: "string"}
+          {label: "Athlètes", name: "athlete", widget: "list", fields: [
               {label: "Nom", name: "nom", widget: "string"},
               {label: "Place", name: "place", widget: "string"},
-              {label: "Points", name: "points", widget: "string"}
-            ]}
+              {label: "Points", name: "points", widget: "string"},
             ]}
           ]}
   - name: "ateliers" # Used in routes, ie.: /admin/collections/:slug/edit

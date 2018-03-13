@@ -2,8 +2,7 @@
 title: "Cécile PIZOT (30 ans)"
 galerie: /img/portrait-cecile-pizot.jpg
 accueil: /img/portrait-cecile-pizot-a.png
-description: ""
-jour: "novembre 2017"
+jour: "Novembre 2017"
 ---
 **Palmarès individuel:**
 

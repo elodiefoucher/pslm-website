@@ -18,7 +18,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Titre", name: "title", widget: "string", tagname: "h1"}
       - {label: "Date", name: "date", widget: "date"}
       - {label: "Image d'accueil (Format paysage)", name: "galerieaccueil", widget: "image"}
-      - {label: "Galerie", name: galerie, widget: "list", fields: [
+      - {label: "Image de l'article", name: galerie, widget: "list", fields: [
           {label: "Photo", name: "photo", widget: "image"}]}
       - {label: "Accueil (Début tronqué de l'article, environ les 2 premières lignes)", name: "accueil", widget: "string"}
       - {label: "Article", name: "body", widget: "markdown"}
@@ -37,20 +37,22 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Convocation", name: "convocation", required: false, widget: "file"}
       - {label: "Résultats", name: "resultats", required: false, widget: list, fields: [
           {label: "Catégorie", name: "categorie", widget: "string"},
-          {label: "Athlètes", name: "athlete", widget: "list", fields: [
-              {label: "Nom", name: "nom", widget: "string"},
-              {label: "Place", name: "place", widget: "string"},
+          {label: "Equipe ou gym", name: "athlete", widget: "list", fields: [
+              {label: "Nom(s)", name: "nom", widget: "string"},
+              {label: "Place (ecrire )", name: "place", widget: "string"},
               {label: "Points", name: "points", widget: "string"}]}]}
 
   - name: "gym-fitness-adherents" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Gym Fitness Adhérents" # Used in the UI, ie.: "New Post"
     folder: "content/gym-fitness-adherents" # The path to the folder where the documents are stored
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
       - {label: "Infos", name: "body", widget: "markdown"}
 
   - name: "danse-adherents" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Danse Adhérents" # Used in the UI, ie.: "New Post"
     folder: "content/danse-adherents" # The path to the folder where the documents are stored
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
       - {label: "Infos", name: "body", widget: "markdown"}
 
@@ -60,17 +62,9 @@ collections: # A list of collections the CMS should be able to edit
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     create: true # Allow users to create new documents in this collection
     fields:
-      - {label: "Titre", name: "title", widget: "string", tagname: "h1"}
-      - {label: "Mois Année", name: "jour", widget: "string"}
+      - {label: "Nom (age)", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Date", name: "date", widget: "date"}
       - {label: "Image d'accueil (photo ronde)", name: "galerieaccueil", widget: "image"}
       - {label: "Galerie", name: galerie, widget: list, fields: [
           {label: "Photo", name: "photo", widget: "image"}]}
       - {label: "Article", name: "body", widget: "markdown"}
-
-  - name: "inscription" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Inscription" # Used in the UI, ie.: "New Post"
-    folder: "content/inscription" # The path to the folder where the documents are stored
-    fields:
-      - {label: "Documents d'inscription", name: "documents", widget: list, fields: [
-              {label: "Section", name: "nom", widget: "string"},
-              {label: "Doc", name: "lien", widget: "file"}]}

@@ -2,7 +2,7 @@
 title: "Jennyfer DURIEZ (22 ans)"
 galerie: /img/portrait-jennyfer-duriez.jpg
 accueil: /img/portrait-jennyfer-duriez-a.png
-jour: "Novembre 2017"
+date: 2017-11-01
 ---
 
 **Palmarès individuel:**

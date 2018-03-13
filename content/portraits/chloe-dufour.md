@@ -2,7 +2,7 @@
 title: "Chloé DUFOUR (32 ans)"
 galerie: /img/portrait-chloe-dufour.jpg
 accueil: /img/portrait-chloe-dufour-a.png
-jour: "Novembre 2017"
+date: 2017-11-01
 ---
 
 ## Notre "Mentor"

@@ -2,7 +2,7 @@
 title: "Djenna LAROUI (12 ans)"
 galerie: /img/portrait-djenna-laroui.jpg
 accueil: /img/portrait-djenna-laroui-a.png
-jour: "Novembre 2017"
+date: 2017-11-01
 ---
 **Palmarès individuel**<br>
 3ème du championnat de France Avenir 2005 à Mulhouse (2016)<br>

@@ -61,9 +61,6 @@ partenaire:
  - nom: "Office des Sport lyon"
    img: "/img/partenaire-osl.png"
    lien: "http://www.oslyon.com/"
- - nom: "Région Auvergne-Rhône-Alpes"
-   img: "/img/partenaire-region.png"
-   lien: "https://www.auvergnerhonealpes.fr/"
 
 
 slogan: "Club de quartier historique à l'esprit familial"

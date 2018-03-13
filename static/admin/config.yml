@@ -59,14 +59,13 @@ collections: # A list of collections the CMS should be able to edit
   - name: "portraits" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Portraits" # Used in the UI, ie.: "New Post"
     folder: "content/portraits" # The path to the folder where the documents are stored
-    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    slug: "{{year}}-{{month}}-{{day}}" # Filename template, e.g., YYYY-MM-DD-title.md
     create: true # Allow users to create new documents in this collection
     fields:
       - {label: "Nom (age)", name: "title", widget: "string", tagname: "h1"}
       - {label: "Date", name: "date", widget: "date"}
       - {label: "Image d'accueil (photo ronde)", name: "accueil", widget: "image"}
-      - {label: "Galerie", name: "galerie", widget: "list", fields: [
-          {label: "Photo", name: "photo", widget: "image"}]}
+      - {label: "Photo du portrait", name: "galerie", widget: "image"}
       - {label: "Article", name: "body", widget: "markdown"}
 
   - name: "presse" # Used in routes, ie.: /admin/collections/:slug/edit

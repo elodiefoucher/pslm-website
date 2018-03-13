@@ -41,6 +41,9 @@ partenairetop12:
   lien: http://www.citron-vert.fr/
 - nom: Entreprise Saunier
   img: /img/partenaire-saunier.png
+- nom: "Région Auvergne-Rhône-Alpes"
+  img: "/img/partenaire-region.png"
+  lien: "https://www.auvergnerhonealpes.fr/"
 banner: "/img/banner-partenaires.png"
 color: "text-black"
 background: "banner-white"

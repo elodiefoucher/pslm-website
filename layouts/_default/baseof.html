@@ -122,13 +122,15 @@
   </div>
   </section>
   <section  class="partenaire-bottom">
+    <div class="container">
       <div class="row">
         {{ range .Site.Params.partenaire }}
-        <div class="col">
-          <a href="{{ .lien }}" target="_blank"><img src="{{ .img }}" width="130" alt="{{ .nom }}"></a>
+        <div class="col col-lg-2">
+          <a href="{{ .lien }}" target="_blank"><img src="{{ .img }}" width="150" alt="{{ .nom }}"></a>
         </div>
         {{ end }}
       </div>
+    </div>
   </section>
 </footer>
 

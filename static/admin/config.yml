@@ -23,7 +23,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Convocation", name: "convocation", widget:"file"}
       - {label: "Resulats", name: "thumbnail", widget:"image"}
       - {label: "Description", name: "description", widget:"string"}
-      - {label: "Résultats", name: "resulats", required: false, widget: list, fields: [
+      - {label: "Résultats", name: "resultats", required: false, widget: list, fields: [
           {label: "Catégorie", name: "categorie", widget: list, fields: [
             {label: "Athlètes", name: "athlete", widget: "list", fields: [
               {label: "Nom", name: "nom", widget: "string"},

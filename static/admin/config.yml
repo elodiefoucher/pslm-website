@@ -17,8 +17,8 @@ collections: # A list of collections the CMS should be able to edit
     fields:
       - {label: "Titre", name: "title", widget: "string", tagname: "h1"}
       - {label: "Date", name: "date", widget: "date"}
-      - {label: "Image d'accueil (Format paysage)", name: "galerieaccueil", widget: "image"}
-      - {label: "Image de l'article", name: galerie, widget: "list", fields: [
+      - {label: "Image d'accueil (Recadrer en format paysage)", name: "galerieaccueil", widget: "image"}
+      - {label: "Image(s) de l'article", name: galerie, widget: "list", fields: [
           {label: "Photo", name: "photo", widget: "image"}]}
       - {label: "Accueil (Début tronqué de l'article, environ les 2 premières lignes)", name: "accueil", widget: "string"}
       - {label: "Article", name: "body", widget: "markdown"}
@@ -39,8 +39,8 @@ collections: # A list of collections the CMS should be able to edit
           {label: "Catégorie", name: "categorie", widget: "string"},
           {label: "Equipe ou gym", name: "athlete", widget: "list", fields: [
               {label: "Nom(s)", name: "nom", widget: "string"},
-              {label: "Place (ecrire )", name: "place", widget: "string"},
-              {label: "Points", name: "points", widget: "string"}]}]}
+              {label: "Place (ecrire en entier 1ère, 2ème...)", name: "place", widget: "string"},
+              {label: "Points (ne pas écrire pts)", name: "points", widget: "string"}]}]}
 
   - name: "gym-fitness-adherents" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Gym Fitness Adhérents" # Used in the UI, ie.: "New Post"
@@ -64,8 +64,8 @@ collections: # A list of collections the CMS should be able to edit
     fields:
       - {label: "Nom (age)", name: "title", widget: "string", tagname: "h1"}
       - {label: "Date", name: "date", widget: "date"}
-      - {label: "Image d'accueil (photo ronde)", name: "accueil", widget: "image"}
-      - {label: "Photo du portrait", name: "galerie", widget: "image"}
+      - {label: "Image d'accueil (recadrer photo ronde)", name: "accueil", widget: "image"}
+      - {label: "Photo du portrait (de préférence format paysage ou carré)", name: "galerie", widget: "image"}
       - {label: "Article", name: "body", widget: "markdown"}
 
   - name: "presse" # Used in routes, ie.: /admin/collections/:slug/edit

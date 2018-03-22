@@ -33,9 +33,9 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Début Compet", name: "date", widget: "date"}
       - {label: "Fin Compet", name: "end", widget: "date"}
       - {label: "Lieu", name: "lieu", widget: "string"}
-      - {label: "Ordre de Passage", name: "passage", required: "false", widget: "file"}
-      - {label: "Convocation", name: "convocation", required: "false", widget: "string"}
-      - {label: "Résultats", name: "resultats", required: "false", widget: "list", fields: [
+      - {label: "Ordre de Passage", name: "passage", widget: "file", required: "false",}
+      - {label: "Convocation", name: "convocation", widget: "string", required: "false"}
+      - {label: "Résultats", name: "resultats", widget: "list", required: "false", fields: [
           {label: "Catégorie", name: "categorie", widget: "string"},
           {label: "Equipe ou gym", name: "athlete", widget: "list", fields: [
               {label: "Nom(s)", name: "nom", widget: "string"},

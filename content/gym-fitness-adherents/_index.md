@@ -4,7 +4,7 @@ Pendant ces 2 semaines de vacances de Pâques pas question de ne pas bouger !!
 
 Les cours sont maintenus la première semaine :
 
-## Lundi 9 :
+> Lundi 9 :
 
 18h30-19h30: Renfo
 
@@ -14,13 +14,13 @@ Pendant ces 2 semaines de vacances de Pâques pas question de ne pas bouger !!
 
 21h00- 21h45 : Pilates
 
-## Mercredi 11 : 
+> Mercredi 11 : 
 
 19h30-20h15 : DE
 
 20h15-21h00 : CFA
 
-## Vendredi 13 : 
+> Vendredi 13 : 
 
 18h30-19h15: Pilates
 

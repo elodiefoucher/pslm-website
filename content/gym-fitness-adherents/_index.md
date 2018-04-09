@@ -7,30 +7,30 @@ background: banner-light
 ---
 # Point Info - Vacances de Pâques -
 
-Pendant ces 2 semaines de vacances ... pas question de ne pas bouger !! Les cours sont maintenus la première semaine le :
+Pendant ces 2 semaines de vacances ... pas question de ne pas bouger !! Les cours sont maintenus la première semaine :
 
 ## Lundi 9 :
 
-18h30 - 19h30 : Renforcement Musculaire
+- **18h30 - 19h30 :** Renforcement Musculaire
 
-19h30 - 20h15 : Dépense Énergétique
+- **19h30 - 20h15 :** Dépense Énergétique
 
-20h15 - 21h00 : CFA
+- **20h15 - 21h00 :** CFA
 
-21h00 - 21h45 : Pilates
+- **21h00 - 21h45 :** Pilates
 
 ## Mercredi 11 :
 
-19h30 - 20h15 : Dépense Énergétique
+- **19h30 - 20h15 :** Dépense Énergétique
 
-20h15 - 21h00 : CFA
+- **20h15 - 21h00 :** CFA
 
 ## Vendredi 13 :
 
-18h30 - 19h15 : Pilates
+- **18h30 - 19h15 :** Pilates
 
-19h15 - 20h15 : Renforcement Musculaire
+- **19h15 - 20h15 :** Renforcement Musculaire
 
-20h15 - 21h00 : Stretching/Relaxation
+- **20h15 - 21h00 :** Stretching/Relaxation
 
-Pour rappel, pendant les vacances il est possible d'essayer d'autres cours.
+*Pour rappel, pendant les vacances il est possible d'essayer d'autres cours.*

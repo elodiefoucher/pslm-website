@@ -2,9 +2,16 @@
 
 {{ partial "banner.html" . }}
 
-{{ partial "description.html" . }}
+<section class="container">
+  <div class="description-top">
+  <p class="lead">{{ .Description | markdownify }}</p>
+  </div>
 
-<section style="padding:2rem;">
+  <div class="description-deroule gym-fitness-adherents-infos">
+  <div class="content">
+    <p>{{ .Content | markdownify }}</p>
+  </div>
+  </div>
 </section>
 
 {{ end }}

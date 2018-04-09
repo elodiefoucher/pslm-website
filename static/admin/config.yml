@@ -48,8 +48,8 @@ collections: # A list of collections the CMS should be able to edit
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
       - {label: "Infos", name: "body", widget: "markdown"}
-      - {label: "Titre", name: "title", widget: "string", tagname: "h1"}
-      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Ne pas toucher", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Ne pas toucher", name: "description", widget: "string"}
       - {label: "Ne pas toucher", name: "banner", widget: "image"}
       - {label: "Ne pas toucher", name: "color", widget: "string"}
       - {label: "Ne pas toucher", name: "background", widget: "string"}

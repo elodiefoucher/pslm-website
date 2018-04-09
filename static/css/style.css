@@ -996,3 +996,21 @@ h3 {
 .container-stage {
   padding: 3rem;
 }
+
+/* gYm fitness adhérents */
+
+.gym-fitness-adherents-infos h1 {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 400;
+  padding-bottom: 2rem;
+}
+
+.gym-fitness-adherents-infos h2 {
+ font-weight: 400;
+ padding-top: 2rem;
+}
+
+.gym-fitness-adherents-infos li {
+  list-style: circle; 
+}

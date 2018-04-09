@@ -1,13 +1,17 @@
 ---
-title: "Gym fitness"
-description: "Retrouvez ici les informations spécifiques au cours de Gym Fitness<br> (horaires de vancances, stages...)"
-banner: "/img/banner-gym-fitness.jpg"
+title: Gym fitness
+description: >-
+  Retrouvez ici les informations spécifiques au cours de Gym Fitness<br>
+  (horaires de vancances, stages...)
+banner: /img/banner-gym-fitness.jpg
 color: text-black
 background: banner-light
 ---
 # Point Info - Vacances de Pâques -
 
-Pendant ces 2 semaines de vacances ... pas question de ne pas bouger !! Les cours sont maintenus la première semaine le :
+Pendant ces 2 semaines de vacances ... pas question de ne pas bouger !! 
+
+Les cours sont maintenus la première semaine :
 
 ## Lundi 9 :
 
@@ -33,4 +37,4 @@ Pendant ces 2 semaines de vacances ... pas question de ne pas bouger !! Les cour
 
 20h15 - 21h00 : Stretching/Relaxation
 
-Pour rappel, pendant les vacances il est possible d'essayer d'autres cours.
+_Pour rappel, pendant les vacances il est possible d'essayer d'autres cours._

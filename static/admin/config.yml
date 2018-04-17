@@ -41,6 +41,8 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Nom(s)", name: "nom", widget: "string"},
               {label: "Place (ecrire en entier 1ère, 2ème...)", name: "place", widget: "string"},
               {label: "Points (ne pas écrire pts)", name: "points", widget: "string"}]}]}
+      - {label: "slug (ne pas modifier)", name: "slug", widget: "string"}
+
 
   - name: "gym-fitness-adherents" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Gym Fitness Adhérents" # Used in the UI, ie.: "New Post"

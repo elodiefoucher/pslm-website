@@ -1,5 +1,6 @@
 ---
 title: Inter département Equipe National et Fédéral A
+slug: "inter-dep-equipe"
 date: 2018-03-17T00:00:00.000Z
 end: 2018-03-18T00:00:00.000Z
 lieu: Pierrelatte
@@ -25,4 +26,3 @@ resultats:
         points: '134.000'
     categorie: Fédéral A 14 ans et +
 ---
-

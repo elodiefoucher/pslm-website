@@ -35,5 +35,6 @@ resultats:
         place: 9ème
         points: '45.200'
     categorie: Nationale 21 ans et +
+slug: reg-indiv-perf
 ---
 

@@ -41,6 +41,7 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Nom(s)", name: "nom", widget: "string"},
               {label: "Place (ecrire en entier 1ère, 2ème...)", name: "place", widget: "string"},
               {label: "Points (ne pas écrire pts)", name: "points", widget: "string"}]}]}
+      - {label: "PDF résultats compet", name: "resultatscomplet", widget: "file", required: false}
       - {label: "slug (ne pas modifier)", name: "slug", widget: "string"}
 
 

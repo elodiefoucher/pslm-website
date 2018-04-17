@@ -492,6 +492,23 @@ h3 {
   color: rgb(0,109,152);
 }
 
+.resultats-c {
+  padding-top: 1rem;
+}
+
+.place {
+  font-weight: 400;
+}
+.points {
+  font-weight: 200;
+  font-style: italic;
+}
+.nom {
+  font-weight: 200;
+}
+.resultats li {
+  list-style: none;
+}
 /*Inscription*/
 .lien-doc {
   font-weight: bold;
@@ -1012,5 +1029,5 @@ h3 {
 }
 
 .gym-fitness-adherents-infos li {
-  list-style: circle; 
+  list-style: circle;
 }

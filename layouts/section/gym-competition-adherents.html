@@ -46,9 +46,15 @@
                     <h6 class="card-title">{{ .categorie }}</h6>
                     {{ range .athlete }}
                     <ul class="resultats">
-                      <li>{{ .nom }} - {{ .place }} - {{ .points }} pts</li>
+                      <li><span class="nom">{{ .nom }}</span> - <span class="place">{{ .place }}</span> - <span class="points">{{ .points }} pts</span></li>
                     </ul>
                     {{ end }}
+                    {{ end }}
+                    {{ if isset .Params "resultatscomplet" }}
+                    <div class="text-center resultats-c">
+                      <a href="{{ .Params.pdf }}"><button type="button" class="btn btn-light">Résultats complets</button>
+                      </a>
+                    </div>
                     {{ end }}
                   </div>
                 </div>

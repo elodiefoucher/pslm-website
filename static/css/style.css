@@ -498,13 +498,19 @@ h3 {
 
 .place {
   font-weight: 400;
+  text-align: left;
 }
 .points {
   font-weight: 200;
   font-style: italic;
+  text-align: left;
 }
 .nom {
   font-weight: 200;
+  text-align: left;
+}
+.esp {
+  color: white;
 }
 .resultats li {
   list-style: none;

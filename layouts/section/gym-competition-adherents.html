@@ -43,10 +43,10 @@
                   </div>
                   <div class="modal-body text-left">
                     {{ range .Params.resultats }}
-                    <h6 class="card-title">{{ .categorie }}</h6>
+                    <h6 class="card-title text-left">{{ .categorie }}</h6>
                     {{ range .athlete }}
                     <ul class="resultats">
-                      <li><span class="nom">{{ .nom }}</span> - <span class="place">{{ .place }}</span> - <span class="points">{{ .points }} pts</span></li>
+                      <li><span class="nom">{{ .nom }}</span> <span class="esp">--</span> <span class="place">{{ .place }}</span> <span class="points">- {{ .points }} pts</span></li>
                     </ul>
                     {{ end }}
                     {{ end }}

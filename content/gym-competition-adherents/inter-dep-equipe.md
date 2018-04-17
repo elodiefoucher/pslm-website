@@ -30,5 +30,6 @@ resultats:
         place: 4ème
         points: '134.00'
     categorie: Nationale 12 ans et plus
+slug: inter-dep-eq
 ---
 

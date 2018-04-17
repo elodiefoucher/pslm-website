@@ -1,6 +1,5 @@
 ---
 title: Inter département Equipe National et Fédéral A
-slug: "inter-dep-equipe"
 date: 2018-03-17T00:00:00.000Z
 end: 2018-03-18T00:00:00.000Z
 lieu: Pierrelatte
@@ -12,17 +11,24 @@ resultats:
       - nom: 'Flore, Solenne, Laurie, Léa, Maureen'
         place: 5ème
         points: '143.147'
+    categorie: Fédéral A 14 ans et +
+  - athlete:
       - nom: 'Eloïse, Lilou, Lynaïs, Salomé, Emilie'
         place: 1ère
         points: '141.500'
-      - nom: 'Anaïs, Selma, Sara, Charline, Chloé (blessée)'
+    categorie: Nationale 10-11 ans
+  - athlete:
+      - nom: 'Selma, Anaïs, Sara, Charline, Chloé (blessée)'
         place: 1ère
         points: '144.600'
-      - nom: 'Salomé, Elina, Marina, Manon'
+    categorie: Nationale 12-15 ans
+  - athlete:
+      - nom: 'Salomé, Elina, Manon, Marina'
         place: 3ème
         points: '134.600'
-      - nom: 'Audrey, Camille, Manon'
+      - nom: 'Camille, Manon, Audrey'
         place: 4ème
-        points: '134.000'
-    categorie: Fédéral A 14 ans et +
+        points: '134.00'
+    categorie: Nationale 12 ans et plus
 ---
+

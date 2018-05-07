@@ -1,7 +1,10 @@
 ---
-title: "Inter département équipe DIR"
-slug: "inter-dep-equipe-dir"
-date: 2018-05-19
-end: 2018-05-20
-lieu: "St Vallier"
+title: Inter département équipe DIR
+date: 2018-05-19T00:00:00.000Z
+end: 2018-05-20T00:00:00.000Z
+lieu: St Vallier
+passage: /img/orde-passage-saintvallier.pdf
+convocation: /img/convoc-interdept-saintvallier.pdf
+slug: inter-dep-equipe-dir
 ---
+

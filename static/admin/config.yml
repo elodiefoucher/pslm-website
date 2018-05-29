@@ -86,3 +86,40 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Date", name: "date", widget: "date"}
       - {label: "Titre de l'article", name: "title", widget: "string", tagname: "h1"}
       - {label: "Lien", name: "lien", widget: "string"}
+
+  - name: "Inscription Baby Gym" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Gym Fitness Adhérents" # Used in the UI, ie.: "New Post"
+    folder: "content/baby-gym" # The path to the folder where the documents are stored
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields:
+      - {label: "Infos", name: "body", widget: "markdown"}
+      - {label: "Ne pas toucher", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Ne pas toucher", name: "description", widget: "string"}
+      - {label: "Ne pas toucher", name: "banner", widget: "image"}
+      - {label: "Ne pas toucher", name: "color", widget: "string"}
+      - {label: "Ne pas toucher", name: "background", widget: "string"}
+
+  - name: "baby-gym" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Inscription Baby Gym" # Used in the UI, ie.: "New Post"
+    folder: "content/baby-gym" # The path to the folder where the documents are stored
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields:
+        - {label: "Cours", name: "horaires", widget: "list", required: false, fields: [
+              {label: "Jour", name: "jour", widget: "string"},
+              {label: "Horaire", name: "heures", widget: "string"},
+              {label: "Places restantes", name: "places", widget: "string"}]}
+      - {label: "slug (ne pas modifier)", name: "slug", widget: "string"}
+
+
+      title: "Bébé Gym"
+      slug: bébé-gym
+      horaires:
+       - jour: "mercredi"
+         heures: "9h - 9h45"
+         places: "20"
+       - jour: "vendredi"
+         heures: "10h15 - 11h"
+         places: "20"
+       - jour: "samedi"
+         heures: "8h45 - 9h30"
+         places: "20"

@@ -44,6 +44,8 @@
             {{ end }}
           </ul>
           </div>
+          <p class="placesrestantesintro">En vert sont indiquées le nombres de places restantes en inscription pour la saison 2018/2019</p>
+
         </div>
         <div class="col col-lg-2">
         </div>
@@ -62,9 +64,10 @@
         <p class="card-text">{{ .age }}</p>
         <hr>
         <div class="row">
-        <ul class="horaires mx-auto">
-          <li>{{ .jour }} {{.heures }}</li>
-        </ul>
+          <ul class="mx-auto">
+            <li class="horaires">{{ .jour }} {{ .heures }}</li>
+            <li class="placesrestantes">{{ .places }} places</li>
+          </ul>
         </div>
       </div>
     </div>
@@ -84,9 +87,10 @@
         <p class="card-text">{{ .age }}</p>
         <hr>
         <div class="row">
-        <ul class="horaires mx-auto">
-          <li>{{ .jour }} {{.heures }}</li>
-        </ul>
+          <ul class="mx-auto">
+            <li class="horaires">{{ .jour }} {{ .heures }}</li>
+            <li class="placesrestantes">{{ .places }} places</li>
+          </ul>
         </div>
       </div>
     </div>

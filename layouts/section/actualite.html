@@ -9,15 +9,15 @@
     {{ range .Data.Pages.ByDate.Reverse }}
 <div class="container article">
   <div class="row">
-    <div class="col-md-4 sm-12">
+    <div class="col-lg-4 md-12 sm-12">
         <a href="{{ .URL }}"><img src="{{ .Params.galerieaccueil }}" alt="{{ .Title }}" width="300"></a>
     </div>
-    <div class="col-md-7 sm-12">
+    <div class="col-lg-7 md-12 sm-12">
       <p class="article-date"><time datetime="{{ .Date.Format "2006-01-02" | safeHTML }}">{{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</time></p>
       <a href="{{ .URL }}"><h2>{{ .Title }}</h2></a>
-      <a href="{{ .URL }}"><p>{{ .Params.accueil | markdownify }} [...]</p></a>
+      <a href="{{ .URL }}"><p class="article-ajust">{{ .Params.accueil | markdownify }} [...]</p></a>
       </div>
-    <div class="col-md-2 sm-0">
+    <div class="col-lg-2 md-12 sm-0">
     </div>
   </div>
 </div>

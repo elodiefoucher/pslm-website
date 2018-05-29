@@ -7,8 +7,14 @@ tarifs:
    prix: "230 €"
 horaires2:
  - cours: "Hip-Hop"
-   age: "Kidz 6-10 ans"
+   age: "10-14 ans"
+   jour: "Jeudi"
+   heures: "17h15 - 18h15"
+   places: "20"
+ - cours: "Hip-Hop"
+   age: "6-10 ans"
    jour: "Samedi"
    heures: "9h - 10h"
+   places: "20"
 weight: 2
 ---

@@ -319,6 +319,19 @@ h3 {
   font-weight: bold;
 }
 
+.placesrestantes {
+  font-weight: 600;
+  padding-right: 1rem;
+  list-style-type: none;
+  text-align: right;
+  color: rgb(202,219,63);
+}
+.placesrestantesintro {
+  font-weight: 600;
+  text-align: center;
+  color: rgb(202,219,63);
+}
+
 // Small devices (landscape phones, 576px and up)
 @media (min-width: 576px) { ... }
 
@@ -716,6 +729,13 @@ h3 {
   border-bottom: 1px solid silver;
   color: silver;
   margin-bottom: 5px;
+  padding-top: 1rem;
+}
+
+@media (max-width: 768px) {
+.article-ajust {
+  padding-bottom:3rem;
+}
 }
 
 .article-photo {

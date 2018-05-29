@@ -18,11 +18,12 @@
         <p class="card-text">{{ .Content }}</p>
         <hr>
         <div class="row">
-        <ul class="horaires mx-auto">
-          {{ range .Params.horaires }}
-          <li>{{ .jour }} {{ .heures }}</li>
-          {{ end }}
-        </ul>
+          <ul class="mx-auto">
+            {{ range .Params.horaires }}
+            <li class="horaires">{{ .jour }} {{ .heures }}</li>
+            <li class="placesrestantes">{{ .places }} places</li>
+            {{ end }}
+          </ul>
         </div>
       </div>
     </div>

@@ -6,7 +6,7 @@ color: text-black
 background: banner-light
 ---
 ### Par mail
-1. [**pslmontchat@outlook.com**](mailto:pslmontchat@outlook.com)
+1. [**olibeu972@hotmail.com**](mailto:olibeu972@hotmail.com)
 
 ### Par courrier
 **Patronage Scolaire et Laïque de Montchat**  

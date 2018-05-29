@@ -4,8 +4,7 @@ slug: pirouettes
 horaires:
  - jour: "jeudi"
    heures: "17h - 18h"
- - jour: "vendredi"
-   heures: "14h30 - 15h30"
+   places: "20"
 weight: 4
 ---
-Enfants nés de 2011 à 2007
+Enfants nés de 2008 à 2012

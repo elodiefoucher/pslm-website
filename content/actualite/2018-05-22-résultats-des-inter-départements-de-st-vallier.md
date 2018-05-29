@@ -23,7 +23,7 @@ Deux équipes en DIR 10 ans et + sont passées samedi :
 
 \- L'équipe 1 se classe 14ème, des erreurs en poutre l'éloignent dans le classement mais l'équipe a tout de même fait une bonne prestation en présentant de nouveaux éléments.
 
-Une équipe en DIR B qui est passé dimanche :
+Une équipe en DIR B 10-13 ans qui est passé dimanche :
 
 \- L'équipe se classe 4ème au terme d'une belle compétition malgré quelques erreurs de jeunesse.
 

@@ -1,15 +1,14 @@
 ---
-title: "Galipettes"
-slug: galipettes
+title: Galipettes
 horaires:
- - jour: "mercredi"
-   heures: "9h15 - 10h"
-   places: "20"
- - jour: "mercredi"
-   heures: "17h15 - 18h"
-   places: "20"
- - jour: "samedi"
-   heures: "9h15 - 10h"
-   places: "20"
+  - heures: 9h15 - 10h
+    jour: mercredi
+    places: '15'
+  - heures: 17h15 - 18h
+    jour: mercredi
+    places: '20'
+  - heures: 9h15 - 10h
+    jour: samedi
+    places: '20'
 ---
-Enfants nés en 2015
+

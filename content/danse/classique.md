@@ -45,14 +45,6 @@ horaires4:
    heures: "17h30 - 19h"
    places: "20"
    weight: 4
-tarifs-concours:
- - public: "1 cours + Prépa"
-   prix: "320 €"
-condition: Ces tarifs prennent en compte la préparation et frais d’inscriptionaux concours, le suivi de l’élève, le prêt de costumes (si nécessaire).
-horaires-concours:
- - jour: "mardi"
-   heures: "17h - 18h30"
-weight: 1
 ---
 
 

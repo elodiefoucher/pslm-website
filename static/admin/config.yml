@@ -93,9 +93,63 @@ collections: # A list of collections the CMS should be able to edit
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
         - {label: "Titre", name: "title", widget: "string", tagname: "h1"}
+        - {label: "slug (ne pas modifier)", name: "slug", widget: "string"}
         - {label: "Cours", name: "horaires", widget: "list", required: false, fields: [
               {label: "Jour", name: "jour", widget: "string"},
               {label: "Horaire", name: "heures", widget: "string"},
               {label: "Places restantes", name: "places", widget: "string"}]}
         - {label: "Années d'âge", name: "body", widget: "string"}
+
+  - name: "ecole-de-gym" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Inscription Ecole de Gym" # Used in the UI, ie.: "New Post"
+    folder: "content/ecole-de-gym" # The path to the folder where the documents are stored
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields:
+        - {label: "Titre", name: "title", widget: "string", tagname: "h1"}
         - {label: "slug (ne pas modifier)", name: "slug", widget: "string"}
+        - {label: "Cours", name: "horaires", widget: "list", required: false, fields: [
+              {label: "Jour", name: "jour", widget: "string"},
+              {label: "Horaire", name: "heures", widget: "string"},
+              {label: "Places restantes", name: "places", widget: "string"}]}
+        - {label: "Années d'âge", name: "body", widget: "string"}
+
+  - name: "gym-fitness" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Inscription Gym Fitness" # Used in the UI, ie.: "New Post"
+    folder: "content/gym-fitness" # The path to the folder where the documents are stored
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields:
+        - {label: "Titre", name: "title", widget: "string", tagname: "h1"}
+        - {label: "slug (ne pas modifier)", name: "slug", widget: "string"}
+        - {label: "Cours", name: "horaires", widget: "list", required: false, fields: [
+              {label: "Jour", name: "jour", widget: "string"},
+              {label: "Horaire", name: "heures", widget: "string"},
+              {label: "Places restantes", name: "places", widget: "string"}]}
+        - {label: "Description de l'activité", name: "body", widget: "string"}
+
+  - name: "danse" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Inscription Danse" # Used in the UI, ie.: "New Post"
+    folder: "content/danse" # The path to the folder where the documents are stored
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields:
+        - {label: "Titre", name: "title", widget: "string", tagname: "h1"}
+        - {label: "slug (ne pas modifier)", name: "slug", widget: "string"}
+        - {label: "Cours", name: "horaires2", widget: "list", required: false, fields: [
+              {label: "Cours", name: "cours", widget: "string"},
+              {label: "Places restantes", name: "places", widget: "string"},
+              {label: "Jour", name: "jour", widget: "string"},
+              {label: "Horaire", name: "heures", widget: "string"},
+              {label: "Age", name: "age", widget: "string"},
+              {label: "Ne pas toucher", name: "weight", widget: "string"}]}
+        - {label: "Cours", name: "horaires4", widget: "list", required: false, fields: [
+              {label: "Cours", name: "cours", widget: "string"},
+              {label: "Places restantes", name: "places", widget: "string"},
+              {label: "Jour", name: "jour", widget: "string"},
+              {label: "Horaire", name: "heures", widget: "string"},
+              {label: "Age", name: "age", widget: "string"},
+              {label: "Ne pas modifier", name: "weight", widget: "string"}]}
+        - {label: "Description (ne pas modifier)", name: "description", widget: "string"}
+        - {label: "Tarifs", name: "tarifs", widget: "list", required: false, fields: [
+              {label: "Public", name: "public", widget: "string"},
+              {label: "Prix", name: "prix", widget: "string"},
+        - {label: "Ne pas modifier", name: "weight", widget: "string"}
+        - {label: "COncours", name: "body", required: false, widget: "string"}

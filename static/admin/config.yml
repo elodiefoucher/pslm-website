@@ -97,3 +97,5 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Jour", name: "jour", widget: "string"},
               {label: "Horaire", name: "heures", widget: "string"},
               {label: "Places restantes", name: "places", widget: "string"}]}
+        - {label: "Années d'âge", name: "body", widget: "string"}
+        - {label: "slug (ne pas modifier)", name: "slug", widget: "string"}

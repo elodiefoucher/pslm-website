@@ -150,6 +150,6 @@ collections: # A list of collections the CMS should be able to edit
         - {label: "Description (ne pas modifier)", name: "description", widget: "string"}
         - {label: "Tarifs", name: "tarifs", widget: "list", required: false, fields: [
               {label: "Public", name: "public", widget: "string"},
-              {label: "Prix", name: "prix", widget: "string"},
+              {label: "Prix", name: "prix", widget: "string"}]}
         - {label: "Ne pas modifier", name: "weight", widget: "string"}
         - {label: "COncours", name: "body", required: false, widget: "string"}

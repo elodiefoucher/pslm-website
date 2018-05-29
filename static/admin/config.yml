@@ -147,9 +147,18 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Horaire", name: "heures", widget: "string"},
               {label: "Age", name: "age", widget: "string"},
               {label: "Ne pas modifier", name: "weight", widget: "string"}]}
+        - {label: "Prépa concours (Classique)", name: "horairesconcours", widget: "list", required: false, fields: [
+              {label: "Cours", name: "cours", widget: "string"},
+              {label: "Places restantes", name: "places", widget: "string"},
+              {label: "Jour", name: "jour", widget: "string"},
+              {label: "Horaire", name: "heures", widget: "string"},
+              {label: "Age", name: "age", widget: "string"}]}
         - {label: "Description (ne pas modifier)", name: "description", widget: "string"}
         - {label: "Tarifs", name: "tarifs", widget: "list", required: false, fields: [
               {label: "Public", name: "public", widget: "string"},
               {label: "Prix", name: "prix", widget: "string"}]}
         - {label: "Ne pas modifier", name: "weight", widget: "string"}
         - {label: "COncours", name: "body", required: false, widget: "string"}
+        - {label: "Tarifs concours", name: "tarifsconcours", widget: "list", required: false, fields: [
+              {label: "Public", name: "public", widget: "string"},
+              {label: "Prix", name: "prix", widget: "string"}]}

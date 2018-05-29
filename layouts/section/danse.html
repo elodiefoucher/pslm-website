@@ -45,7 +45,6 @@
           </ul>
           </div>
           <p class="placesrestantesintro">En vert sont indiquées le nombres de places restantes en inscription pour la saison 2018/2019</p>
-
         </div>
         <div class="col col-lg-2">
         </div>
@@ -98,12 +97,44 @@
     {{ end }}
   </div>
   </section>
-  {{ if isset .Params "condition" }}
+  {{ if isset .Params "tarifsconcours" }}
 <div class="container classique">
   <div class="content">
   <p>{{ .Content }}</p>
 </div>
 </div>
+<section class="container-inscription">
+      <div class="row justify-content-md-center">
+        <div class="col-lg-2">
+        </div>
+        <div class="col-md-auto">
+          <div class="tarifs">
+            <ul class="list-group">
+              {{ range .Params.tarifsconcours }}
+            <li class="list-group-item">{{ .public }} - {{ .prix }}</li>
+            {{ end }}
+          </ul>
+          </div>
+        </div>
+          {{ range .Params.horairesconcours }}
+          <div class="col col-lg-3 col-sm-12 d-flex align-items-stretch col-centered">
+          <div class="card text-center mx-auto">
+            <div class="card-body">
+              <h2>{{ .cours }}</h2>
+                <hr>
+              <p class="card-text">{{ .age }}</p>
+              <hr>
+              <div class="row">
+                <ul class="mx-auto">
+                  <li class="horaires">{{ .jour }} {{ .heures }}</li>
+                  <li class="placesrestantes">{{ .places }} places</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          </div>
+          {{ end }}
+        </div>
 {{ end }}
 <div class="col-md-2 col-centered button-inscription mx-auto">
   <a href="/inscription"><button type="button" class="btn btn-light">INSCRIPTION</button></a>

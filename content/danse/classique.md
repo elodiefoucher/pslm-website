@@ -45,10 +45,17 @@ horaires4:
    heures: "17h30 - 19h"
    places: "20"
    weight: 4
+tarifsconcours:
+  - public: "1 cours + Prépa"
+    prix: "320 €"
+horairesconcours:
+  - cours: "Prépa Concours"
+    age: "cf professeur pour niveau"
+    jour: "mardi"
+    heures: "17h - 18h30"
+    places: "20"
+weight: 1
 ---
-
-
-
 
 ### **Prépa Concours**
 
@@ -58,3 +65,4 @@ horaires4:
 * Avant les vacances de la Toussaint, et après entretien avec l’élève et ses parents, le professeur proposera de présenter l’élève à 1 ou 2 concours.
 * Il doit se compléter d’un ou deux cours collectif(s) par semaine.
 * Un cours d’essai est proposé pour chaque nouvelle élève.
+* Les tarifs prennent en compte la préparation et frais d’inscription aux concours, le suivi de l’élève, le prêt de costumes (si nécessaire).

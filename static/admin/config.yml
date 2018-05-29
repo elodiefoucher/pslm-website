@@ -108,16 +108,3 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Jour", name: "jour", widget: "string"},
               {label: "Horaire", name: "heures", widget: "string"},
               {label: "Places restantes", name: "places", widget: "string"}]}
-
-      title: "Bébé Gym"
-      slug: bébé-gym
-      horaires:
-       - jour: "mercredi"
-         heures: "9h - 9h45"
-         places: "20"
-       - jour: "vendredi"
-         heures: "10h15 - 11h"
-         places: "20"
-       - jour: "samedi"
-         heures: "8h45 - 9h30"
-         places: "20"

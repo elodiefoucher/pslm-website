@@ -425,6 +425,11 @@ h3 {
 .button-inscription {
   margin: 2rem;
 }
+.plaquette {
+  color: rgb(0,109,152);
+  padding-top: 3rem;
+  font-weight: 600;
+}
 
 /* Danse classique */
 

@@ -1,18 +1,18 @@
 ---
-title: "Gympilates"
+title: Gympilates
 slug: gympilates
 horaires:
-- jour: "lundi"
-  heures: "21h - 21h45"
-  places: "20"
-- jour: "mardi"
-  heures: "20h15 - 21h"
-  places: "20"
-- jour: "vendredi"
-  heures: "11h15 - 12h"
-  places: "20"
-- jour: "vendredi"
-  heures: "18h30 - 19h15"
-  places: "20"
+  - heures: 21h - 21h45
+    jour: lundi
+    places: '16'
+  - heures: 20h15 - 21h
+    jour: mardi
+    places: '13'
+  - heures: 11h15 - 12h
+    jour: vendredi
+    places: '10'
+  - heures: 18h30 - 19h15
+    jour: vendredi
+    places: '15'
 ---
 Exercices de renforcements lents, axés sur les postures et la respiration.

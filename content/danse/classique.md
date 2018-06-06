@@ -1,60 +1,65 @@
 ---
-title: "Danse Classique"
+title: Danse Classique
 slug: danse-classique
-description: "Jouer, danser au rythme de la musique, c'est l'apprentissage des premiers pas d'un petit rat. <br>Pas à pas, entre plié et temps lié, la technique classique et la grâce se développeront et nous ferons rêver. <br>Puis viendra le temps de se hisser sur la pointe des pieds et d'enchainer pirouettes et sauts de chat."
-tarifs:
- - public: "1 cours par semaine"
-   prix: "225 €"
- - public: "2 cours par semaine"
-   prix: "295 €"
 horaires2:
- - cours: "Eveil"
-   age: "Enfants nés en 2013-2014"
-   jour: "mercredi"
-   heures: "15h45 - 16h30"
-   places: "20"
-   weight: 1
- - cours: "Initiation"
-   age: "Enfants nés en 2011-2012"
-   jour: "mercredi"
-   heures: "15h - 15h45"
-   places: "20"
-   weight: 2
+  - age: Enfants nés en 2013-2014
+    cours: Eveil
+    heures: 15h45 - 16h30
+    jour: mercredi
+    places: '12'
+    weight: 1
+  - age: Enfants nés en 2011-2012
+    cours: Initiation
+    heures: 15h - 15h45
+    jour: mercredi
+    places: '8'
+    weight: 2
 horaires4:
- - cours: "Classique 1"
-   age: "Enfants nés à partir de 2010"
-   jour: "mercredi"
-   heures: "14h - 15h"
-   places: "20"
-   weight: 1
- - cours: "Classique 2"
-   age: "cf professeur pour niveau"
-   jour: "mercredi"
-   heures: "16h30 - 17h30"
-   places: "20"
-   weight: 2
- - cours: "Classique 3"
-   age: "cf professeur pour niveau"
-   jour: "mercredi"
-   heures: "13h - 14h"
-   places: "20"
-   weight: 3
- - cours: "Classique 4"
-   age: "cf professeur pour niveau"
-   jour: "mercredi"
-   heures: "17h30 - 19h"
-   places: "20"
-   weight: 4
-tarifsconcours:
-  - public: "1 cours + Prépa"
-    prix: "320 €"
+  - age: Enfants nés à partir de 2010
+    cours: Classique 1
+    heures: 14h - 15h
+    jour: mercredi
+    places: '12'
+    weight: 1
+  - age: cf professeur pour niveau
+    cours: Classique 2
+    heures: 16h30 - 17h30
+    jour: mercredi
+    places: '13'
+    weight: 2
+  - age: cf professeur pour niveau
+    cours: Classique 3
+    heures: 13h - 14h
+    jour: mercredi
+    places: '14'
+    weight: 3
+  - age: cf professeur pour niveau
+    cours: Classique 4
+    heures: 17h30 - 19h
+    jour: mercredi
+    places: '13'
+    weight: 4
 horairesconcours:
-  - cours: "Prépa Concours"
-    age: "cf professeur pour niveau"
-    jour: "mardi"
-    heures: "17h - 18h30"
-    places: "20"
+  - age: cf professeur pour niveau
+    cours: Prépa Concours
+    heures: 17h - 18h30
+    jour: mardi
+    places: '20'
+description: >-
+  Jouer, danser au rythme de la musique, c'est l'apprentissage des premiers pas
+  d'un petit rat. <br>Pas à pas, entre plié et temps lié, la technique classique
+  et la grâce se développeront et nous ferons rêver. <br>Puis viendra le temps
+  de se hisser sur la pointe des pieds et d'enchainer pirouettes et sauts de
+  chat.
+tarifs:
+  - prix: 225 €
+    public: 1 cours par semaine
+  - prix: 295 €
+    public: 2 cours par semaine
 weight: 1
+tarifsconcours:
+  - prix: 320 €
+    public: 1 cours + Prépa
 ---
 
 ### **Prépa Concours**

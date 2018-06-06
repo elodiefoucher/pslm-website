@@ -1,9 +1,9 @@
 ---
-title: "Zumba Urban Dance"
+title: Zumba Urban Dance
 slug: zumba-urban-dance
 horaires:
-- jour: "jeudi"
-  heures: "19h30 - 20h15"
-  places: "20"
+  - heures: 19h30 - 20h15
+    jour: jeudi
+    places: '16'
 ---
 Mélange de danse et de fitness, l’urban dance repose sur un cocktail musical varié.

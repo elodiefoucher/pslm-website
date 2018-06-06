@@ -6,6 +6,4 @@ horaires:
     jour: mardi
     places: '10'
 ---
-(15 personnes MAXI)
-Gymnastique dynamique composée de mouvements chorégraphiés permettant le développement cardio-vasculaire, le renforcement
-musculaire, la coordination et la mémoire.
+(17 personnes MAXI)Gymnastique dynamique composée de mouvements chorégraphiés permettant le développement cardio-vasculaire, le renforcementmusculaire, la coordination et la mémoire.

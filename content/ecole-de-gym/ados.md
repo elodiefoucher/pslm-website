@@ -1,10 +1,9 @@
 ---
-title: "Ados"
+title: Ados
 slug: ados
 horaires:
- - jour: "vendredi"
-   heures: "19h - 20h30"
-   places: "20"
-weight: 6
+  - heures: 19h - 20h30
+    jour: vendredi
+    places: '18'
 ---
 Enfants nés de 2001 à 2004

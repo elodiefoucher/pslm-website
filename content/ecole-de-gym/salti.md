@@ -1,10 +1,9 @@
 ---
-title: "Salti"
+title: Salti
 slug: salti
 horaires:
- - jour: "mercredi"
-   heures: "18h - 19h30"
-   places: "20"
-weight: 5
+  - heures: 18h - 19h30
+    jour: mercredi
+    places: '18'
 ---
 Enfants nés de 2005 à 2008

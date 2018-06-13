@@ -4,12 +4,12 @@ slug: stretching
 horaires:
   - heures: 10h15 - 11h15
     jour: mardi
-    places: '4'
+    places: COMPLET
   - heures: 10h15 - 11h15
     jour: vendredi
-    places: '10'
+    places: COMPLET
   - heures: 20h15 - 21h
     jour: vendredi
-    places: '16'
+    places: '13'
 ---
 Exercices d’assouplissements, d’étirements et de relaxation du corps.

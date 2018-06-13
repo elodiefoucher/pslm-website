@@ -11,7 +11,7 @@ horaires4:
     cours: Ados
     heures: 11h - 12h30
     jour: Samedi
-    places: '15'
+    places: '14'
   - age: 16-18 ans
     cours: Ados
     heures: 12h30 - 14h

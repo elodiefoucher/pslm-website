@@ -3,17 +3,17 @@ title: Moderne Jazz
 slug: modern-jazz
 horaires4:
   - age: 8-10 ans
-    cours: Débutants
+    cours: 8/11 ans
     heures: 10h - 11h
     jour: Samedi
-    places: '16'
+    places: '15'
   - age: 12-15 ans
-    cours: Ados
+    cours: 12/15 ans
     heures: 11h - 12h30
     jour: Samedi
-    places: '14'
+    places: '12'
   - age: 16-18 ans
-    cours: Ados
+    cours: 16/18 ans
     heures: 12h30 - 14h
     jour: Samedi
     places: '15'

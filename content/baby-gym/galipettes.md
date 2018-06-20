@@ -4,12 +4,12 @@ slug: galipettes
 horaires:
   - heures: 9h15 - 10h
     jour: mercredi
-    places: '13'
+    places: '12'
   - heures: 17h15 - 18h
     jour: mercredi
-    places: '19'
+    places: '18'
   - heures: 9h15 - 10h
     jour: samedi
-    places: '15'
+    places: '14'
 ---
 Enfants nés en 2015

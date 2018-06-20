@@ -4,7 +4,7 @@ slug: bébé-gym
 horaires:
   - heures: 9h - 9h45
     jour: mercredi
-    places: '16'
+    places: '13'
   - heures: 10h15 - 11h
     jour: vendredi
     places: '16'

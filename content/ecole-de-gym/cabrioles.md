@@ -7,12 +7,12 @@ horaires:
     places: COMPLET
   - heures: 10h45 - 11h45
     jour: mercredi
-    places: '17'
+    places: '14'
   - heures: 16h - 17h
     jour: mercredi
-    places: '12'
+    places: '11'
   - heures: 9h30 - 10h30
     jour: samedi
-    places: '6'
+    places: COMPLET
 ---
 Enfants nés en 2013-2014

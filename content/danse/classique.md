@@ -6,14 +6,14 @@ horaires2:
     cours: Eveil
     heures: 15h45 - 16h30
     jour: mercredi
-    places: '10'
+    places: '7'
     weight: 1
   - age: Enfants nés en 2011-2012
     cours: Initiation
     heures: 15h - 15h45
     jour: mercredi
     places: '3'
-    weight: 2
+    weight: COMPLET
 horaires4:
   - age: Enfants nés à partir de 2010
     cours: Classique 1
@@ -25,19 +25,19 @@ horaires4:
     cours: Classique 2
     heures: 16h30 - 17h30
     jour: mercredi
-    places: '11'
+    places: '7'
     weight: 2
   - age: cf professeur pour niveau
     cours: Classique 3
     heures: 13h - 14h
     jour: mercredi
-    places: '12'
+    places: '8'
     weight: 3
   - age: cf professeur pour niveau
     cours: Classique 4
     heures: 17h30 - 19h
     jour: mercredi
-    places: '13'
+    places: '11'
     weight: 4
 horairesconcours:
   - age: cf professeur pour niveau

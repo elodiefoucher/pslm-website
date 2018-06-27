@@ -4,7 +4,7 @@ slug: renforcements-musculaires
 horaires:
   - heures: 18H30 - 19h30
     jour: lundi
-    places: '1'
+    places: COMPLET
   - heures: 9h15 - 10h15
     jour: mardi
     places: '6'

@@ -10,6 +10,6 @@ horaires:
     places: COMPLET
   - heures: 20h15 - 21h
     jour: vendredi
-    places: '13'
+    places: '11'
 ---
 Exercices d’assouplissements, d’étirements et de relaxation du corps.

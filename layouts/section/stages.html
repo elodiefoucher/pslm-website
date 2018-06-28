@@ -2,26 +2,55 @@
 
 {{ partial "banner.html" . }}
 
-{{ partial "description.html" . }}
+<section class="container">
+  <div class="description-top">
+  <p class="lead">{{ .Description | markdownify }}</p>
+  </div>
+</section>
 
-<!--<section class="container">
+<section class="container">
   <div class="stage">
-      <img src="/img/stage-paques-2018.jpg" alt="Stage pâques" style="text-center">
+    {{ range .Data.Pages }}
+    <h2>{{ .Params.title }}</h2>
+    <h3>{{ .Params.quand }}</h3>
+    <p>{{ .Params.qui }}</p>
+    <img src="/doc/stages/stage-aout-2018.png" alt="Stage pâques" class="text-center">
+    <p style="color:black;">{{ .Params.heure | markdownify }}</p>
+    <p style="color:black;">{{ .Params.ps }}</p>
+    <br>
+    <h3>{{ .Params.tarif | markdownify }}</h3>
+  </div>
+      {{ end }}
+      <div class="stage-doc">
       <div class="container-stage">
     <div class="row">
     <div class="col col-lg-4 col-md-6 col-sm-12 col-centered">
-      <a href="/img/stage-reservation-paques.pdf" target="_blank"><p>Fiche de réservation</p></a>
+      <a href="/doc/stages/stage-reservation-paques.pdf" target="_blank">
+       <img src="/img/icon-doc-b.png" alt="doc" width="60rem">
+       <p>Fiche de réservation</p></a>
     </div>
     <div class="col col-lg-4 col-md-6 col-sm-12 col-centered">
-      <a href="/doc/stage-inscription.pdf" target="_blank"><p>Fiche d'inscription</p></a>
+      <a href="/doc/stages/stage-inscription.pdf" target="_blank">
+        <img src="/img/icon-doc-b.png" alt="doc" width="60rem">
+        <p>Fiche d'inscription</p></a>
     </div>
     <div class="col col-lg-4 col-md-6 col-sm-12 col-centered">
-      <a href="/doc/stage-fiche-sanitaire.jpg" target="_blank"><p>Fiche sanitaire</p></a>
+      <a href="/doc/stages/stage-fiche-sanitaire.jpg" target="_blank">
+        <img src="/img/icon-doc-b.png" alt="doc" width="60rem">
+        <p>Fiche sanitaire</p></a>
     </div>
   </div>
 </div>
 </div>
-</section>-->
+</section>
+
+<section class="container">
+<div class="description-deroule">
+<div class="content">
+  <p>{{ .Content | markdownify }}</p>
+</div>
+</div>
+</section>
 
 
 {{ end }}

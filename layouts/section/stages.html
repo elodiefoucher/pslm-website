@@ -15,10 +15,11 @@
     <h3>{{ .Params.quand }}</h3>
     <p>{{ .Params.qui }}</p>
     <img src="/doc/stages/stage-aout-2018.png" alt="Stage pâques" class="text-center">
-    <p style="color:black;">{{ .Params.heure | markdownify }}</p>
-    <p style="color:black;">{{ .Params.ps }}</p>
+    <h3>{{ .Params.heure | markdownify }}</h3>
+    <p>{{ .Params.ps }}</p>
     <br>
     <h3>{{ .Params.tarif | markdownify }}</h3>
+    <p style="margin-top:2rem;">Renseignements : {{ .Params.tel }}<br>pslmontchat@outlook.fr</p>
   </div>
       {{ end }}
       <div class="stage-doc">

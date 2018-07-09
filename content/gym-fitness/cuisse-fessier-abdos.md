@@ -7,12 +7,12 @@ horaires:
     places: '14'
   - heures: 20h15 - 21h
     jour: lundi
-    places: '1'
+    places: COMPLET
   - heures: 10h - 10h45
     jour: mercredi
     places: '19'
   - heures: 20h15 - 21h
     jour: mercredi
-    places: '8'
+    places: '4'
 ---
 Renforcement musculaire spécifique des Cuisses, des Fessiers et des Abdominaux.

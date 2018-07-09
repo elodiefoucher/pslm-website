@@ -6,12 +6,12 @@ horaires2:
     cours: Hip-Hop
     heures: 17h15 - 18h15
     jour: Jeudi
-    places: '15'
+    places: COURS ANNULE
   - age: 6-10 ans
     cours: Hip-Hop
     heures: 9h - 10h
     jour: Samedi
-    places: '11'
+    places: '7'
 description: >-
   La danse hip-hop est une danse urbaine née aux Etats-Unis. <br>Elle compte de
   multiples disciplines telles que le locking, le popping, le break, la house,

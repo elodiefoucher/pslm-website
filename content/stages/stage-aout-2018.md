@@ -1,5 +1,6 @@
 ---
-title: "Stages d'Août"
+title: "Stage d'Août" 
+subtitle: "Gym / Multi-activités"
 quand: "Du 27 au 31 Août 2018"
 qui: "Enfants de 5 à 15 ans"
 heure: "**de 9h à 17h**"

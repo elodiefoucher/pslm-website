@@ -12,6 +12,7 @@
   <div class="stage">
     {{ range .Data.Pages }}
     <h2>{{ .Params.title }}</h2>
+    <h3 style="font-size:2.4rem;font-weight: 600;">{{ .Params.subtitle }}</h3>
     <h3>{{ .Params.quand }}</h3>
     <p>{{ .Params.qui }}</p>
     <img src="/doc/stages/stage-aout-2018.png" alt="Stage pâques" class="text-center">
@@ -19,11 +20,12 @@
     <p>{{ .Params.ps }}</p>
     <br>
     <h3>{{ .Params.tarif | markdownify }}</h3>
-    <p style="margin-top:2rem;">Renseignements : {{ .Params.tel }}<br>pslmontchat@outlook.fr</p>
+    <p style="margin-top:2rem;">Renseignements et inscription : {{ .Params.tel }}<br>pslmontchat@outlook.fr</p>
   </div>
       {{ end }}
       <div class="stage-doc">
       <div class="container-stage">
+        <h3 style="margin-bottom:3rem;">Documents à télécharger pour l'inscription</h3>
     <div class="row">
     <div class="col col-lg-4 col-md-6 col-sm-12 col-centered">
       <a href="/doc/stages/stage-reservation.pdf" target="_blank">

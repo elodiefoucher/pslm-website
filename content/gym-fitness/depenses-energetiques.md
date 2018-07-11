@@ -7,13 +7,13 @@ horaires:
     places: COMPLET
   - heures: 19h30 - 20h15
     jour: mercredi
-    places: '10'
+    places: '7'
   - heures: 9h15 - 10h
     jour: mercredi
-    places: '16'
+    places: '19'
   - heures: 20h15 - 21h
     jour: jeudi
-    places: '16'
+    places: '14'
 ---
 
 Solliciter la filière cardio-respiratoire à l’aide de HIA (High Impact Aérobic), de circuit cardio cross-training, de body combat, de step… Permet une dépense maximale de calorie.

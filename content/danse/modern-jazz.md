@@ -6,12 +6,12 @@ horaires4:
     cours: 8/11 ans
     heures: 10h - 11h
     jour: Samedi
-    places: '10'
+    places: '9'
   - age: 12-15 ans
     cours: 12/15 ans
     heures: 11h - 12h30
     jour: Samedi
-    places: '8'
+    places: COMPLET
   - age: 16-18 ans
     cours: 16/18 ans
     heures: 12h30 - 14h

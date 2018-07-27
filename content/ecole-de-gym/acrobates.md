@@ -7,7 +7,7 @@ horaires:
     places: '10'
   - heures: 15h - 16h
     jour: mercredi
-    places: '5'
+    places: '2'
   - heures: 10h30 - 11h30
     jour: samedi
     places: '10'

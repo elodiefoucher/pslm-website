@@ -10,6 +10,6 @@ horaires:
     places: '14'
   - heures: 8h45 - 9h30
     jour: samedi
-    places: '7'
+    places: '5'
 ---
 Enfants nés en 2016- 2017

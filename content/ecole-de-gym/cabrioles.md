@@ -4,15 +4,15 @@ slug: cabrioles
 horaires:
   - heures: 9h45 - 10h45
     jour: mercredi
-    places: '2'
+    places: '1'
   - heures: 10h45 - 11h45
     jour: mercredi
-    places: '10'
+    places: '9'
   - heures: 16h - 17h
     jour: mercredi
-    places: '8'
+    places: '7'
   - heures: 9h30 - 10h30
     jour: samedi
-    places: '1'
+    places: COMPLET
 ---
 Enfants nés en 2013-2014

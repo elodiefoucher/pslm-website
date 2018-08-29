@@ -6,7 +6,7 @@ horaires2:
     cours: Eveil
     heures: 15h45 - 16h30
     jour: mercredi
-    places: '2'
+    places: COMPLET
     weight: 1
   - age: Enfants nés en 2011-2012
     cours: Initiation

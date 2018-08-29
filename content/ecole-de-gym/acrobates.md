@@ -7,9 +7,9 @@ horaires:
     places: '9'
   - heures: 15h - 16h
     jour: mercredi
-    places: '2'
+    places: '3'
   - heures: 10h30 - 11h30
     jour: samedi
-    places: '9'
+    places: '7'
 ---
 Enfants nés en 2011-2012

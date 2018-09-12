@@ -6,7 +6,7 @@ horaires4:
     cours: 8/11 ans
     heures: 10h - 11h
     jour: Samedi
-    places: '9'
+    places: '5'
   - age: 12-15 ans
     cours: 12/15 ans
     heures: 11h - 12h30

@@ -4,13 +4,13 @@ slug: gympilates
 horaires:
   - heures: 21h - 21h45
     jour: lundi
-    places: '8'
+    places: COMPLET
   - heures: 20h15 - 21h
     jour: mardi
-    places: '5'
+    places: COMPLET
   - heures: 11h15 - 12h
     jour: vendredi
-    places: '16'
+    places: '15'
   - heures: 18h30 - 19h15
     jour: vendredi
     places: COMPLET

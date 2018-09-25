@@ -136,6 +136,16 @@ a:active {
   color: rgb(215,29,36);
 }
 
+.content h6 {
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  line-height: 2rem;
+  color: rgb(0,109,152);
+}
+
 .content p {
   margin-left: 2rem;
 }
@@ -460,7 +470,10 @@ h3 {
   line-height: 2.5;
 }
 
-
+img[alt=dossier-de-partenariat] {
+  width: 10%;
+  text-align: center;
+}
 
 @media (max-width: 576px) {
 .partenaires {

@@ -33,7 +33,7 @@ partenairetop12:
   lien: http://montchatenfete.fr/
 - nom: Symbolik
   img: /img/partenaire-symbolik.png
-  lien: https://www.facebook.com/symbolik.fr
+  lien: https://www.symbolik.fr
 - nom: Montchat Perché
   img: /img/partenaire-montchat-perche.png
 - nom: Citron Vert
@@ -63,10 +63,12 @@ Nous pourrons ainsi :
 * **Améliorer le quotidien de nos adhérents** et nous permettre de continuer à développer sereinement un enseignement de grande qualité dans les meilleures conditions possibles.
 * **Soutenir les frais qu'engendre une pratique vers la performance** (déplacements en compétition, gymnastes en centre de haut niveau)
 
-Nous nous engageons à faire connaitre votre entreprise à travers tous nos supports médiatiques, presse, réseaux sociaux, annonces micro, affichage dans la salle, logo sur nos tenue de compétition, nos flyers et tous nos documents de communication. 
+Nous nous engageons à faire connaitre votre entreprise à travers nos supports médiatiques, presse, réseaux sociaux, annonces micro, affichage dans la salle, logo sur nos tenues de compétition, nos flyers et tous nos documents de communication. 
 
 ​
 ## Comment devenir partenaire ?
+
+###### [**Télécharger le Dossier de Partenariat**](../doc/dossier-partenariat-pslm.pdf)
 
 ### 4 Types de partenariats possibles :
 
@@ -78,5 +80,6 @@ Nous nous engageons à faire connaitre votre entreprise à travers tous nos supp
 ### Une personne à contacter
 
 1. **Laetitia BASTIN** (Commission communication)  **06 13 59 11 06** - laetitia.bastin@gmail.com
+
 
 ## Nos moyens de communication :

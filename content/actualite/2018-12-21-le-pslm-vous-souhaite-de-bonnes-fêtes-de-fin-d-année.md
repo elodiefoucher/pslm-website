@@ -1,5 +1,5 @@
 ---
-title: Le PSLM vous souhaite de bonnes fêtes de fin d'année
+title: Le PSLM vous souhaite de bonnes fêtes de fin d'année !
 date: '2018-12-21'
 galerieaccueil: /img/actu-18-12-21a.jpg
 galerie:

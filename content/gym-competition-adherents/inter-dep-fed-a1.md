@@ -1,8 +1,8 @@
 ---
-title: Région individuel Performance - Fédérale A
-date: 2019-04-27
-end: 2019-04-28
-lieu: Villefranche sur Saône
+title: Inter-département Equipe Fédérale A1
+date: 2019-05-18
+end: 2019-05-19
+lieu: Saint Vallier
 passage:
 convocation:
 ---

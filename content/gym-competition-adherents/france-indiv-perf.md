@@ -1,8 +1,9 @@
 ---
 title: Championnat de France individuel Performance
-date: 2018-05-04T00:00:00.000Z
-end: 2018-05-06T00:00:00.000Z
-lieu: Auxerre
+date: 2019-05-10
+end: 2019-05-12
+lieu: Mouilleron-le-Captif
+---
 resultats:
   - athlete:
       - nom: Selma LONGEON
@@ -27,4 +28,3 @@ resultats:
     categorie: Nationale 21 ans et plus
 slug: france-indiv-perf
 ---
-

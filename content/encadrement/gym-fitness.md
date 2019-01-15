@@ -6,11 +6,11 @@ encadrement:
    fonction: "Coach Gym Fitness"
    entree: "1994"
    img: "/img/encadrement-marie-eve-gerboud.jpg"
- - nom: "Estelle VARAGNAT"
+ - nom: "Colin"
    diplome: "DEUST métiers de la forme"
    fonction: "Coach Gym Fitness"
-   entree: "2004"
-   img: "/img/encadrement-estelle-varagnat.jpg"
+   entree: "2018"
+   img: "/img/encadrement-colin.jpg"
  - nom: "Vérane DA COSTA SILVA"
    diplome: "DEUST métiers de la forme"
    fonction: "Coach Gym Fitness"
@@ -18,3 +18,8 @@ encadrement:
    img: "/img/encadrement-verane-da-costa-silva.jpg"
 weight: 2
 ---
+- nom: "Estelle VARAGNAT"
+  diplome: "DEUST métiers de la forme"
+  fonction: "Coach Gym Fitness"
+  entree: "2004"
+  img: "/img/encadrement-estelle-varagnat.jpg"

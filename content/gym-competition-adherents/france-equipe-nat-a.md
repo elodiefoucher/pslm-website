@@ -1,8 +1,9 @@
 ---
-title: Championnat de France National A
-date: 2018-06-01T00:00:00.000Z
-end: 2018-06-03T00:00:00.000Z
-lieu: Villefranche-sur-Saône
+title: Championnat de France Equipe A
+date: 2019-05-24
+end: 2019-05-26
+lieu: Saint-Quentin en Yvelines
+---
 resultats:
   - athlete:
       - nom: 'Chloé, Manon, Zoé, Salomé, Audrey'
@@ -11,4 +12,3 @@ resultats:
     categorie: Division Nationale 5
 slug: france-equipe-nat-a
 ---
-

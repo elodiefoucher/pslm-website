@@ -1,10 +1,11 @@
 ---
-title: "Département indiv Performance"
-date: 2017-12-16
-end: 2017-12-17
+title: "Département indiv Performance - Fédérale A"
+date: 2019-02-02
+end: 2019-02-03
 slug: "dep-ind-perf"
-lieu: "Lyon"
-passage: "http://www.comiterhonegym.fr/sites/default/files/files/GAF%20Indiv_%20LYON%2017_12_17(3).pdf"
+lieu: "Francheville"
+passage: "http://www.comiterhonegym.fr/sites/default/files/files/Orga%20GAF%20francheville%20M%C3%A0J%2014_01_19(2).pdf"
+---
 resultats:
 - categorie: "Nationale A 13 ans"
   athlete:

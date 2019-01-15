@@ -1,11 +1,12 @@
 ---
-title: "Inter département Individuel Performance"
+title: "Inter département Individuel Performance - Fédérale A"
 slug: "inter-dep-indiv-perf"
-date: 2018-03-03
-end: 2018-03-04
+date: 2019-03-02
+end: 2019-03-03
 lieu: "Privas"
-passage: "http://auvergne-rhone-alpes.ffgym.fr/Evenements/GAM-GAF-Competition-Inter-dep-CENTRE-Individuels-Perf-Nat-Reg-DIR"
-convocation: "/doc/convoc-interdept-indiv-privas.pdf"
+passage:
+convocation:
+---
 resultats:
 - categorie: "Nationale 13 ans"
   athlete:

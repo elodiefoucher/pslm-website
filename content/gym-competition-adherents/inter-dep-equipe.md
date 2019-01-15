@@ -1,11 +1,11 @@
 ---
-title: Inter département Equipe National et Fédéral A
-date: 2018-03-17T00:00:00.000Z
-end: 2018-03-18T00:00:00.000Z
-lieu: Pierrelatte
-passage: >-
-  http://auvergne-rhone-alpes.ffgym.fr/Evenements/GAM-GAF-Competition-Inter-dep-CENTRE-Equipes-Perf-Nat-Reg-Fed-A
-convocation: /doc/convoc-interdept-equipes-pierrelatte.pdf
+title: Inter département Equipe Performance et Fédérale A
+date: 2019-03-16
+end: 2019-03-17
+lieu: L'Arbresle
+passage:
+convocation:
+---
 resultats:
   - athlete:
       - nom: 'Flore, Solenne, Laurie, Léa, Maureen'
@@ -32,4 +32,3 @@ resultats:
     categorie: Nationale 12 ans et plus
 slug: inter-dep-eq
 ---
-

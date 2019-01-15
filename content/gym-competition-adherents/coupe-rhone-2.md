@@ -1,11 +1,12 @@
 ---
-title: "Coupe du Rhône Etape 2 - Département équipe DIR"
+title: "Coupe du Rhône Etape 2 - Formagym 2"
 slug: "coupe-rhone-2"
-date: 2018-03-10
-end: 2018-03-11
+date: 2019-01-19
+end: 2019-01-20
 lieu: "Grigny"
-passage: "http://www.comiterhonegym.fr/sites/default/files/files/ODP%20GRIGNY%20GAF%20(7).pdf"
-convocation: "/doc/convoc-cdr2-dept-dir-grigny.pdf"
+passage: "http://www.comiterhonegym.fr/sites/default/files/files/ODP%20GRIGNY%20GAF%20(12).pdf"
+convocation:
+---
 resultats:
 - categorie: "DIR A 10 ans et +"
   athlete:
@@ -38,4 +39,3 @@ resultats:
    - nom: "Anna"
      place: "7ème"
      points: "47"
----

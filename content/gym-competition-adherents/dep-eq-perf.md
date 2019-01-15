@@ -1,11 +1,12 @@
 ---
-title: "Département équipe Performance"
+title: "Département équipe Performance - Fédérale A"
 slug: "dep-eq-perf"
-date: 2018-01-27
-end: 2018-01-28
-lieu: "Francheville"
-passage: "http://www.comiterhonegym.fr/sites/default/files/files/Orga%20GAF(8).pdf"
-convocation: "/doc/convoc-dept-equipes-francheville.pdf"
+date: 2019-02-09
+end: 2019-02-10
+lieu: "Villefranche-sur-Saône"
+passage:
+convocation:
+---
 resultats:
  - categorie: "Nationale 10-11 ans"
    athlete:

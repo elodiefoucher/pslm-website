@@ -1,10 +1,11 @@
 ---
 title: Région équipe Performance
-date: 2018-04-28T00:00:00.000Z
-end: 2018-04-29T00:00:00.000Z
-lieu: Oyonnax
-passage: /img/orde-passage-oyo.pdf
-convocation: /img/convoc-region-equipes-oyonnax.pdf
+date: 2019-04-13
+end: 2019-04-14
+lieu: "Saint-Etienne"
+passage:
+convocation:
+---
 resultats:
   - athlete:
       - nom: 'Lilou, Lynaïs, Salomé.L, Eloïse, Emilie'
@@ -26,4 +27,3 @@ resultats:
     categorie: Nationale 12 ans et plus
 slug: reg-equipe-perf
 ---
-

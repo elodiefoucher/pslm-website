@@ -4,10 +4,15 @@ date: '2018-11-26'
 galerieaccueil: /img/actu-18-11-26.jpg
 galerie:
   - photo: /img/actu-18-11-26.jpg
-  - {}
-  - {}
-  - {}
-  - {}
+  - photo: /img/actu-18-11-26a.jpg
+  - photo: /img/actu-18-11-26b.jpg
+  - photo: /img/actu-18-11-26c.jpg
+  - photo: /img/actu-18-11-26d.jpg
+  - photo: /img/actu-18-11-26e.jpg
+  - photo: /img/actu-18-11-26f.jpg
+  - photo: /img/actu-18-11-26g.jpg
+  - photo: /img/actu-18-11-26h.jpg
+  - photo: /img/actu-18-11-26i.jpg
 accueil: >-
   Ce weekend s'est déroulé le match Top 12 qui nous voyait rencontrer Combs la
   Ville.  Une rencontre qui a été marquée par un événement un peu particulier :

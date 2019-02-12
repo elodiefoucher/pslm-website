@@ -1,7 +1,7 @@
 ---
 title: Remise de prix !
 date: '2019-02-12'
-galerieaccueil: /img/actu-19-02-12f.jpg
+galerieaccueil: /img/actu-19-02-04.jpg
 galerie:
   - photo: /img/actu-19-02-12.jpg
   - photo: /img/actu-19-02-12a.jpg

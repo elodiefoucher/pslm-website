@@ -19,32 +19,32 @@ horaires4:
     cours: Classique 1
     heures: 14h - 15h
     jour: mercredi
-    places: '1'
+    places: '1 place'
     weight: 1
   - age: cf professeur pour niveau
     cours: Classique 2
     heures: 16h30 - 17h30
     jour: mercredi
-    places: '7'
+    places: '7 places'
     weight: 2
   - age: cf professeur pour niveau
     cours: Classique 3
     heures: 13h - 14h
     jour: mercredi
-    places: '3'
+    places: '3 places'
     weight: 3
   - age: cf professeur pour niveau
     cours: Classique 4
     heures: 17h30 - 19h
     jour: mercredi
-    places: '5'
+    places: '5 places'
     weight: 4
 horairesconcours:
   - age: cf professeur pour niveau
     cours: Prépa Concours
     heures: 17h - 18h30
     jour: mardi
-    places: '20'
+    places: '20 places'
 description: >-
   Jouer, danser au rythme de la musique, c'est l'apprentissage des premiers pas
   d'un petit rat. <br>Pas à pas, entre plié et temps lié, la technique classique

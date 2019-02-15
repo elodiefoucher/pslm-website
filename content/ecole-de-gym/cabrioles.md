@@ -10,7 +10,7 @@ horaires:
     places: COMPLET
   - heures: 16h - 17h
     jour: mercredi
-    places: '1'
+    places: '1 place'
   - heures: 9h30 - 10h30
     jour: samedi
     places: COMPLET

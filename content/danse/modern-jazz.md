@@ -6,7 +6,7 @@ horaires4:
     cours: 8/11 ans
     heures: 10h - 11h
     jour: Samedi
-    places: '5'
+    places: '5 places'
   - age: 12-15 ans
     cours: 12/15 ans
     heures: 11h - 12h30
@@ -16,12 +16,12 @@ horaires4:
     cours: 16/18 ans
     heures: 12h30 - 14h
     jour: Samedi
-    places: '6'
+    places: '6 places'
   - age: 18 ans et +
     cours: Adultes
     heures: 19h30 - 21h
     jour: Vendredi
-    places: '10'
+    places: '10 places'
 description: >-
   Le moderne jazz puise un travail technique et en second un travail
   rythmique.<br>En moderne jazz nous avons une plus grande liberté du corps.
@@ -38,4 +38,3 @@ tarifs:
     public: Modern Jazz Adulte
 weight: 3
 ---
-

@@ -4,7 +4,7 @@ slug: cuisses-fessiers-abdos
 horaires:
   - heures: 12h30 - 13h15
     jour: lundi
-    places: '13'
+    places: '13 places'
   - heures: 20h15 - 21h
     jour: lundi
     places: COMPLET

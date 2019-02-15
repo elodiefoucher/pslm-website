@@ -10,7 +10,7 @@ horaires:
     places: COMPLET
   - heures: 11h15 - 12h
     jour: vendredi
-    places: '15'
+    places: '15 places'
   - heures: 18h30 - 19h15
     jour: vendredi
     places: COMPLET

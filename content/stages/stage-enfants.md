@@ -1,7 +1,7 @@
 ---
-title: "Stage de Février"
+title: "Stage d'Avril"
 subtitle: "Gym / Multi-activités"
-quand: "Du 18 au 22 février 2019"
+quand: "Du 15 au 19 avril 2019"
 qui: "Enfants à partir de 5 ans"
 heure: "de 9h à 17h"
 ps: "accueil des enfants de 9h à 9h30"

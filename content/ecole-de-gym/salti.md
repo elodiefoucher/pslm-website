@@ -4,6 +4,6 @@ slug: salti
 horaires:
   - heures: 18h - 19h30
     jour: mercredi
-    places: COMPLET
+    places: 20 places
 ---
-Enfants nés de 2005 à 2008
+Enfants nés de 2006 à 2009

@@ -2,17 +2,11 @@
 title: Cuisses / Fessiers / Abdos
 slug: cuisses-fessiers-abdos
 horaires:
-  - heures: 12h30 - 13h15
-    jour: lundi
-    places: '13 places'
   - heures: 20h15 - 21h
     jour: lundi
-    places: COMPLET
-  - heures: 10h - 10h45
-    jour: mercredi
-    places: ANNULE
+    places: 20 places
   - heures: 20h15 - 21h
     jour: mercredi
-    places: COMPLET
+    places: 20 places
 ---
 Renforcement musculaire spécifique des Cuisses, des Fessiers et des Abdominaux.

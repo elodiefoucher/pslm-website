@@ -2,26 +2,26 @@
 title: Modern-Jazz
 slug: modern-jazz
 horaires4:
-  - age: 8-10 ans
-    cours: 8/11 ans
+  - age: 8-11 ans
+    cours: Enfant
     heures: 10h - 11h
     jour: Samedi
-    places: '5 places'
+    places: '20 places'
   - age: 12-15 ans
-    cours: 12/15 ans
+    cours: Ado
     heures: 11h - 12h30
     jour: Samedi
-    places: COMPLET
+    places: 20 places
   - age: 16-18 ans
-    cours: 16/18 ans
+    cours: Ado
     heures: 12h30 - 14h
     jour: Samedi
-    places: '6 places'
+    places: '20 places'
   - age: 18 ans et +
-    cours: Adultes
+    cours: Adulte
     heures: 19h30 - 21h
     jour: Vendredi
-    places: '10 places'
+    places: '20 places'
 description: >-
   Le moderne jazz puise un travail technique et en second un travail
   rythmique.<br>En moderne jazz nous avons une plus grande liberté du corps.
@@ -30,11 +30,11 @@ description: >-
   ceux qui souhaitent libérer leur esprit, leurs tensions et ressentir la
   musique.
 tarifs:
-  - prix: 225 €
-    public: Modern Jazz Débutant
-  - prix: 245 €
+  - prix: 230 €
+    public: Modern Jazz Enfant
+  - prix: 250 €
     public: Modern Jazz Ado
-  - prix: 245 €
+  - prix: 250 €
     public: Modern Jazz Adulte
 weight: 3
 ---

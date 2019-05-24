@@ -4,9 +4,9 @@ slug: flic-flac
 horaires:
   - heures: 13h30 - 15h
     jour: mercredi
-    places: COMPLET
+    places: 20 places
   - heures: 18h - 19h30
     jour: jeudi
-    places: COMPLET
+    places: 20 places
 ---
-Enfants nés en 2009-2010
+Enfants nés en 2010-2011

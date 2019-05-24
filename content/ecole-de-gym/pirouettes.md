@@ -4,6 +4,6 @@ slug: pirouettes
 horaires:
   - heures: 17h - 18h
     jour: jeudi
-    places: '6 places'
+    places: '20 places'
 ---
-Enfants nés de 2008 à 2012
+Enfants nés de 2009 à 2013

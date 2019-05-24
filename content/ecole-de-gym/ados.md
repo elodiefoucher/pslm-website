@@ -4,6 +4,6 @@ slug: ados
 horaires:
   - heures: 19h - 20h30
     jour: vendredi
-    places: '15 places'
+    places: '20 places'
 ---
-Enfants nés de 2001 à 2004
+Enfants nés de 2002 à 2005

@@ -22,7 +22,7 @@ color: "text-black"
 background: "banner-light"
 ---
 ## Déroulement des inscriptions :
-- Du 3 juin au 7 juillet 2018, au club : tous les soirs à partir de 17h, et les samedi matin de 9h à 12h.
+- Du 3 juin au 7 juillet 2019, au club : tous les soirs à partir de 17h, et les samedi matin de 9h à 12h.
 - Du 19 août et tout au long de l’année, au club : les soirs à partir de 17h et les samedi matin de 9h à 12h.
 - Vendredi 28 juin au gala de danse
 - Mardi 25 juin à la soirée finale

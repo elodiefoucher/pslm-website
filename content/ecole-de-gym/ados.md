@@ -1,9 +1,10 @@
 ---
-title: Ados
+title: Ado
 slug: ados
 horaires:
-  - heures: 19h - 20h30
+  - heures: 18h30 - 20h
     jour: vendredi
     places: '20 places'
+weight: 7
 ---
 Enfants nés de 2002 à 2005

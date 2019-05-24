@@ -11,5 +11,6 @@ horaires:
   - heures: 10h30 - 11h30
     jour: samedi
     places: '20 places'
+weight: 2
 ---
 Enfants nés en 2012-2013

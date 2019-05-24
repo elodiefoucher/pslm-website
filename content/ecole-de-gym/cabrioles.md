@@ -14,5 +14,6 @@ horaires:
   - heures: 9h30 - 10h30
     jour: samedi
     places: 20 places
+weight: 1
 ---
 Enfants nés en 2014-2015

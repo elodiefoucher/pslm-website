@@ -723,6 +723,16 @@ img[alt=dossier-de-partenariat] {
   text-align: right;
 }
 
+.inscriptions {
+  text-align: center;
+  color: rgb(0,109,152);
+}
+
+.container-inscription {
+  padding-top: 2rem;
+}
+
+
 /* Actualité */
 
 .article {

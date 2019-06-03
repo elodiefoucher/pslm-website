@@ -1,5 +1,5 @@
 ---
-title: Championnats de France équipe
+title: Championnats de France équipe 2019
 date: '2019-05-24'
 galerieaccueil: /img/actu-19-05-24.jpg
 galerie:

@@ -1,5 +1,5 @@
 ---
-title: 'Résultats des Championnats de France '
+title: Résultats des championnats de France 2019
 date: '2019-06-03'
 galerieaccueil: /img/actu-19-06-02.jpg
 galerie:

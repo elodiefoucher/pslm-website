@@ -17,8 +17,7 @@ horaires4:
     heures: 12h30 - 14h
     jour: Samedi
     places: '20 places'
-  - age: 18 ans et +
-  (école Jules Verne)
+  - age: 18 ans et +<br>(école Jules Verne)
     cours: Adulte
     heures: 19h30 - 21h
     jour: Vendredi

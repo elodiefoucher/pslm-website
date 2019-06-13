@@ -4,6 +4,6 @@ slug: zumba-urban-dance
 horaires:
   - heures: 19h30 - 20h15
     jour: jeudi
-    places: '20 places'
+    places: '13 places'
 ---
 Mélange de danse et de fitness, l’urban dance repose sur un cocktail musical varié.

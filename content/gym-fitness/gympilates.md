@@ -10,6 +10,6 @@ horaires:
     places: COMPLET
   - heures: 18h30 - 19h15
     jour: vendredi
-    places: 7 places
+    places: 5 places
 ---
 Exercices de renforcements lents, axés sur les postures et la respiration.

@@ -7,7 +7,7 @@ horaires:
     places: 2 places
   - heures: 10h30 - 11h30
     jour: vendredi
-    places: 7 places
+    places: 6 places
   - heures: 20h15 - 21h
     jour: vendredi
     places: '12 places'

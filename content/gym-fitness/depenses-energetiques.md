@@ -7,7 +7,7 @@ horaires:
     places: 2 places
   - heures: 19h30 - 20h15
     jour: mercredi
-    places: '14 places'
+    places: '13 places'
   - heures: 20h15 - 21h
     jour: jeudi
     places: '17 places'

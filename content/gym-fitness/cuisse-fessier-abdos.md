@@ -7,6 +7,6 @@ horaires:
     places: 3 places
   - heures: 20h15 - 21h
     jour: mercredi
-    places: 11 places
+    places: 10 places
 ---
 Renforcement musculaire spécifique des Cuisses, des Fessiers et des Abdominaux.

@@ -2,7 +2,7 @@
 title: "Baby Gym"
 slug: baby-gym
 description: "Durant les séances votre enfant **découvre les mouvements** qu'il peut réaliser avec son corps à travers un circuit de modules en mousse, tunnel, parachute et autre matériel dédié aux jeunes enfants. <br>Votre enfant, curieux de découvrir les situations qui lui sont proposées, **s'aventure** au gré de son choix, joue, manipule des objets, saute, glisse, rampe, grimpe, tourne, chante..."
-condition: "La Baby Gym concerne un public âgé de 18 mois à 4 ans.<br>Lors du cours des 18 mois à 3 ans le samedi matin, la présence des parents est obligatoire pour le plus grand plaisir de l'enfant."
+condition: "La Baby Gym concerne un public âgé de 18 mois à 4 ans.<br>Lors du cours des 18 mois à 3 ans, la présence des parents est obligatoire pour le plus grand plaisir de l'enfant."
 tarifs:
  - public: mixte
    prix: 215 €

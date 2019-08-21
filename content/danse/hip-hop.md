@@ -6,7 +6,7 @@ horaires2:
     cours: Hip-Hop
     heures: 9h - 10h
     jour: Samedi
-    places: '15 places'
+    places: '7 places'
 description: >-
   La danse hip-hop est une danse urbaine née aux Etats-Unis. <br>Elle compte de
   multiples disciplines telles que le locking, le popping, le break, la house,

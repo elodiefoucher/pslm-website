@@ -4,7 +4,7 @@ slug: renforcements-doux
 horaires:
   - heures: 11h30 - 12h15
     jour: mardi
-    places: '13 places'
+    places: '12 places'
   - heures: 11h30 - 12h15
     jour: vendredi
     places: '19 places'

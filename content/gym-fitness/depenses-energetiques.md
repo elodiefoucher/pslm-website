@@ -4,7 +4,7 @@ slug: depenses-energetiques
 horaires:
   - heures: 19h30 - 20h15
     jour: lundi
-    places: 2 places
+    places: 1 places
   - heures: 19h30 - 20h15
     jour: mercredi
     places: '13 places'

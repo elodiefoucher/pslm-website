@@ -4,13 +4,13 @@ slug: acrobates
 horaires:
   - heures: 10h - 11h
     jour: mercredi
-    places: '6 places'
+    places: '4 places'
   - heures: 11h - 12h
     jour: mercredi
-    places: '15 places'
+    places: '13 places'
   - heures: 15h - 16h
     jour: mercredi
-    places: 11 places
+    places: 10 places
   - heures: 10h30 - 11h30
     jour: samedi
     places: '9 places'

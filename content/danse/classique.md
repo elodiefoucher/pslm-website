@@ -31,13 +31,13 @@ horaires4:
     cours: Classique 3
     heures: 13h - 14h
     jour: mercredi
-    places: '11 places'
+    places: '6 places'
     weight: 3
   - age: cf professeur pour niveau
     cours: Classique 4
     heures: 17h30 - 19h
     jour: mercredi
-    places: '16 places'
+    places: '11 places'
     weight: 4
   - age: Début de ce cours après la Toussaint. Avec validation du professeur
     cours: Classique 3 & 4

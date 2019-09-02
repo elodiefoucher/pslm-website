@@ -4,12 +4,12 @@ slug: galipettes
 horaires:
   - heures: 9h15 - 10h
     jour: mercredi
-    places: '2 places'
+    places: 'COMPLET'
   - heures: 17h15 - 18h
     jour: mercredi
-    places: '15 places'
+    places: '12 places'
   - heures: 9h15 - 10h
     jour: samedi
-    places: '9 places'
+    places: '6 places'
 ---
 Enfants nés en 2016

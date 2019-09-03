@@ -4,8 +4,11 @@ date: '2019-06-10'
 galerieaccueil: /img/actu-19-06-10.jpg
 galerie:
   - photo: /img/actu-19-06-10.jpg
+  - photo: /img/actu-19-06-10a.jpg
+  - photo: /img/actu-19-06-10b.jpg
+  - photo: /img/actu-19-06-10c.jpg
 accueil: >-
-  A St Brieuc s'est déroulé ce week end les championnats de France Elite. 
+  A St Brieuc s'est déroulé ce week end les championnats de France Elite.
   Magnifique compétition de Lilou qui lui permet de
 ---
 A St Brieuc s'est déroulé ce week end les championnats de France Elite.

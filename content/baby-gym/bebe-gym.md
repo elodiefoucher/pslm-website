@@ -4,15 +4,15 @@ slug: bébé-gym
 horaires:
   - heures: 9h - 9h45
     jour: mercredi
-    places: 8 places
+    places: 4 places
   - heures: 9h30 - 10h15
     jour: vendredi
-    places: '19 places'
+    places: 19 places
   - heures: 10h15 - 11h
     jour: vendredi
-    places: '10 places'
+    places: 6 places
   - heures: 8h45 - 9h30
     jour: samedi
-    places: 7 places
+    places: COMPLET
 ---
 Enfants nés en 2017- 2018

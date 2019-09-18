@@ -6,22 +6,22 @@ horaires4:
     cours: Enfant
     heures: 10h - 11h
     jour: Samedi
-    places: '10 places'
+    places: 6 places
   - age: 12-15 ans
     cours: Ado
     heures: 11h - 12h30
     jour: Samedi
-    places: 8 places
+    places: 5 places
   - age: 16-18 ans
     cours: Ado
     heures: 12h30 - 14h
     jour: Samedi
-    places: '6 places'
+    places: 4 places
   - age: 18 ans et +<br>(école Jules Verne)
     cours: Adulte
     heures: 19h30 - 21h
     jour: Vendredi
-    places: '16 places'
+    places: 10 places
 description: >-
   Le moderne jazz puise un travail technique et en second un travail
   rythmique.<br>En moderne jazz nous avons une plus grande liberté du corps.
@@ -38,3 +38,4 @@ tarifs:
     public: Modern Jazz Adulte
 weight: 3
 ---
+

@@ -7,12 +7,12 @@ horaires:
     places: 2 places
   - heures: 11h - 12h
     jour: mercredi
-    places: 10 places
+    places: 11 places
   - heures: 15h - 16h
     jour: mercredi
     places: 4 places
   - heures: 10h30 - 11h30
     jour: samedi
-    places: 10 places
+    places: 9 places
 ---
 Enfants nés en 2012-2013

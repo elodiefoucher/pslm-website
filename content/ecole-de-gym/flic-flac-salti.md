@@ -5,6 +5,8 @@ horaires:
   - heures: 18h - 19h30
     jour: jeudi
     places: COMPLET
-weight: 5
+  - heures: 10h30 - 12h
+    jour: samedi
+    places: 7 places
 ---
 Enfants nés en 2006-2011

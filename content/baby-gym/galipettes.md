@@ -4,7 +4,7 @@ slug: galipettes
 horaires:
   - heures: 9h15 - 10h
     jour: mercredi
-    places: COMPLET
+    places: 2 places
   - heures: 17h15 - 18h
     jour: mercredi
     places: 8 places

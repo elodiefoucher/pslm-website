@@ -4,10 +4,10 @@ slug: cabrioles
 horaires:
   - heures: 9h45 - 10h45
     jour: mercredi
-    places: COMPLET
+    places: 1 place
   - heures: 10h45 - 11h45
     jour: mercredi
-    places: 4 places
+    places: 3 places
   - heures: 16h - 17h
     jour: mercredi
     places: COMPLET

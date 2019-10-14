@@ -729,11 +729,18 @@ img[alt=dossier-de-partenariat] {
 }
 
 .container-inscription {
-  padding-top: 2rem;
+  border-style: dashed;
+  border-color: rgba(0,109,152, 0.7);
 }
 
 .inscriptionh3 {
   padding-top: 2rem;
+}
+
+.a-la-une {
+  color: rgb(255,255,255);
+  background-color: rgba(0,109,152, 0.7);
+  padding-left: 2rem
 }
 
 /* Actualité */

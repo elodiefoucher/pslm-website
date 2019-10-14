@@ -1,10 +1,10 @@
 ---
 title: Professeure Danse
 encadrement:
- - nom: " Laetitia SIMONIN - FEUGAS"
+ - nom: "Ruth"
    diplome: "DE Danse classique"
    fonction: "Danse classique"
-   entree: "2007"
+   entree: "2017"
    img: "/img/encadrement-none.jpg"
  - nom: " Julie KATCHADOURIAN"
    diplome: "Formation Hip Hop"

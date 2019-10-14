@@ -5,7 +5,7 @@ weight: 1
 ---
 
 
-C’est **20 administrateurs, un bureau directeur, 12 salariés** soit l'équivalent de 3 temps-pleins pour accueillir chaque semaine **650 adhérents** et ainsi leur permettre de pratiquer une activité physique dans une ambiance familiale et conviviale.
+C’est **20 administrateurs, un bureau directeur, 12 salariés** soit l'équivalent de 3 temps-pleins pour accueillir chaque semaine **730 adhérents** et ainsi leur permettre de pratiquer une activité physique dans une ambiance familiale et conviviale.
 
 Le club dispose d’une équipe jeune et dynamique regroupant aussi **des bénévoles** de tout horizon et de tout âge.
 

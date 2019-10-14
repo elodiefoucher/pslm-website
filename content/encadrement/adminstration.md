@@ -7,7 +7,7 @@ conseil:
    nom: "Marc CHOURAQUI"
  - fonction: "Vice-Présidente"
    nom: "Florence VILLAIN"
- - fonction: "Présidents d'honneur"
+ - fonction: "Président d'honneur"
    nom: "Jérôme VICAR"
  - fonction: "Trésorière"
    nom: "Pascale VARAGNAT"

@@ -10,7 +10,7 @@ horaires:
     places: 11 places
   - heures: 15h - 16h
     jour: mercredi
-    places: 4 places
+    places: 3 places
   - heures: 10h30 - 11h30
     jour: samedi
     places: 9 places

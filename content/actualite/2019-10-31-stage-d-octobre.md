@@ -1,5 +1,5 @@
 ---
-title: 'Stage d''octobre '
+title: Retour sur le stage d'octobre !
 date: '2019-10-31'
 galerieaccueil: /img/actu-19-10-30.jpg
 galerie:

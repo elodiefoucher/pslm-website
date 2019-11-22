@@ -20,6 +20,9 @@ partenaire:
 - nom: Office des Sport lyon
   img: /img/partenaire-osl.png
   lien: http://www.oslyon.com/
+- nom: A corps et accord
+  img: /img/partenaire-a-corps-et-accord.png
+  lien: https://acorpsetaccord.jimdo.com/
 partenairetop12:
 
 - nom: Kaffee Berlin

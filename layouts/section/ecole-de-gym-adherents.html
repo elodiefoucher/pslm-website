@@ -1,0 +1,21 @@
+{{ define "main"  }}
+
+{{ partial "banner.html" . }}
+
+
+<section class="container cours-home">
+  <div class="description-top">
+    <p class="lead">{{ .Description | markdownify }}</p>
+    </div>
+    <div class="description-deroule gym-fitness-adherents-infos">
+    <h1>Baby Gym</h1>
+    <div class="description-top">
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/qm9ZYorNUFY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Tf9l6P19NJc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+  </div>
+</section>
+
+
+{{ end }}

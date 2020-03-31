@@ -1104,12 +1104,16 @@ img[alt=dossier-de-partenariat] {
 
 /* gYm fitness adhérents */
 
-.gym-fitness-adherents-infos h1 {
+.gym-fitness-adherents-infos p {
   text-align: center;
-  text-transform: uppercase;
-  font-weight: 400;
-  padding-bottom: 2rem;
-}
+
+  }
+.gym-fitness-adherents-infos h1 {
+  font-weight: 300;
+  border-bottom: 1px solid rgb(202,219,63);
+  margin: 2rem;
+  margin-bottom: 2rem
+  }
 
 .gym-fitness-adherents-infos h2 {
  font-weight: 400;
@@ -1118,4 +1122,47 @@ img[alt=dossier-de-partenariat] {
 
 .gym-fitness-adherents-infos li {
   list-style: circle;
+  margin-left: 4rem;
+}
+.content h2 {
+  font-weight: 300;;
+  text-transform: uppercase;
+  border-bottom: 1px solid silver;
+  margin-bottom: 1.5rem;
+}
+
+.content h3 {
+  font-weight: 300;
+  border-bottom: 1px solid rgb(202,219,63);
+  margin: 1rem;
+  }
+
+.content h4 {
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  margin-top: 6rem;
+  margin-bottom: 2rem;
+  line-height: 2rem;
+  color: rgb(215,29,36);
+}
+
+.content h5 {
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  line-height: 2rem;
+  color: rgb(215,29,36);
+}
+
+.content h6 {
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  line-height: 2rem;
+  color: rgb(0,109,152);
 }

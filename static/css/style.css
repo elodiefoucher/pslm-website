@@ -732,6 +732,8 @@ img[alt=dossier-de-partenariat] {
 .container-inscription {
   border-style: dashed;
   border-color: rgba(0,109,152, 0.7);
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 .inscriptionh3 {
@@ -742,6 +744,7 @@ img[alt=dossier-de-partenariat] {
   color: rgb(255,255,255);
   background-color: rgba(0,109,152, 0.7);
   padding-left: 2rem
+
 }
 
 /* Actualité */

@@ -740,11 +740,31 @@ img[alt=dossier-de-partenariat] {
   padding-top: 2rem;
 }
 
+/*A la une */
+
 .a-la-une {
   color: rgb(255,255,255);
   background-color: rgba(0,109,152, 0.7);
-  padding-left: 2rem
+}
 
+.btn-blue {
+    background-color: rgba(0,109,152, 0.8);
+    border: none;
+    color: white;
+    padding: 6px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1rem;
+    transition-duration: 0.4s;
+    box-shadow: 0 3px 3px 0 rgba(0,0,0,0.2), 0 3px 3px 0 rgba(0,0,0,0.19);
+
+}
+.btn-blue:hover {
+  background-color: rgba(0,109,152, 0.8);
+  color: white;
+  box-shadow: 0 3px 3px 0 rgba(0,0,0,0.3), 0 3px 3px 0 rgba(0,0,0,0.3);
+  font-size: 1.02rem;
 }
 
 /* Actualité */

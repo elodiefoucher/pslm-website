@@ -727,13 +727,13 @@ img[alt=dossier-de-partenariat] {
 .inscriptions {
   text-align: center;
   color: rgb(0,109,152);
+  padding-left: 2rem;
+  padding-right: 2rem;
 }
 
 .container-inscription {
   border-style: dashed;
   border-color: rgba(0,109,152, 0.7);
-  padding-left: 1rem;
-  padding-right: 1rem;
 }
 
 .inscriptionh3 {
@@ -745,6 +745,10 @@ img[alt=dossier-de-partenariat] {
 .a-la-une {
   color: rgb(255,255,255);
   background-color: rgba(0,109,152, 0.7);
+}
+
+.a-la-une h1 {
+  padding-left: 2rem;
 }
 
 .btn-blue {

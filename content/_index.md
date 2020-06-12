@@ -79,3 +79,14 @@ icon:
 color: "text-green"
 background: "banner-dark"
 ---
+ En raison d'un problème d'application du décret relatif<br>
+ à la réouverture des gymnases et structures sportives,<br>
+ la ville de Lyon ne peut assurer la réouverture du gymnase Jeanne d'Arc.
+ <br><br>
+_________
+_____
+<br>
+## Inscriptions 2020-2021
+
+### Les inscriptions débuterons le 23 Juin 2020
+<br>

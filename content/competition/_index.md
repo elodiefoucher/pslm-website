@@ -5,11 +5,10 @@ thumbnail: /img/home-banner.png
 inscription:
 tarifs:
 - public: 2 Entraînements/semaine
-  prix: "375€"
+  prix: "335€"
 - public: 3 Entraînements/semaine
-  prix: 405 €
-condition: "Ces prix incluent la licence FFG de 40€<br>
-A partir de 4 entraînements par semaine les tarifs compétition sont à demander directement au bureau."
+  prix: 365 €
+condition: "A partir de 4 entraînements par semaine les tarifs compétition sont à demander directement au bureau."
 banner: "/img/banner-competition.jpg"
 color: "text-blue"
 background: "banner-light"

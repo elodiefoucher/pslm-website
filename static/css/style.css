@@ -414,7 +414,9 @@ h3 {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 5rem;
-
+}
+.list-group-item-fraisfixes {
+  font-weight: 300;
 }
 
 .titre-cours {
@@ -551,7 +553,10 @@ img[alt=dossier-de-partenariat] {
   font-weight: bold;
   color: rgb(0,109,152);
 }
-
+.nouveau-inscription {
+  font-weight: 500;
+  color: rgb(215,29,36);
+}
 
 @media (max-width: 576px) {
   .container-inscription {
@@ -731,9 +736,20 @@ img[alt=dossier-de-partenariat] {
   padding-right: 2rem;
 }
 
-.container-inscription {
+.container-a-la-une {
   border-style: dashed;
   border-color: rgba(0,109,152, 0.7);
+}
+@media (max-width: 576px) {
+  .container-a-la-une {
+    margin: 1rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .container-a-la-une {
+    margin: 4rem;
+  }
 }
 
 .inscriptionh3 {

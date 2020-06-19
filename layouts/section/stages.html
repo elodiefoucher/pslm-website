@@ -12,22 +12,25 @@
 
   <div class="stage">
     {{ range .Data.Pages }}
+    <div class="content-stage">
+      <p>{{ .Content | markdownify }}</p>
+    </div>
+    <br><br>
     <h2>{{ .Params.title }}</h2>
     <h3 style="font-size:2.4rem;font-weight: 600;">{{ .Params.subtitle }}</h3>
     <h3>{{ .Params.quand }}</h3>
-    <!--<h3>{{ .Params.quand1 }}</h3>
-    <h3>{{ .Params.quand2 }}</h3>-->
+    <h3>{{ .Params.quand1 }}</h3>
     <p>{{ .Params.qui }}</p>
-    <br><br><br><br>
-    <img src="/doc/stages/stage-fevrier-2020.png" alt="Stage février" class="text-center">
+  <!--  <img src="/doc/stages/stage-fevrier-2020.png" alt="Stage février" class="text-center">
     <h3>{{ .Params.heure }}</h3>
-    <p>{{ .Params.ps }}</p>
+    <p>{{ .Params.ps }}</p>-->
     <br>
     <h3>{{ .Params.tarif | markdownify }}</h3>
     <p style="margin-top:2rem;">Renseignements et inscription : {{ .Params.tel }}<br>pslmontchat@outlook.fr</p>
   </div>
+  <br><br>
       {{ end }}
-      <div class="stage-doc">
+  <!--    <div class="stage-doc">
       <div class="container-stage">
         <h3 style="margin-bottom:3rem;">Documents à télécharger pour l'inscription</h3>
     <div class="row">
@@ -48,7 +51,7 @@
     </div>
   </div>
 </div>
-</div>
+</div>-->
 </section>
 
 <section class="container">

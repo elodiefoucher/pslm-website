@@ -17,7 +17,7 @@ documents:
  - photo: "/img/inscription-danse.png"
    lien: "/doc/inscription-danse.pdf"
    nom: "Danse"
-banner: "/img/banner-inscription.jpg"
+banner: "/img/banner-inscription2.jpg"
 color: "text-black"
 background: "banner-light"
 ---

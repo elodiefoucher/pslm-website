@@ -3,13 +3,13 @@ title: "s'inscrire en ligne"
 description: "Chaque personne voulant s'inscrire au PSLM doit désormais avoir un compte personnel sur sigpas.fr/pslm. Pour les enfants, le compte peut être relié à celui de son parent s'il est lui aussi adhérent au PSLM."
 
 conditions: "Nous vous rappelons que pour valider l'inscription il nous faut impérativement le règlement.<br> Le certificat médical est obligatoire pour les activités gyms."
-banner: "/img/banner-inscription.jpg"
+banner: "/img/banner-inscription2.jpg"
 color: "text-black"
 background: "banner-light"
 ---
 ### Créer un compte
 - Créez votre identifiant et votre mot de passe
-- Remplissez vos **Informations personnelles**, elles sont nécessaire pour toute inscriptions
+- Remplissez vos **Informations personnelles**, elles sont nécessaire pour toute inscription
 
 ### Créer un compte pour mon enfant
 - Dans **Espace Personnel** sélectionnez **Autre compte avec la même adresse**
@@ -23,7 +23,8 @@ background: "banner-light"
 - Etape 3/6 : pour la Gym Fitness, sélectionnez le ou les cours désiré(s)
 - Etape 4/6 : sélectionnez votre réduction si vous y avez droit
 - Etape 6/6 : vérifier que le montant est exact puis cliquer sur **S'inscrire**
-- Vous avez 15 jours à compter de cette étape pour nous faire parvenir le réglement afin de valider votre inscription.
+- Vous avez 15 jours à compter de cette étape pour nous faire parvenir le réglement afin de valider votre inscription
+- Si le cours est complet vous serez automatiquement mis sur liste d'attente
 
 ### S'inscrire à un événement ou un stage
 - Dans **Mes inscriptions** sélectionnez **Inscription à un événement**

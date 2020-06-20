@@ -31,6 +31,7 @@ background: "banner-light"
 - Cliquez sur le bouton vert **S'inscrire à un événement**
 - Sélectionnez l'événement ou le stage souhaité puis cliquez sur le bouton bleu **Etape suivante de l'inscription**
 - Validez votre demande d'incription
+- si l'événement est complet vous serez automatiquement mis sur liste d'attente
 
 ### Régler une inscription
 - Vous pouvez payer en chéques, espèces, chèques vacances, coupons sport

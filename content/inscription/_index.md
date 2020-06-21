@@ -46,7 +46,7 @@ background: "banner-light"
 ### Pour Gym Artistique Compétitions :
 - 1 chèque location de la tenue 25 € (Justo) ou 50 € (Justo + survet)
 - 1 chèque de caution 100 € rendu au retour de la tenue.
-- Pour tout nouvel adherent la validation de l'inscription se fera après essai et confirmation par l'équipe du PSLM.
+- Pour tout nouvel adhérent la validation de l'inscription se fera après essai et confirmation par l'équipe du PSLM.
 
 ## Saison 2020 / 2021
 - Début des cours à partir du 14 septembre pour toutes les activités

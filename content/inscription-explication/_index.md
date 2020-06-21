@@ -11,6 +11,7 @@ background: "banner-light"
 - Créez votre identifiant et votre mot de passe
 - Remplissez vos **Informations personnelles**, elles sont nécessaire pour toute inscription
 
+
 ### Créer un compte pour mon enfant
 - Dans **Espace Personnel** sélectionnez **Autre compte avec la même adresse**
 - Remplissez les champs Nom et Prénom et rentrez votre mot de passe
@@ -39,5 +40,7 @@ background: "banner-light"
 - En le déposant dans la boite aux lettres du PSLM qui est relevée tous les jours,
 - En l'envoyant par courrier au 33 rue Jeanne d'Arc, 69003 Lyon
 
+### Le site ne fonctionne pas
+ - Si votre fournisseur d'accès internet est Orange, il est possible que le site ne fonctionne pas sur votre ordinateur ou votre téléphone, essayez d'une autre connection internet.
 
 #### <a href="https://sigpas.fr/pslm" target="_blank">> S'inscrire sur sigpas.fr/pslm <</a>

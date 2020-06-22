@@ -36,7 +36,8 @@ background: "banner-light"
 
 ### Régler une inscription
 - Vous pouvez payer en chéques, espèces, chèques vacances, coupons sport
-- En main propre au PSLM lors des permanences,
+- Veuillez indiquer sur une enveloppe le nom, le prénom, l'horaire et le groupe de l'adhérent pour lequel vous faites le réglement.
+- Vous pouvez le remettre en main propre au PSLM lors des permanences,
 - En le déposant dans la boite aux lettres du PSLM qui est relevée tous les jours,
 - En l'envoyant par courrier au 33 rue Jeanne d'Arc, 69003 Lyon
 

@@ -28,9 +28,10 @@ background: "banner-light"
 <a href="/inscription-explication/">Besoin d'explication ? Lisez notre pas à pas  ---> PAS A PAS</a></div>
 
 ### Permanences paiement et aide à l'inscription en ligne (au bureau du PSLM) :
+**Port du masque obligatoire**
 
 - Mardi 23 juin de 17h à 19h30 (Olivier)
-- Mercredi 24 juin de 18h30 à 20h (Elodie)
+- Mercredi 24 juin de 17h30 à 20h (Elodie)
 - Jeudi 25 juin de 17h à 19h30 (Olivier)
 - Samedi 27 juin de 10h à 12h (Elodie)
 - Lundi 29 juin de 18h30 à 20h (Elodie)

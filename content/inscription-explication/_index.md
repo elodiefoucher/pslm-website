@@ -43,5 +43,6 @@ background: "banner-light"
 
 ### Le site ne fonctionne pas
  - Si votre fournisseur d'accès internet est Orange, il est possible que le site ne fonctionne pas sur votre ordinateur ou votre téléphone, essayez d'une autre connection internet.
+ - Vous pouvez venir sur nos heures de permanences que vous retrouverez dans la rubrique <a href="/inscription">**Inscription**</a>
 
 #### <a href="https://sigpas.fr/pslm" target="_blank">> S'inscrire sur sigpas.fr/pslm <</a>

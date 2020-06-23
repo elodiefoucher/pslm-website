@@ -28,9 +28,9 @@ description: >-
 tarifs:
   - prix: 230 €
     public: Modern Jazz Enfant
-  - prix: 240 €
+  - prix: 250 €
     public: Modern Jazz Ado
-  - prix: 240 €
+  - prix: 250 €
     public: Modern Jazz Adulte
 weight: 3
 ---

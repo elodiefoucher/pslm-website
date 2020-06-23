@@ -9,8 +9,10 @@ tarifs:
   prix: "165 €"
 - public: "2 cours par semaine"
   prix: "225 €"
-- public: "Intensif 3 à 4 cours"
+- public: "Intensif 3 cours"
   prix: "255 €"
+- public: "Intensif 4 cours"
+  prix: "285 €"
 conditions: "Les choix des cours sont à définir en début de saison lors des inscriptions.<br>
 Cours en salle ou en extérieur."
 banner: "/img/banner-gym-fitness.jpg"

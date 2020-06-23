@@ -8,7 +8,9 @@ tarifs:
   prix: "375€"
 - public: 3 Entraînements/semaine
   prix: 405 €
-condition: "A partir de 4 entraînements par semaine les tarifs compétition sont à demander directement au bureau."
+- public: 4 Entraînements/semaine
+  prix: 455 €
+condition: "A partir de 5 entraînements par semaine les tarifs compétition sont à demander directement au bureau."
 banner: "/img/banner-competition.jpg"
 color: "text-blue"
 background: "banner-light"

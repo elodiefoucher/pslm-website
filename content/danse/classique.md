@@ -42,7 +42,7 @@ description: >-
 tarifs:
   - prix: 230 €
     public: 1 cours par semaine
-  - prix: 240 €
+  - prix: 250 €
     public: Classique 4
 weight: 1
 ---

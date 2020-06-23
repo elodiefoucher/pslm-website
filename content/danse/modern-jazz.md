@@ -26,11 +26,11 @@ description: >-
   ceux qui souhaitent libérer leur esprit, leurs tensions et ressentir la
   musique.
 tarifs:
-  - prix: 190 €
+  - prix: 230 €
     public: Modern Jazz Enfant
-  - prix: 210 €
+  - prix: 240 €
     public: Modern Jazz Ado
-  - prix: 210 €
+  - prix: 240 €
     public: Modern Jazz Adulte
 weight: 3
 ---

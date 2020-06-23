@@ -16,7 +16,7 @@ description: >-
   le krump.... et s'inpire de beaucoup d'autres. <br>Idéal à tous les enfants
   qui aiment bouger et qui ont de l'énergie à revendre !
 tarifs:
-  - prix: 190 €
+  - prix: 230 €
     public: Hip-Hop
 weight: 2
 ---

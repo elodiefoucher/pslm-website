@@ -5,9 +5,9 @@ thumbnail: /img/home-banner.png
 inscription:
 tarifs:
 - public: 2 Entraînements/semaine
-  prix: "335€"
+  prix: "375€"
 - public: 3 Entraînements/semaine
-  prix: 365 €
+  prix: 405 €
 condition: "A partir de 4 entraînements par semaine les tarifs compétition sont à demander directement au bureau."
 banner: "/img/banner-competition.jpg"
 color: "text-blue"

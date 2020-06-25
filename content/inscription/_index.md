@@ -33,6 +33,7 @@ background: "banner-light"
 - Mardi 23 juin de 17h à 19h30 (Olivier)
 - Mercredi 24 juin de 17h30 à 20h (Elodie)
 - Jeudi 25 juin de 17h à 19h30 (Olivier)
+- Vendredi 26 juin de 9h30 à 11h30 (Olivier)
 - Samedi 27 juin de 10h à 12h (Elodie)
 - Lundi 29 juin de 18h30 à 20h (Elodie)
 - Mardi 30 juin de 17h à 19h30 (Olivier)

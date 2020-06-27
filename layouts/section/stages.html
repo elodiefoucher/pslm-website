@@ -13,36 +13,32 @@
   <div class="stage">
     {{ range .Data.Pages }}
     <div class="content-stage">
-      <p>{{ .Content | markdownify }}</p>
     </div>
-    <br><br>
     <h2>{{ .Params.title }}</h2>
     <h3 style="font-size:2.4rem;font-weight: 600;">{{ .Params.subtitle }}</h3>
     <h3>{{ .Params.quand }}</h3>
     <h3>{{ .Params.quand1 }}</h3>
     <p>{{ .Params.qui }}</p>
-  <!--  <img src="/doc/stages/stage-fevrier-2020.png" alt="Stage février" class="text-center">
+   <img src="/doc/stages/stage-ete-2020.png" alt="Stage février" class="text-center">
+    <h4>{{ .Params.journee }}</h4>
     <h3>{{ .Params.heure }}</h3>
-    <p>{{ .Params.ps }}</p>-->
+    <p>{{ .Params.ps }}</p>
+
     <br>
     <h3>{{ .Params.tarif | markdownify }}</h3>
-    <p style="margin-top:2rem;">Renseignements et inscription : {{ .Params.tel }}<br>pslmontchat@outlook.fr</p>
+    <br>
+    <h3 style="margin-top:2rem;"><a href="https://sigpas.fr/pslm/">Inscription : sigpas.fr/pslm/</a></h3>
   </div>
   <br><br>
       {{ end }}
-  <!--    <div class="stage-doc">
+    <div class="stage-doc">
       <div class="container-stage">
         <h3 style="margin-bottom:3rem;">Documents à télécharger pour l'inscription</h3>
     <div class="row">
     <div class="col col-lg-4 col-md-6 col-sm-12 col-centered">
-      <a href="/doc/stages/stage-reservation.pdf" target="_blank">
-       <img src="/img/icon-doc-b.png" alt="doc" width="60rem">
-       <p>Fiche de réservation</p></a>
-    </div>
-    <div class="col col-lg-4 col-md-6 col-sm-12 col-centered">
-      <a href="/doc/stages/stage-inscription.pdf" target="_blank">
+      <a href="/doc/stages/stage-autorisation.pdf" target="_blank">
         <img src="/img/icon-doc-b.png" alt="doc" width="60rem">
-        <p>Fiche d'inscription</p></a>
+        <p>Autorisation parentale</p></a>
     </div>
     <div class="col col-lg-4 col-md-6 col-sm-12 col-centered">
       <a href="/doc/stages/stage-fiche-sanitaire.jpg" target="_blank">

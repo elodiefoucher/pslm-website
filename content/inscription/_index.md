@@ -39,7 +39,11 @@ background: "banner-light"
 - Mardi 30 juin de 17h à 19h30 (Olivier)
 - Jeudi 2 juillet de 17h à 19h30 (Olivier)
 - Samedi 4 juillet de 10h à 12h (Olivier)
-
+- Lundi 6 juillet de 18h30 à 20h (Elodie)
+- Mardi 7 juillet de 17h à 19h (Elodie)
+- Mercredi 8 juillet de 14h à 16h30 (Olivier)
+- Jeudi 9 juillet de 17h à 19h (Olivier)
+- Vendredi 10 juillet de 17h à 19h (Olivier)
 
 ## Pièces à fournir pour toute Adhésion
 - Certificat médical autorisant la pratique de l’activité (sauf si le club en possède un de moins de 3 ans)

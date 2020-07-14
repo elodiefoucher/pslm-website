@@ -44,6 +44,10 @@ background: "banner-light"
 - Mercredi 8 juillet de 14h à 16h30 (Olivier)
 - Jeudi 9 juillet de 17h à 19h (Olivier)
 - Vendredi 10 juillet de 17h à 19h (Olivier)
+- Lundi 13 juillet de 17h à 19h (Olivier)
+- Mercredi 15 juillet de 17h à 19h (Olivier)
+- Jeudi 16 juillet de 17h à 19h (Olivier)
+
 
 ## Pièces à fournir pour toute Adhésion
 - Certificat médical autorisant la pratique de l’activité (sauf si le club en possède un de moins de 3 ans)

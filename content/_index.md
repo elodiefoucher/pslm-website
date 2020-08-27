@@ -82,10 +82,13 @@ background: "banner-dark"
 
 ### Reprise des permanences d'inscription :
 
-Vendredi 28 / 08  -  17h-19h <br>
-Lundi 31 / 08  -  17h-19h <br>
-Mercredi 2 / 09  -  17h-19h <br>
-Vendredi 4 / 09  -  17h-19h <br>
+Vendredi 28 août de 17h à 19h
+Lundi 31 août de 17h à 19h
+Mardi 1er septembre de 17h à 19h
+Mercredi 2 septembre de 17h à 19h
+Jeudi 3 septembre de 17h à 19h
+Vendredi 4 septembre de 17h à 19h
+
 _________
 _____
 <br>

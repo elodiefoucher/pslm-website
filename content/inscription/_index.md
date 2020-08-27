@@ -30,23 +30,12 @@ background: "banner-light"
 ### Permanences paiement et aide à l'inscription en ligne (au bureau du PSLM) :
 **Port du masque obligatoire**
 
-- Mardi 23 juin de 17h à 19h30 (Olivier)
-- Mercredi 24 juin de 17h30 à 20h (Elodie)
-- Jeudi 25 juin de 17h à 19h30 (Olivier)
-- Vendredi 26 juin de 9h30 à 11h30 (Olivier)
-- Samedi 27 juin de 10h à 12h (Elodie)
-- Lundi 29 juin de 18h30 à 20h (Elodie)
-- Mardi 30 juin de 17h à 19h30 (Olivier)
-- Jeudi 2 juillet de 17h à 19h30 (Olivier)
-- Samedi 4 juillet de 10h à 12h (Olivier)
-- Lundi 6 juillet de 18h30 à 20h (Elodie)
-- Mardi 7 juillet de 17h à 19h (Elodie)
-- Mercredi 8 juillet de 14h à 16h30 (Olivier)
-- Jeudi 9 juillet de 17h à 19h (Olivier)
-- Vendredi 10 juillet de 17h à 19h (Olivier)
-- Lundi 13 juillet de 17h à 19h (Olivier)
-- Mercredi 15 juillet de 17h à 19h (Olivier)
-- Jeudi 16 juillet de 17h à 19h (Olivier)
+- Vendredi 28 août de 17h à 19h
+- Lundi 31 août de 17h à 19h
+- Mardi 1er septembre de 17h à 19h
+- Mercredi 2 septembre de 17h à 19h
+- Jeudi 3 septembre de 17h à 19h
+- Vendredi 4 septembre de 17h à 19h
 
 
 ## Pièces à fournir pour toute Adhésion

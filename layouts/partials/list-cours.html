@@ -12,7 +12,7 @@
         <div class="row">
         <ul class="mx-auto">
           {{ range .Params.horaires }}
-          <li class="horaires">{{ .jour }} {{ .heures }}</li>
+          <li class="horaires">{{ .jour }} {{ .heures }}  <br><span style="font-weight: 200;">{{.heuresc }}</span></li>
           <li class="placesrestantes">{{ .places }}</li>
           {{ end }}
         </ul>

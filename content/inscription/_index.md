@@ -30,12 +30,17 @@ background: "banner-light"
 ### Permanences paiement et aide à l'inscription en ligne (au bureau du PSLM) :
 **Port du masque obligatoire**
 
-- Vendredi 28 août de 17h à 19h
-- Lundi 31 août de 17h à 19h
-- Mardi 1er septembre de 17h à 19h
-- Mercredi 2 septembre de 17h à 19h
-- Jeudi 3 septembre de 17h à 19h
-- Vendredi 4 septembre de 17h à 19h
+- Lundi 7 septembre de 17h à 19h
+- Mardi 8 septembre de 17h à 19h
+- Mercredi 9 septembre de 17h à 19h
+- Jeudi 10 septembre de 17h à 19h
+- Vendredi 11 septembre de 17h à 19h
+
+- Lundi 14 septembre de 17h à 19h
+- Mardi 15 septembre de 17h à 19h
+- Mercredi 16 septembre de 17h à 19h
+- Jeudi 17 septembre de 17h à 19h
+- Vendredi 18 septembre de 17h à 19h
 
 
 ## Pièces à fournir pour toute Adhésion

@@ -2,10 +2,9 @@
 title: Acrobates
 slug: acrobates
 horaires:
-  - heures: 10h - 11h
+  - heures: 11h30 - 12h30
     jour: mercredi
-  - heures: 11h - 12h
-    jour: mercredi
+    heuresc: (ancien horaire 10h-11h et 11h-12h)
   - heures: 15h - 16h
     jour: mercredi
   - heures: 10h30 - 11h30

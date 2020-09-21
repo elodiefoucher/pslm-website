@@ -79,19 +79,8 @@ icon:
 color: "text-green"
 background: "banner-dark"
 ---
-
-### Reprise des permanences d'inscription :
-
-Lundi 7 septembre de 17h à 19h<br>
-Mardi 8 septembre de 17h à 19h<br>
-Mercredi 9 septembre de 17h à 19h<br>
-Jeudi 10 septembre de 17h à 19h<br>
-Vendredi 11 septembre de 17h à 19h<br>
-
-_________
-_____
+<img src="/doc/stages/stage-octobre-2020-accueil.jpg" alt="Stage octobre" width="100%">
+<br><br>
+#### Ouverture des inscriptions pour les stages Gym / Multi-activités des vacances d'octobre
 <br>
-## Saison 2020-2021
-
-### Les cours débuterons à partir du 14 septembre
-<br>
+### Rendez-vous sur -> [pslm.fr/stages](https://www.pslm.fr/stages) <- pour plus de renseignements !

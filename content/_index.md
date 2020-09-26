@@ -79,10 +79,9 @@ icon:
 color: "text-green"
 background: "banner-dark"
 ---
-##### 24/09/2020
-#### Les cours au PSLM sont maintenus malgré les nouvelles mesures sanitaires.<br><br>
-##### Le gymnase est fermé mais la pratique en extérieur reste possible : une solution d'aménagement dans la cour du gymnase sera proposée pour l'accueil de tous nos groupes à partir du lundi 28 septembre.<br><br>
-##### En cas de météo capricieuse, nous vous proposerons des cours en visio.<br><br>
+##### 26/09/2020
+#### Suites aux nouvelles annonces gouvernementales, les cours au PSLM sont maintenus normalement pour tous les mineurs.<br><br>
+##### Pour les adultes, la pratique en extérieur reste possible : les cours de fitness se dérouleront en extérieur si la météo nous le permet, ou en visio en cas de mauvais temps.<br><br>
 ##### Restons actifs tous ensemble pendant cette période difficile !<br><br>
 ##### Plus d'informations très prochainement par mail pour nos adhérents.
 

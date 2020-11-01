@@ -79,17 +79,7 @@ icon:
 color: "text-green"
 background: "banner-dark"
 ---
-##### 26/09/2020
-#### Suites aux nouvelles annonces gouvernementales, les cours au PSLM sont maintenus normalement pour tous les mineurs.<br><br>
-##### Pour les adultes, la pratique en extérieur reste possible : les cours de fitness se dérouleront en extérieur si la météo nous le permet, ou en visio en cas de mauvais temps.<br><br>
+##### 01/11/2020
+#### Suites aux nouvelles annonces gouvernementales, le gymnase du PSLM est fermé jusqu'au 1er décembre 2020.<br><br>
+##### Des cours en visio vont être proposé à nos adhérents, plus d'informations très prochainement par mail.<br><br>
 ##### Restons actifs tous ensemble pendant cette période difficile !<br><br>
-##### Plus d'informations très prochainement par mail pour nos adhérents.
-
-<br><br>
-_______
-<img src="/doc/stages/stage-octobre-2020-accueil.jpg" alt="Stage octobre" width="100%">
-<br><br>
-#### Ouverture des inscriptions pour les stages Gym / Multi-activités des vacances d'octobre
-<br>
-### Rendez-vous sur -> [pslm.fr/stages](https://www.pslm.fr/stages) <- pour plus de renseignements !<br><br>
-##### Les stages au PSLM sont maintenus.

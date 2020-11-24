@@ -1,5 +1,5 @@
 ---
-title: "Réglement intérieur"
+title: "Statuts et réglement intérieur"
 slug: statuts-et-reglement-interieur
 weight: 4
 ---

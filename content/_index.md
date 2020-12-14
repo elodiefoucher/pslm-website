@@ -79,7 +79,7 @@ icon:
 color: "text-green"
 background: "banner-dark"
 ---
-##### 01/11/2020
-#### Suites aux nouvelles annonces gouvernementales, le gymnase du PSLM est fermé jusqu'au 1er décembre 2020.<br><br>
-##### Des cours en visio vont être proposé à nos adhérents, plus d'informations très prochainement par mail.<br><br>
-##### Restons actifs tous ensemble pendant cette période difficile !<br><br>
+##### 14/12/2020
+#### Bonne nouvelle pour nos adhérents mineurs, les cours peuvent reprendre au gymnase à partir du 15 décembre !<br><br>
+##### Un mail à été envoyé avec toutes les conditions de reprise.<br><br>
+##### Pour les adultes, la visio reste en place jusqu'à nouvel ordre, restons actifs tous ensemble pendant cette période difficile !<br><br>

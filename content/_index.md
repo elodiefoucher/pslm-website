@@ -81,5 +81,5 @@ background: "banner-dark"
 ---
 ##### 14/12/2020
 #### Bonne nouvelle pour nos adhérents mineurs, les cours peuvent reprendre au gymnase à partir du 15 décembre !<br><br>
-##### Un mail à été envoyé avec toutes les conditions de reprise.<br><br>
+##### Un mail a été envoyé avec toutes les conditions de reprise.<br><br>
 ##### Pour les adultes, la visio reste en place jusqu'à nouvel ordre, restons actifs tous ensemble pendant cette période difficile !<br><br>

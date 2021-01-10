@@ -1131,6 +1131,23 @@ img[alt=dossier-de-partenariat] {
   margin-top: 1rem;
 }
 
+.condition-inscription {
+  background-color: rgba(220, 220, 220, 0.5);
+  padding: 1rem;
+  line-height: 1.2rem
+}
+
+.condition-inscription h2 {
+  font-size: 2rem;
+  color: rgba(120, 120, 120, 0.5);
+  margin-bottom: 1rem;
+}
+
+.condition-inscription li {
+  margin-bottom: 0;
+  padding: 0;
+}
+
 @media (max-width: 960px) {
   .stage img {
     width: 100%;

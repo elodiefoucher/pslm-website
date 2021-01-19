@@ -79,7 +79,8 @@ icon:
 color: "text-green"
 background: "banner-dark"
 ---
-##### 14/12/2020
-#### Bonne nouvelle pour nos adhérents mineurs, les cours peuvent reprendre au gymnase à partir du 15 décembre !<br><br>
-##### Un mail a été envoyé avec toutes les conditions de reprise.<br><br>
-##### Pour les adultes, la visio reste en place jusqu'à nouvel ordre, restons actifs tous ensemble pendant cette période difficile !<br><br>
+##### 18/01/2021
+#### Les cours sont de nouveaux arrêtés pour tous en présentiel.<br><br>
+##### Les cours en visio prennent le relais, vous avez reçu un mail précisant l'horaire et les codes pour vous connecter à votre séance ou celle de votre enfant.<br><br>
+##### Les stages des vacances de février sont pour l'instant maintenus, n'hésitez pas a inscrire vos enfants rapidement si vous voulez une place car nous limitons les inscrits.<br><br>
+##### Nous vous tiendrons au courant au plus tôt de l'avancée de la situation.<br>

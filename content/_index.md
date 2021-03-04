@@ -79,8 +79,9 @@ icon:
 color: "text-green"
 background: "banner-dark"
 ---
-##### 18/01/2021
-#### Les cours sont de nouveaux arrêtés pour tous en présentiel.<br><br>
-##### Les cours en visio prennent le relais, vous avez reçu un mail précisant l'horaire et les codes pour vous connecter à votre séance ou celle de votre enfant.<br><br>
-##### Les stages des vacances de février sont pour l'instant maintenus, n'hésitez pas a inscrire vos enfants rapidement si vous voulez une place car nous limitons les inscrits.<br><br>
-##### Nous vous tiendrons au courant au plus tôt de l'avancée de la situation.<br>
+##### 4/03/2021
+#### Le gymnase du PSLM est toujours fermé pour tous.<br><br>
+##### Quand la météo nous le permet, nous proposons à tous nos adhérents mineurs des cours en extérieur. Ces cours se déroulent dans la cour du PSLM.<br>
+##### En cas de mauvais temps ou si les restrictions venaient à s'intensifier, les cours seront dispensés en visio.<br>
+##### Dans tous les cas, vous recevez un mail chaque semaine pour vous tenir au courant des conditions.<br><br>
+##### La gym adulte reste malheureusement pour l'instant exclusivement en visio car nous ne sommes pas autorisés à vous proposer autre chose.<br>

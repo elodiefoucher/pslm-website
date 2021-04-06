@@ -9,7 +9,7 @@ qui: "Enfants à partir de 5 ans"
 heure: "de 9h à 11h30 et de 13h30 à 16h"
 journee: "Demie-journée : Jeux sportifs/Gym"
 ps: ""
-tarif: "12€ la demi-journée<br>20€ la journée<br>80€ la semaine"
+tarif: "12€ la demi-journée<br>20€ la journée<br>50€la semaine 1/2 journée<br>80€ la semaine journée"
 tel: "09 67 49 69 40"
 ---
 ## Modalités d'inscription

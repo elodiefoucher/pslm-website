@@ -79,9 +79,8 @@ icon:
 color: "text-green"
 background: "banner-dark"
 ---
-##### 4/03/2021
-#### Le gymnase du PSLM est toujours fermé pour tous.<br><br>
-##### Quand la météo nous le permet, nous proposons à tous nos adhérents mineurs des cours en extérieur. Ces cours se déroulent dans la cour du PSLM.<br>
-##### En cas de mauvais temps ou si les restrictions venaient à s'intensifier, les cours seront dispensés en visio.<br>
-##### Dans tous les cas, vous recevez un mail chaque semaine pour vous tenir au courant des conditions.<br><br>
+##### 6/04/2021
+#### Les cours en extérieur sont maintenus pour nos adhérents mineurs quand la météo le permet<br><br>
+#### Les stages à la journée sont annulés, nous proposons des demi-journées d'activités sportives / Gym pendant les vacances scolaires.<br>De 9h à 11h30 et de 13h30 à 16h.<br><br>
+##### Inscriptions sur [sigpas.fr/pslm](https://sigpas.fr/pslm)<br><br>
 ##### La gym adulte reste malheureusement pour l'instant exclusivement en visio car nous ne sommes pas autorisés à vous proposer autre chose.<br>

@@ -1,22 +1,24 @@
 ---
-title: "Stage d'avril"
+title: "Stages d'été"
 subtitle: "Gym loisir / Multi-activités"
-quand: "Du 12 au 23 avril 2021"
-quand1: ""
+quand: "Du 7 au 23 juillet 2021"
+quand1: "Du 23 au 27 août 2021"
 quand2: ""
 quand3: ""
 qui: "Enfants à partir de 5 ans"
-heure: "de 9h à 11h30 et de 13h30 à 16h"
-journee: "Demie-journée : Jeux sportifs/Gym"
+heure: "de 9h à 17h"
+journee: ""
 ps: ""
-tarif: "12€ la demi-journée<br>20€ la journée<br>50€la semaine 1/2 journée<br>80€ la semaine journée"
+tarif: "30€ la journée<br>120€ la semaine"
 tel: "09 67 49 69 40"
 ---
 ## Modalités d'inscription
 
-**Inscriptions en ligne sur [sigpas.fr/pslm](https://sigpas.fr/pslm/)**
+**Inscriptions en ligne sur [sigpas.fr/pslm](https://sigpas.fr/pslm/)** à partir du 20 mai
 
-L'inscription en ligne est à compléter avec le réglement à nous faire parvenir au plus tôt (espèces, chèque ou chèque vacances), la fiche sanitaire et l'autorisation parentale.
+**Pré-inscription par mail :** pslmontchat@outlook.fr (indiquer nom, prénom, âge et période d'inscription pour chaque enfant)
+
+L'inscription en ligne est à compléter avec le réglement à nous faire parvenir au plus tôt (espèces, chèque ou chèque vacances) et la fiche sanitaire.
 
 Pour des questions d'assurance, une adhésion à l'association est requise pour l'inscription au stage. Notre adhésion (15 euros) est une adhésion par famille, valable toute l'année scolaire. Merci de joindre un chèque de 15 euros si aucun membre de la famille de l'enfant n'est inscrit au PSLM pour la saison 2020-2021.
 

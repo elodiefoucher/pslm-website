@@ -6,7 +6,7 @@ horaires:
     jour: lundi
   - heures: 20h15 - 21h
     jour: mardi
-  - heures: 18h45 - 19h30
+  - heures: 18h30 - 19h15
     jour: vendredi
 ---
 Exercices de renforcements lents, axés sur les postures et la respiration.

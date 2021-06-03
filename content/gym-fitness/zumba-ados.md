@@ -2,7 +2,7 @@
 title: Zumba Ados
 slug: zumba-ados
 horaires:
-  - heures: 17h30 - 18h30
+  - heures: 17h45 - 18h30
     jour: jeudi
 ---
 12-16 ans

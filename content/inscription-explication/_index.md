@@ -35,11 +35,14 @@ background: "banner-light"
 - si l'événement est complet vous serez automatiquement mis sur liste d'attente
 
 ### Régler une inscription
-- Vous pouvez payer en chéques, espèces, chèques vacances, coupons sport
+- Vous pouvez payer en chéques, espèces, chèques vacances, coupons sport. Pour les chèques vacances, pensez à vérifier que l'adresse est bien présente sur vos chèques, nous vous demanderons de la noter sur chaque chèque.
 - Veuillez indiquer sur une enveloppe le nom, le prénom, l'horaire et le groupe de l'adhérent pour lequel vous faites le réglement.
 - Vous pouvez le remettre en main propre au PSLM lors des permanences,
 - En le déposant dans la boite aux lettres du PSLM qui est relevée tous les jours,
 - En l'envoyant par courrier au 33 rue Jeanne d'Arc, 69003 Lyon
+
+### Télécharger ma facture
+- Une fois le réglenent validé par le PSLM, votre facture est disponible dans votre espace personnel dans "Mes inscriptions" > "Inscriptions annuelles"
 
 ### Le site ne fonctionne pas
  - Si votre fournisseur d'accès internet est Orange, il est possible que le site ne fonctionne pas sur votre ordinateur ou votre téléphone, essayez d'une autre connection internet.

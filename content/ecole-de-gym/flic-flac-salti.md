@@ -1,6 +1,7 @@
 ---
 title: Flic flac Salti
 slug: flic-flac-salti
+weight: 5
 horaires:
   - heures: 18h - 19h30
     jour: jeudi

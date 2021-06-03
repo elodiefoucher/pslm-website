@@ -1,6 +1,7 @@
 ---
 title: Cabrioles
 slug: cabrioles
+weight: 1
 horaires:
   - heures: 9h30-10h30
     jour: mercredi

@@ -342,6 +342,20 @@ h3 {
   color: rgb(202,219,63);
 }
 
+.cours-visio h1 {
+  font-size: 3rem;
+  font-weight: 300;
+  text-transform: uppercase;
+  padding-top: 4rem;
+}
+
+.nouveau {
+  font-size: 1.5rem;
+  color: red;
+  font-weight: bold;
+  text-transform: none;
+  padding-right: 1rem;
+}
 // Small devices (landscape phones, 576px and up)
 @media (min-width: 576px) { ... }
 

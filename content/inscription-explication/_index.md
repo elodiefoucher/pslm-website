@@ -13,9 +13,9 @@ background: "banner-light"
 
 
 ### Créer un compte pour mon enfant
-- Dans **Espace Personnel** sélectionnez **Autre compte avec la même adresse**
-- Remplissez les champs Nom et Prénom et rentrez votre mot de passe
-- Le compte de votre enfant est créé, remplissez ses **Informations personnelles**
+- Si seulement votre enfant est adhérent, il n'est pas nécessaire de créer un compte pour le parent.
+- Si vous possédez déjà un compte à votre nom, créez un nouveau compte avec la même adresse mail et le même mot de passe que le votre. Les deux comptes seront reliés automatiquement.
+- Lorsque le compte de votre enfant est créé, remplissez ses **Informations personnelles**
 
 ### S'inscrire à un cours
 - Dans **Mes inscriptions** sélectionnez **Inscription annuelle**

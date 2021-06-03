@@ -14,9 +14,10 @@ tel: "09 67 49 69 40"
 ---
 ## Modalités d'inscription
 
-**Inscriptions en ligne sur [sigpas.fr/pslm](https://sigpas.fr/pslm/)** à partir du 20 mai
+**Inscriptions en ligne sur [sigpas.fr/pslm](https://sigpas.fr/pslm/)**
 
-**Pré-inscription par mail :** pslmontchat@outlook.fr (indiquer nom, prénom, âge et période d'inscription pour chaque enfant)
+L'inscription doit être faite avec un compte au nom et informations de l'enfant.
+Les stages sont ouvert aux mineurs, il n'est donc pas possible de s'inscrire en tant qu'adulte.
 
 L'inscription en ligne est à compléter avec le réglement à nous faire parvenir au plus tôt (espèces, chèque ou chèque vacances) et la fiche sanitaire.
 

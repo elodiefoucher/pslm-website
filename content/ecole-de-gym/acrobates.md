@@ -1,6 +1,7 @@
 ---
 title: Acrobates
 slug: acrobates
+weight: 2
 horaires:
   - heures: 11h - 12h
     jour: mercredi

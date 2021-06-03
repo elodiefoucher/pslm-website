@@ -2,7 +2,11 @@
 title: Hip-Hop
 slug: hip-hop
 horaires2:
-  - age: 6-9 ans
+  - age: 9-14 ans
+    cours: Hip-Hop
+    heures: 17h15 - 18h15
+    jour: Mardi
+  - age: 6-8 ans
     cours: Hip-Hop
     heures: 9h - 10h
     jour: Samedi

@@ -11,10 +11,6 @@ encadrement:
    fonction: "Hip Hop"
    entree: "2014"
    img: "/img/encadrement-julie-katchadourian.jpg"
- - nom: "Isabelle BURIANNE"
-   diplome: "Formation classique, jazz, claquette américaine"
-   fonction: "Modern Jazz"
-   entree: "2013"
-   img: "/img/encadrement-isabelle-burianne.jpg"
+
 weight: 3
 ---

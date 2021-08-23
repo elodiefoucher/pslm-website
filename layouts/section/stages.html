@@ -4,14 +4,13 @@
 
 <section class="container">
   <div class="description-top">
-  <p class="lead">{{ .Description | markdownify }}</p>
+    <p class="lead">{{ .Description | markdownify }}</p>
   </div>
 </section>
 
 <section class="container">
-
+  {{ range .Data.Pages }}
   <div class="stage">
-    {{ range .Data.Pages }}
     <div class="content-stage">
     </div>
     <h2>{{ .Params.title }}</h2>
@@ -19,44 +18,46 @@
     <h3>{{ .Params.quand }}</h3>
     <h3>{{ .Params.quand1 }}</h3>
     <p>{{ .Params.qui }}</p>
-<img src="/doc/stages/stage-ete-2021.jpg" alt="Stage avril" class="text-center">
+    <img src="{{ .Params.img }}" alt="{{ .Params.title }}" class="text-center">
     <h4>{{ .Params.journee }}</h4>
     <h3>{{ .Params.heure }}</h3>
     <p>{{ .Params.ps }}</p>
-
     <br>
     <h3>{{ .Params.tarif | markdownify }}</h3>
     <br>
-    <p>Le port du masque sera obligatoire pour tous les enfants pendant les journées de stage.</p>
-      </div>
-<div class="condition-inscription">
-    {{ .Content }}
 </div>
-      {{ end }}
-    <div class="stage-doc">
-        <h3 style="margin-bottom:2rem;">Documents à télécharger pour l'inscription</h3>
+
+  {{ end }}
+
+  <div class="condition-inscription">
+    {{ .Content }}
+  </div>
+  <div class="stage-doc">
+    <h3 style="margin-bottom:2rem;">Documents à télécharger pour l'inscription</h3>
     <div class="row">
-    <div class="col col-lg-4 col-md-6 col-sm-12 col-centered">
-      <a href="/doc/stages/stage-autorisation.pdf" target="_blank">
-        <img src="/img/icon-doc-b.png" alt="doc" width="60rem">
-        <p>Autorisation parentale</p></a>
-    </div>
-    <div class="col col-lg-4 col-md-6 col-sm-12 col-centered">
-      <a href="/doc/stages/stage-fiche-sanitaire.jpg" target="_blank">
-        <img src="/img/icon-doc-b.png" alt="doc" width="60rem">
-        <p>Fiche sanitaire</p></a>
+      <div class="col col-lg-4 col-md-6 col-sm-12 col-centered">
+        <a href="/doc/stages/stage-autorisation.pdf" target="_blank">
+          <img src="/img/icon-doc-b.png" alt="doc" width="60rem">
+          <p>Autorisation parentale</p>
+        </a>
+      </div>
+      <div class="col col-lg-4 col-md-6 col-sm-12 col-centered">
+        <a href="/doc/stages/stage-fiche-sanitaire.jpg" target="_blank">
+          <img src="/img/icon-doc-b.png" alt="doc" width="60rem">
+          <p>Fiche sanitaire</p>
+        </a>
+      </div>
     </div>
   </div>
-</div>
 </section>
 
-<section class="container">
-<div class="description-deroule">
-<div class="content">
-  <p>{{ .Content | markdownify }}</p>
-</div>
-</div>
-</section>
+<!--<section class="container">
+  <div class="description-deroule">
+    <div class="content">
+      <p>{{ .Content | markdownify }}</p>
+    </div>
+  </div>
+</section>-->
 
 
 {{ end }}

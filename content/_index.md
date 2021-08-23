@@ -79,8 +79,7 @@ icon:
 color: "text-green"
 background: "banner-dark"
 ---
-##### 1/06/2021
-#### Les cours ont repris en intérieur pour nos adhérents mineurs <br><br>
-#### Les cours adultes ont repris en extérieur dans la cour du PSLM dans la limite des horaires du couvre feu.<br><br>
-##### Les inscriptions demarrent cette semaine sur [sigpas.fr/pslm](https://sigpas.fr/pslm)<br><br>
-##### Les stages d'été sont ouverts à l'inscription sur [sigpas.fr/pslm](https://sigpas.fr/pslm), pour toutes informations rendez vous dans la section "Activités" > "Stages".<br>
+##### 23/08/2021
+#### Les cours reprennent à partir du 13 septembre au PSLM.<br><br>
+#### En vertu des nouvelles normes en vigueur, le pass sanitaire est obligatoire pour toute personne majeure dès la rentrée et à partir du 30 septembre à partir de 12 ans.<br><br>
+##### Retrouvez nos permanences d'inscription et toutes les informations necessaires à un inscription sur [pslm.fr/inscription](https://www.pslm.fr/inscription/)<br>

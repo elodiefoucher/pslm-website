@@ -6,21 +6,27 @@ color: "text-black"
 background: "banner-light"
 ---
 
+## Modalités d'inscription
 
-### Gym Artistique Multi-activités sportives et/ou culturelles
+**Inscriptions en ligne sur [sigpas.fr/pslm](https://sigpas.fr/pslm/)**
 
-*Pour les enfants à partir de 5 ans, adhérents ou non.*
+L'inscription doit être faite avec un compte au nom et informations de l'enfant.
+Les stages sont ouvert aux mineurs, il n'est donc pas possible de s'inscrire en tant qu'adulte.
 
-Pendant les vacances scolaires.
+L'inscription en ligne est à compléter avec le réglement à nous faire parvenir au plus tôt (espèces, chèque ou chèque vacances) et la fiche sanitaire.
 
-**Stages en octobre/février/avril/juillet**
+Pour des questions d'assurance, une adhésion à l'association est requise pour l'inscription au stage. Notre adhésion (15 euros) est une adhésion par famille, valable toute l'année scolaire. Merci de joindre un chèque de 15 euros si aucun membre de la famille de l'enfant n'est inscrit au PSLM pour la saison 2020-2021.
 
-### Gym Fitness Multi-activités
+Le PSLM se réserve le droit d’annuler une semaine ou une journée de stage sous les conditions suivantes :
 
-*Pour les adultes, adhérents ou non.*
+- Nombre d’inscrits insuffisants (moins de 10)
 
-**Stages les 15 premiers jours de septembre et 15 premiers jours de juillet**
+- Fermeture administrative des locaux du PSLM
 
-Vous pouvez choisir votre activité, votre jour, votre horaire comme vous le désirez, selon vos disponibilités...  
+Conditions de remboursement : Toute inscription vous engage à régler les sommes dûes. Aucun remboursement ne sera effectué 15 jours avant le début du stage sauf exception listées ci dessous :
 
-Renseignez-vous !
+-	En cas d’annulation du stage par le PSLM
+
+- En période de Covid 19, un remboursement est effectué sur certificat médical si une mise à l'isolement est nécessaire durant la période de stage (cas contact, test positif).
+
+Le port du masque sera obligatoire pour tous les enfants pendant les journées de stage.

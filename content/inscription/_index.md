@@ -28,16 +28,20 @@ background: "banner-light"
 ### Permanences paiement et aide à l'inscription en ligne (au bureau du PSLM) :
 **Port du masque obligatoire**
 
-Jusqu'au 25 juin :
+La semaine du 23 août :
 
-- Lundi 17h-19h30
-- Mardi 17h-19h30
-- Mercredi 15h30-18h30
-- Jeudi 17h-19h30
+- Mardi 24 de 17h-19h
+- Mercredi 25 de 10h30 à 12h30
+- Jeudi 26 de 17h à 19h
+
+A partir du 30 août 2021 :
+- Les lundi, mardi et jeudi de 17h à 19h
+- Les mercredi de 15h à 17h
+- Vous pouvez aussi déposer un réglement dans la boîte aux lettres du PSLM, elle est relevée très régulièrement.
 
 
 ## Pièces à fournir pour toute Adhésion
-- Certificat médical autorisant la pratique de l’activité à télécharger dans votre espace adhérent sur <a href="https://sigpas.fr/pslm" target="_blank">sigpas.fr/pslm</a> (sauf si le club en possède un de moins de 3 ans)
+- Certificat médical de moins de 3 ans autorisant la pratique de l’activité **à conserver chez vous et à télécharger dans votre espace adhérent sur <a href="https://sigpas.fr/pslm" target="_blank">sigpas.fr/pslm</a>**
 - Règlement de l’activité
 
 ### Pour Gym Artistique Compétitions :

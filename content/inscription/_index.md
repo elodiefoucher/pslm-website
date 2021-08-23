@@ -38,7 +38,8 @@ A partir du 30 août 2021 :
 
 - Lundi, mardi et jeudi de 17h à 19h
 - Mercredi de 15h à 17h
-- Vous pouvez aussi déposer un réglement dans la boîte aux lettres du PSLM, elle est relevée très régulièrement.
+ 
+Vous pouvez aussi déposer un réglement dans la boîte aux lettres du PSLM, elle est relevée très régulièrement.
 
 
 ## Pièces à fournir pour toute Adhésion

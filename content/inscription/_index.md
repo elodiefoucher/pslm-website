@@ -35,8 +35,9 @@ La semaine du 23 août :
 - Jeudi 26 de 17h à 19h
 
 A partir du 30 août 2021 :
-- Les lundi, mardi et jeudi de 17h à 19h
-- Les mercredi de 15h à 17h
+
+- Lundi, mardi et jeudi de 17h à 19h
+- Mercredi de 15h à 17h
 - Vous pouvez aussi déposer un réglement dans la boîte aux lettres du PSLM, elle est relevée très régulièrement.
 
 

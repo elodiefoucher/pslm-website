@@ -28,18 +28,11 @@ background: "banner-light"
 ### Permanences paiement et aide à l'inscription en ligne (au bureau du PSLM) :
 **Port du masque obligatoire**
 
-La semaine du 23 août :
-
-- Mardi 24 de 17h-19h
-- Mercredi 25 de 10h30 à 12h30
-- Jeudi 26 de 17h à 19h
-
 A partir du 30 août 2021 :
 
-- Lundi, mardi et jeudi de 17h à 19h
-- Mercredi de 15h à 17h
- 
-Vous pouvez aussi déposer un réglement dans la boîte aux lettres du PSLM, elle est relevée très régulièrement.
+- Permanences paiement : lundi, mardi et jeudi de 17h à 19h, mercredi de 15h à 17h
+- Permanence aide à l'inscription en ligne : jeudi de 17h à 19h
+- Vous pouvez aussi déposer un réglement dans la boîte aux lettres du PSLM, elle est relevée très régulièrement.
 
 
 ## Pièces à fournir pour toute Adhésion
@@ -65,6 +58,9 @@ pour les gymnastes en compétitions.
 - Coupons sport acceptés
 - Chèques vacances acceptés
 - Paiement pass région accepté (fournir le numéro de la carte et la date de naissance du titulaire)
+
+## Facture
+- Une fois le réglement validé par le PSLM, votre facture est disponible dans votre espace personnel sur **<a href="https://sigpas.fr/pslm" target="_blank">sigpas.fr/pslm</a>** dans "Mes inscriptions" > "Inscription annuelle"
 
 ## Questions inscriptions en ligne
 
@@ -102,7 +98,7 @@ pour les gymnastes en compétitions.
 - En l'envoyant par courrier au 33 rue Jeanne d'Arc, 69003 Lyon
 
 ### Télécharger ma facture
-- Une fois le réglenent validé par le PSLM, votre facture est disponible dans votre espace personnel dans "Mes inscriptions" > "Inscriptions annuelles"
+- Une fois le réglement validé par le PSLM, votre facture est disponible dans votre espace personnel dans "Mes inscriptions" > "Inscriptions annuelles"
 
 ### Le site ne fonctionne pas
  - Si votre fournisseur d'accès internet est Orange, il est possible que le site ne fonctionne pas sur votre ordinateur ou votre téléphone, essayez d'une autre connection internet.

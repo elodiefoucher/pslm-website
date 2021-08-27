@@ -15,7 +15,7 @@ Les stages sont ouvert aux mineurs, il n'est donc pas possible de s'inscrire en 
 
 L'inscription en ligne est à compléter avec le réglement à nous faire parvenir au plus tôt (espèces, chèque ou chèque vacances) et la fiche sanitaire.
 
-Pour des questions d'assurance, une adhésion à l'association est requise pour l'inscription au stage. Notre adhésion (15 euros) est une adhésion par famille, valable toute l'année scolaire. Merci de joindre un chèque de 15 euros si aucun membre de la famille de l'enfant n'est inscrit au PSLM pour la saison 2020-2021.
+Pour des questions d'assurance, une adhésion à l'association est requise pour l'inscription au stage. Notre adhésion (20 euros) est une adhésion par famille, valable toute l'année scolaire. Merci de joindre un chèque de 20 euros si aucun membre de la famille de l'enfant n'est inscrit au PSLM pour la saison 2021-2022.
 
 Le PSLM se réserve le droit d’annuler une semaine ou une journée de stage sous les conditions suivantes :
 

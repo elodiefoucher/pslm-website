@@ -82,4 +82,5 @@ background: "banner-dark"
 ##### 23/08/2021
 #### Les cours reprennent pour tous à partir du 13 septembre au PSLM.<br><br>
 #### En vertu des nouvelles normes en vigueur, le pass sanitaire est obligatoire pour toute personne majeure dès la rentrée et à partir de 12 ans à compter du 30 septembre.<br><br>
-#### Retrouvez nos permanences d'inscription et toutes les informations necessaires à une inscription sur [pslm.fr/inscription](https://www.pslm.fr/inscription/)<br>
+#### Permanences paiement et inscription : Les lundis, mardis et jeudis de 17h à 19h et les mercredis de 15h à 17h.
+#### Toutes les informations necessaires à une inscription sur [pslm.fr/inscription](https://www.pslm.fr/inscription/)<br>

@@ -826,6 +826,12 @@ img[alt=dossier-de-partenariat] {
  padding-bottom: 3rem;
 }
 
+.article-single h2 {
+  text-align: center;
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+}
+
 .article-date {
   font-size: small;
   border-bottom: 1px solid silver;

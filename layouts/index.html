@@ -47,7 +47,7 @@
   <h2 class="accueil-title text-white">{{ .Params.actualite }}</h2>
   <div class="container">
     <div class="row">
-      {{ range first 3 (where .Pages "Section" "actualite") }}
+      {{ range first 3 (where .Data.Pages "Section" "actualite") }}
       <div class="col-lg-4 d-flex align-items-stretch col-sm-12">
         <div class="card text-center">
           <a href="{{ .URL }}"><img class="card-img-top" src="{{ .Params.galerieaccueil }}" alt="Image {{ .Title }}"></a>

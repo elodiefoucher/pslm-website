@@ -32,7 +32,7 @@ interlude1: "Patronage Scolaire Laïque de Montchat est un club de quartier cré
 Il œuvre au développement de ses valeurs pour permettre à chacun de trouver bien-être et bonne humeur dans les différentes sections proposées.<br>
 Une association impliquée dans un quartier vivant et en pleine expansion ; une pratique sportive pour tous, adaptée à tous les niveaux et au service de chacun, du loisir à la performance.   "
 
-Interlude2: "À la tête du PSL Montchat depuis 2001 comme présidente, mais entrée dans le club en 1992 comme entraîneur de gymnastique, c’est avec plaisir et fierté que je regarde tout le chemin parcouru depuis tant d’années.<br>
+interlude2: "À la tête du PSL Montchat depuis 2001 comme présidente, mais entrée dans le club en 1992 comme entraîneur de gymnastique, c’est avec plaisir et fierté que je regarde tout le chemin parcouru depuis tant d’années.<br>
 Une progression permanente des effectifs, une qualité d’enseignement reconnue et un esprit particulier et familial font de ce club de 650 adhérents et de 680 membres une grande famille où on se sent bien.<br>
 La pérennité de l’encadrement et de certains membres du conseil d’administration, tous garants de l'esprit du PSLM, en fait un vrai atout qui fédère nos adhérents et toutes nos nouvelles recrues."
 

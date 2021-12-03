@@ -4,7 +4,7 @@ date: '2021-11-22'
 galerieaccueil: /img/banner-newsletter2021-site.jpg
 galerie:
   - photo: /img/banner-newsletter2021.jpg
-accueil:
+accueil: "Retrouvez les actualités dans notre newsletter de l'automne 2021 - agenda, focus, les actus de la rentrée pour ne rien louper !"
 ---
 
 

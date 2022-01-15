@@ -29,25 +29,31 @@
 
   {{ end }}
 
-  <div class="condition-inscription">
-    {{ .Content }}
-  </div>
   <div class="stage-doc">
     <h3 style="margin-bottom:2rem;">Documents à télécharger pour l'inscription</h3>
     <div class="row">
-      <div class="col col-lg-4 col-md-6 col-sm-12 col-centered">
+      <div class="col col-lg-4 col-md-4 col-sm-12 col-centered">
         <a href="/doc/stages/stage-autorisation.pdf" target="_blank">
           <img src="/img/icon-doc-b.png" alt="doc" width="60rem">
           <p>Autorisation parentale</p>
         </a>
       </div>
-      <div class="col col-lg-4 col-md-6 col-sm-12 col-centered">
+      <div class="col col-lg-4 col-md-4 col-sm-12 col-centered">
         <a href="/doc/stages/stage-fiche-sanitaire.jpg" target="_blank">
           <img src="/img/icon-doc-b.png" alt="doc" width="60rem">
           <p>Fiche sanitaire</p>
         </a>
       </div>
+      <div class="col col-lg-4 col-md-4 col-sm-12 col-centered">
+        <a href="/doc/stages/fiche-informations.jpg" target="_blank">
+          <img src="/img/icon-doc-b.png" alt="doc" width="60rem">
+          <p>Informations</p>
+        </a>
+      </div>
     </div>
+  </div>
+  <div class="condition-inscription">
+    {{ .Content }}
   </div>
 </section>
 

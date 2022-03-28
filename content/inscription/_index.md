@@ -1,5 +1,5 @@
 ---
-title: "Inscription"
+title: "Inscriptions"
 description: "Les inscriptions pour la saison 2021-2022 démarrent à partir du 1er juin.<br>Retrouvez tous les horaires d'inscription et les pièces à fournir ci dessous.<br>Les horaires des cours dispensés sont dans la rubrique Activités ainsi que sur la plaquette que vous trouverez ci-dessous."
 
 conditions: "Nous vous rappelons que pour valider l'inscription il nous faut impérativement le règlement.<br> Le certificat médical est obligatoire pour les activités gyms."

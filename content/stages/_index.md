@@ -1,5 +1,5 @@
 ---
-title: "Stages"
+title: "Stages loisirs"
 description: "Pour continuer vos activités même pendant les vacances, le PSLM organise des STAGES"
 banner: "/img/banner-stage.jpg"
 color: "text-black"

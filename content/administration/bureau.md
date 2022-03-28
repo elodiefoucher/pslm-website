@@ -1,0 +1,26 @@
+---
+title: "Bureau"
+elus:
+ - nom: "Chloé DUFOUR"
+   fonction: "Présidente"
+   img: "/img/encadrement-olivier-esquer.png"
+ - nom: "Myriam CAMUS"
+   fonction: "Vice présidente"
+   img: "/img/encadrement-valentine-nore.png"
+ - nom: "Marc CHOURAQUI"
+   fonction: "Vice président"
+   img: "/img/encadrement-chloe-dufour.jpg"
+ - nom: "Pascale VARAGNAT"
+   fonction: "Trésorière"
+   img: "/img/encadrement-none.jpg"
+ - nom: "Bernadette ROZEL"
+   fonction: "Trésorière adjointe"
+   img: "/img/encadrement-none.jpg"   
+ - nom: "Christine DONOVAN"
+   fonction: "Secrétaire"
+   img: "/img/encadrement-marie-eve-gerboud.jpg"
+ - nom: "Nathalie SORNAY"
+   fonction: "Secrétaire adjointe"
+   img: "/img/encadrement-none.jpg"
+weight: 1
+---

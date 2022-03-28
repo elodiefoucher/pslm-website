@@ -1,20 +1,5 @@
 ---
-title: "Administrateurs du CA"
-conseil:
- - fonction: "Présidente"
-   nom: "Chloé DUFOUR"
- - fonction: "Vice-Président"
-   nom: "Marc CHOURAQUI"
- - fonction: "Vice-Présidente"
-   nom: "Myriam CAMUS"
- - fonction: "Trésorière"
-   nom: "Pascale VARAGNAT"
- - fonction: "Trésoriere adjointe"
-   nom: "Bernadette ROZEL"
- - fonction: "Secrétaire"
-   nom: Christine DONOVAN
- - fonction: "Secrétaire adjointe"
-   nom: Nathalie SORNAY
+title: "Commissions"
 commission:
  - fonction: "Commission gymnastique artistique et loisirs"
    nom: "Soisic BEYLIER, Olivier ESQUER, Marie-Eve GERBOUD, Valentine NORE, David NOVI"

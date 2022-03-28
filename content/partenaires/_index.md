@@ -23,6 +23,9 @@ partenaire:
 - nom: A corps et accord
   img: /img/partenaire-a-corps-et-accord.png
   lien: https://acorpsetaccord.jimdo.com/
+- nom: ANS
+  img: /img/partenaire-ans.PNG
+  lien: https://www.agencedusport.fr/
 partenairetop12:
 
 - nom: Kaffee Berlin
@@ -82,7 +85,6 @@ Nous nous engageons à faire connaitre votre entreprise à travers nos supports 
 
 ### Une personne à contacter
 
-1. **Laetitia BASTIN** (Commission communication)  **06 13 59 11 06** - laetitia.bastin@gmail.com
-
+1. **Valentine NORÉ** (Commission communication) - valentine.nore@free.fr
 
 ## Nos moyens de communication :

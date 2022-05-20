@@ -1,6 +1,6 @@
 ---
-title: Dépenses Energétiques
-slug: depenses-energetiques
+title: Cardio training
+slug: cardio-training
 horaires:
   - heures: 19h30 - 20h15
     jour: lundi

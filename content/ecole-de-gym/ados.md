@@ -1,10 +1,10 @@
 ---
-title: Ado
+title: Ado / Adultes
 slug: ados
 weight: 7
 horaires:
-  - heures: 18h30 - 20h
-    jour: vendredi
+  - heures: 19h - 20h30
+    jour: jeudi
 weight: 7
 ---
-Enfants nés de 2004 à 2007
+Nés en 2008 et avant

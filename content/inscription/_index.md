@@ -1,8 +1,8 @@
 ---
 title: "Inscriptions"
-description: "Les inscriptions pour la saison 2021-2022 démarrent à partir du 1er juin.<br>Retrouvez tous les horaires d'inscription et les pièces à fournir ci dessous.<br>Les horaires des cours dispensés sont dans la rubrique Activités ainsi que sur la plaquette que vous trouverez ci-dessous."
+description: "Les inscriptions pour la saison 2022-2023 démarrent à partir du 1er juin.<br>Retrouvez tous les horaires de permanence d'inscription et les pièces à fournir ci dessous.<br>Les horaires des cours dispensés sont dans la rubrique Activités."
 
-conditions: "Nous vous rappelons que pour valider l'inscription il nous faut impérativement le règlement.<br> Le certificat médical est obligatoire pour les activités gyms."
+conditions: "Nous vous rappelons que pour valider l'inscription il nous faut impérativement le règlement.<br> Le certificat médical est obligatoire pour les activités gym."
 
 documents:
  - photo: "/img/inscription-ecole-de-gym.png"
@@ -28,10 +28,10 @@ background: "banner-light"
 ### Permanences paiement et aide à l'inscription en ligne (au bureau du PSLM) :
 **Port du masque obligatoire**
 
-A partir du 30 août 2021 :
+A partir du 1er juin 2022 :
 
-- Permanences paiement : lundi, mardi et jeudi de 17h à 19h, mercredi de 15h à 17h
-- Permanence aide à l'inscription en ligne : jeudi de 17h à 19h
+- Permanences paiement :
+- Permanence aide à l'inscription en ligne :
 - Vous pouvez aussi déposer un réglement dans la boîte aux lettres du PSLM, elle est relevée très régulièrement.
 
 
@@ -44,15 +44,12 @@ A partir du 30 août 2021 :
 - 1 chèque de caution 100 € rendu au retour de la tenue.
 - Pour tout nouvel adhérent la validation de l'inscription se fera après essai et confirmation par l'équipe du PSLM.
 
-## Saison 2021 / 2022
-- Début des cours à partir du 13 septembre pour toutes les activités
-- Reprise progressive des entraînements à partir du 23 août
+## Saison 2022 / 2023
+- Début des cours à partir du 12 septembre pour toutes les activités
+- Reprise progressive des entraînements à partir du 22 août
 pour les gymnastes en compétitions.
 
 ## Réductions
-- Réduction COVID pour les adhérents inscrits en 2020-2021 :
-- 40% de réduction pour la Gym Fit adultes
-- 10% pour la danse, l'école de gym et la gym compétition
 - 10% de réduction sur la 2ème inscription et pour les étudiants
 - 15% de réduction sur la 3ème inscription
 - Coupons sport acceptés

@@ -6,17 +6,17 @@ Le cours vont du STRETCHING jusqu'à l'AEROBIC et au STEP pour que chacun et cha
 categories: ["cours"]
 tarifs:
 - public: "1 cours par semaine"
-  prix: "205 €"
+  prix: "210 €"
 - public: "2 cours par semaine"
-  prix: "265 €"
+  prix: "270 €"
 - public: "Intensif 3 cours"
-  prix: "295 €"
+  prix: "300 €"
 - public: "Intensif 4 cours"
-  prix: "325 €"
+  prix: "330 €"
 - public: "Abonnement visio en plus d'1, 2, 3 ou 4 cours en présentiel"
   prix: "50 €"
 - public: "Abonnement intégral uniquement visio (3 cours)"
-  prix: "205 €"
+  prix: "210 €"
 conditions: "Les choix des cours sont à définir en début de saison lors des inscriptions.<br>
 Cours en salle ou en extérieur."
 banner: "/img/banner-gym-fitness.jpg"

@@ -14,9 +14,9 @@ horaires4:
     cours: Ado
     heures: 12h30 - 14h
     jour: Samedi
-  - age: Adultes (école Jules Verne)
+  - age: Adultes
     cours: Adulte
-    heures: 19h30 - 21h
+    heures: 20h15 - 21h45
     jour: Vendredi
 description: >-
   Le moderne jazz puise un travail technique et en second un travail
@@ -26,11 +26,11 @@ description: >-
   ceux qui souhaitent libérer leur esprit, leurs tensions et ressentir la
   musique.
 tarifs:
-  - prix: 230 €
+  - prix: 245 €
     public: Modern Jazz Enfant
-  - prix: 250 €
+  - prix: 265 €
     public: Modern Jazz Ado
-  - prix: 250 €
+  - prix: 265 €
     public: Modern Jazz Adulte
 weight: 3
 ---

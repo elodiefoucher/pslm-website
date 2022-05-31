@@ -15,7 +15,7 @@ tarifs:
   prix: "330 €"
 - public: "Abonnement visio en plus d'1, 2, 3 ou 4 cours en présentiel"
   prix: "50 €"
-- public: "Abonnement intégral uniquement visio (3 cours)"
+- public: "Abonnement intégral uniquement visio (2 cours)"
   prix: "210 €"
 conditions: "Les choix des cours sont à définir en début de saison lors des inscriptions.<br>
 Cours en salle ou en extérieur."

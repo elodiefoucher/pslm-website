@@ -4,12 +4,16 @@ description: "La compétition permet aux enfants de montrer à leurs parents ce 
 thumbnail: /img/home-banner.png
 inscription:
 tarifs:
-- public: 2 Entraînements/semaine
-  prix: "375€"
-- public: 3 Entraînements/semaine
-  prix: 405 €
-- public: 4 Entraînements/semaine
-  prix: 455 €
+- public: Pré-poussine (5-6 ans)
+  prix: "346€"
+- public: Poussine départementale (7-8 ans)
+  prix: "376€"
+- public: Poussine régionale (8-10 ans)
+  prix: "476€"
+- public: Fédéral
+  prix: "376€"
+- public: Performance
+  prix: 476 €
 condition: "A partir de 5 entraînements par semaine les tarifs compétition sont à demander directement au bureau."
 banner: "/img/banner-competition.jpg"
 color: "text-blue"

@@ -4,7 +4,34 @@
 
 {{ partial "description.html" . }}
 
-{{ partial "tarifs.html" . }}
+<section class="container">
+
+ <div class="row justify-content-md-center tarifs-cont">
+   <div class="col col-lg-2">
+     <h4 class="nos-tarifs">Nos formules</h4>
+   </div>
+   <div class="col-md-auto">
+     <div class="tarifs">
+       <ul class="list-group">
+         {{ range .Params.tarifs }}
+         <div class="text-center">
+       <li class="list-group-item">{{ .public }} - {{ .prix }}</li>
+              {{ end }}
+       <li class="list-group-item"><span class="list-group-item-fraisfixes">Frais fixes* : Adhésion (par famille)</span> + 20€</li>
+       </div>
+       <br>
+       <span class="list-group-item-fraisfixes"><p>*Une seule adhésion par famille, quel que soit le nombre de cours</p></span>
+     </ul>
+     </div>
+   </div>
+   <div class="col col-lg-2">
+   </div>
+ </div>
+ {{ if isset .Params "condition" }}
+   <p class="condition-tarifs">{{ .Params.condition | markdownify }}</p>
+   {{ end }}
+</section>
+
 
 <section class="container cours-home">
   <!--liste différents cours proposés avec horaires-->
@@ -64,7 +91,7 @@
       </div>
     </div>
     </div>
-    <div class="col-lg-4 col-md-6 d-flex align-items-stretch col-centered">
+    <!--<div class="col-lg-4 col-md-6 d-flex align-items-stretch col-centered">
     <div class="card text-center mx-auto">
       <div class="card-body">
         <h2>Dépenses énergétiques - Hit</h2>
@@ -78,7 +105,7 @@
         </div>
       </div>
     </div>
-    </div>
+    </div>-->
   </div>
   <div class="col-md-2 col-centered button-inscription mx-auto">
     <a href="/inscription"><button type="button" class="btn btn-light">INSCRIPTION</button></a>

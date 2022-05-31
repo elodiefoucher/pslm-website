@@ -26,12 +26,11 @@ background: "banner-light"
 
 
 ### Permanences paiement et aide à l'inscription en ligne (au bureau du PSLM) :
-**Port du masque obligatoire**
 
 A partir du 1er juin 2022 :
 
-- Permanences paiement :
-- Permanence aide à l'inscription en ligne :
+- Permanences paiement : Lundi - Mardi 17h-19h30, Mercredi 15h - 17h, Jeudi 17h- 19h, Vendredi 17h-18h
+- Permanence aide à l'inscription en ligne : Mercredi 16h - 17h
 - Vous pouvez aussi déposer un réglement dans la boîte aux lettres du PSLM, elle est relevée très régulièrement.
 
 

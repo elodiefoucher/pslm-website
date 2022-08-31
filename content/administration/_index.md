@@ -1,5 +1,5 @@
 ---
-title: "Encadrement"
+title: "Les dirigeants"
 gym:
  - nom: "Olivier ESQUER"
    diplome: "BEES 2 GAF"

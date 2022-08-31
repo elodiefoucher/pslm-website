@@ -4,7 +4,7 @@ date: '2021-12-13'
 galerieaccueil: /img/lilou01b.jpg
 galerie:
   - photo: /img/lilou01.JPG
-accueil: "Elle avait déjà porté quelques fois la tenue de l’équipe de France, mais c’était pour des compétitions « amicales » en Espoir. En cette fin Novembre, Lilou Viallat, notre gymnaste montchatoise pensionnaire du pôle France de Saint Etienne, a plongé dans le grand bain international"
+accueil: "Elle avait déjà porté quelques fois la tenue de l’équipe de France, mais c’était pour des compétitions « amicales » en Espoir. En cette fin Novembre, Lilou VIallat"
 ---
 
 Elle avait déjà porté quelques fois la tenue de l’équipe de France, mais c’était pour des compétitions « amicales » en Espoir. En cette fin Novembre, Lilou Viallat, notre gymnaste montchatoise pensionnaire du pôle France de Saint Etienne, a plongé dans le grand bain international. Meilleure gymnaste française née en 2008, Lilou a représenté la France au tournoi international junior de Charleroi (Belgique), le Top Gym, accompagnée de la meilleure française née en 2007.

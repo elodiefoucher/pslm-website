@@ -1,5 +1,5 @@
 ---
-title: "Cécile PIZOT (30 ans)"
+title: "Djenna"
 galerie: /img/portrait-cecile-pizot.jpg
 accueil: /img/portrait-cecile-pizot-a.png
 date: 2017-11-02

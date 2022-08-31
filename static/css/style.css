@@ -5,6 +5,9 @@
 .blue {
   background-color: rgb(0,109,152)
 }
+.blue-light {
+  background-color: rgba(0,109,152, 0.3)
+}
 
 .red {
   background-color: rgb(215,29,36)
@@ -27,7 +30,7 @@
 }
 
 .text-black {
-  color: rgb(0,0,0);
+  color: rgb(0,109,152);
 }
 
 .text-center {
@@ -245,7 +248,7 @@ h3 {
 /*banner*/
 @media (max-width: 576px) {
 .banner h1 {
-  font-size: 3rem;
+  font-size: 2rem;
   text-transform: uppercase;
   text-align: center;
 }
@@ -253,9 +256,10 @@ h3 {
 
 @media (min-width: 768px) {
 .banner h1 {
-  font-size: 5rem;
+  font-size: 4rem;
   text-transform: uppercase;
   text-align: right;
+  padding-top: 1rem;
 }
 }
 
@@ -328,7 +332,6 @@ h3 {
   font-size: 1.4rem;
   font-weight: bold;
 }
-
 .placesrestantes {
   font-weight: 600;
   padding-right: 1rem;
@@ -601,7 +604,7 @@ img[alt=dossier-de-partenariat] {
 }
 
 .section-icon {
-  padding-top: 3rem;
+  padding-top: 4rem;
   padding-bottom: 1rem;
 }
 
@@ -618,7 +621,7 @@ img[alt=dossier-de-partenariat] {
 }
 
 .accueil-haut {
-  background: 
+  background:
 }
 .c-accueil p {
   text-align: right;
@@ -683,7 +686,7 @@ img[alt=dossier-de-partenariat] {
 .accueil-slogan {
    color: rgb(0,109,152);
    text-align: center;
-   padding-top: 3rem;
+   padding-top: 1rem;
 }
 
 .accueil-slogan h3 {
@@ -694,7 +697,7 @@ img[alt=dossier-de-partenariat] {
 
 .accueil-logo {
   text-align: center;
-  padding-top: 6rem;
+
 }
 
 @media (max-width: 576px) {
@@ -717,10 +720,17 @@ img[alt=dossier-de-partenariat] {
 }
 }
 
+.acceuil-infos {
+  font-size: 2rem;
+  text-align: center;
+  padding: 1rem;
+  color: rgb(215,29,36);
+}
+
 .presidente {
   font-weight: 300;
-  font-size: 1rem;
-  text-align: left;
+  font-size: 3rem;
+  text-align: center;
   margin-bottom: 0.5rem;
 }
 
@@ -735,9 +745,14 @@ img[alt=dossier-de-partenariat] {
   padding: 1rem 3rem;
 }
 
+.text-activites {
+  font-size: 0.2rem;
+  padding: 0;
+  margin: 0;
+}
 
 .card-accueil {
-  height: 500px
+  height: 400px
 }
 
 .lien-accueil {
@@ -946,7 +961,24 @@ img[alt=dossier-de-partenariat] {
 .img-enca {
   width: 130px;
   margin-bottom: 1rem;
+  margin-top: 1rem;
 }
+.img-elus {
+  width: 130px;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
+.img-conseil {
+  width: 90px;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
+.conseilnom {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 0;
+}
+
 .enom {
   font-size: 1.2rem;
   font-weight: 600;
@@ -992,10 +1024,21 @@ img[alt=dossier-de-partenariat] {
   text-transform: uppercase;
   color: rgb(0,109,152);
   font-weight: 500;
+  text-align: right;
 }
 
 .admin-nom {
   font-weight: 300;
+}
+.admin-fonc-d {
+  text-transform: uppercase;
+  color: rgb(0,109,152);
+  font-weight: 500;
+  text-align: left;
+}
+.admin-nom-g {
+  font-weight: 300;
+  text-align: right;
 }
 
 .admin-glob {
@@ -1272,4 +1315,13 @@ img[alt=dossier-de-partenariat] {
 .warning-horaires {
   text-align: center;
   color: rgb(215,29,36);
+}
+
+
+/* Top 12 */
+
+.top-12-button {
+  background-color: RGB(40,149,192);
+  text-align: left;
+  color: red;
 }

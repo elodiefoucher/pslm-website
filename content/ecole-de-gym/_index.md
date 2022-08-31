@@ -3,11 +3,14 @@ title: "Ecole de Gym"
 description: "Vos enfants commencent à évoluer aux agrès gymniques et à effectuer des figures imposées: marcher sur la poutre, tourner autour des barres, traverser à la suspension et à l'appui, faire l'équilibre , la roue. Ils présentent ses différents exercices et valident leurs compétences lors du challenge ANSELME du PSLM. Ils reçoivent à cette occasion une coupe ou une médaille attestant de leur capacité et récompensant le niveau qu'ils ont acquis."
 tarifs:
  - public: "Access Gym Mixte (Cabrioles, Pirouettes, Acrobates)"
-   prix: "206 €"
+   prix: "270 €"
+   cotisation: 206 €
  - public: " Access Gym féminin (Flic-Flac, Salti)"
-   prix: "231 €"
+   prix: "295 €"
+   cotisation: 231 €
  - public: "Adultes & Ados"
-   prix: "231 €"
+   prix: "295 €"
+   cotisation: 231 €
 banner: "/img/banner-ecole-de-gym.jpg"
 color: "text-green"
 background: "banner-dark"

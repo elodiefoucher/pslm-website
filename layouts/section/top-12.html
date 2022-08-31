@@ -1,0 +1,35 @@
+{{ define "main" }}
+
+{{ partial "banner.html" . }}
+
+{{ partial "description.html" . }}
+
+<section>
+  <div class="partenaires">
+  <h2>PARTENAIRES CLUB</h2>
+  <div class="row">
+  {{ range .Params.partenaire }}
+  <div class="col col-lg-4">
+<a href="{{ .lien }}" target="_blank"><img src="{{ .img }}" width="300" alt="{{ .nom }}"></a>
+</div>
+{{ end }}
+</div>
+</div>
+</section>
+
+<section>
+  <div class="partenaires">
+  <h2>PARTENAIRES HAUT NIVEAU</h2>
+  <div class="row">
+  {{ range .Params.partenairetop12 }}
+  <div class="col col-lg-3 col-md-3 col-sm-6 col-centered">
+      <div class="part">
+<a href="{{ .lien }}" target="_blank"><img src="{{ .img }}" width="200" alt="{{ .nom }}"></a>
+</div>
+</div>
+{{ end }}
+</div>
+</div>
+</section>
+
+{{ end }}

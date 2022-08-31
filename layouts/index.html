@@ -3,105 +3,101 @@
   <img src="/img/banniere-prevente-top12.jpg" alt="banniere prevent" width="100%">
   <iframe id="haWidget" allowtransparency="true"  src="https://www.helloasso.com/associations/patronage-scolaire-laique-de-montchat/evenements/top-12/widget" style="width:100%;height:550px;border:none;" onload="window.scroll(0, this.offsetTop)"></iframe>
   </section>-->
-<section>
+<!--<section>
   <img class="d-block w-100" src="/img/banner-accueil.jpg" alt="PSLM">
   <div class="c-accueil">
     <div class="accueil-caption">
       <h1>{{ .Title }}</h1>
       <h2>{{ .Params.subtitle }}</h2>
     </div>
-  </section>
+  </section>-->
+
 <section>
-<!--  <div class="container-a-la-une">
-  <div class="a-la-une">
-    <h2>Informations Covid 19</h2>
-  </div>
-  <br>
-  <div class="inscriptions">
-        <br>
-        {{ .Content }}
-          <br>
-          <br>
-    </div>
-  </div>
-</section>-->
-<section class="section">
-  <h2 class="accueil-title" style="margin-top:2rem;">Nos activités</h2>
-  <div class="container-accueil">
+  <section class="container section">
     <div class="row">
-      {{ range .Params.Domaines }}
-      <div class="col s12 m4">
-        <div class="container">
-          <div>
-            <a href="{{ .lien }}"><img class="mx-auto img-home" src="{{ .img }}" alt="Image {{ .title }}"></a>
-            <a href="{{ .lien }}"><h3 class="text-center" style="margin-bottom:2rem;">{{ .title }}</h3></a>
+      <div class="col-lg-4 col-md-12 col-sm-12">
+        <div class="accueil-logo">
+          <img src="/img/logo-pslm.png" alt="PSLM" width="300px">
+        </div>
+        <h3 class="accueil-slogan">{{ .Params.catchline }}</h3>
+          <!--  <h3 class="accueil-slogan">Gymnastique loisir</h3>
+          <h3 class="accueil-slogan">Gymnastique compétition</h3>
+          <h3 class="accueil-slogan">Gymnastique fitness</h3>
+          <h3 class="accueil-slogan">Danse</h3>-->
+      </div>
+      <div class="col-lg-8 col-md-12 col-sm-12">
+        <!--<div class="accueil-slogan">
+          <h2>{{ .Params.slogan }}</h2>
+          <h3>{{ .Params.catchline }}</h3>
+        </div>-->
+        <section class="container section-icon">
+          <div class="text-thin text-center">
+            <div class="row">
+                  {{ range .Params.icon }}
+              <div class="col-lg-4 col-md-4 col-sm-12">
+                <img src="{{ .img }}" alt="{{ .nom }}" width="90px" class="icon">
+                <h3><a href="{{ .lien2 }}">{{ .nom2 }}</a></h3>
+                <h3><a href="{{ .lien }}">{{ .nom }}</a></h3>
+              </div>
+                  {{ end }}
+            </div>
+          </div>
+        </section>
+      </div>
+    </div>
+  </section>
+<section class="container acceuil-infos">
+  <div>
+    <p class="accueil-infos">Reprise des cours à partir du 12 septembre 2022</p>
+  </div>
+</section>
+  <section class="blue">
+    <h2 class="accueil-title text-white" style="padding-top:1rem">Nos activités</h2>
+    <div class="container-accueil">
+      <div class="row">
+        {{ range .Params.Domaines }}
+        <div class="col s12 m4">
+          <div class="container">
+            <a href="{{ .lien }}"><p class="text-center text-blue text-activites">{{ .title }}</p></a>
+            <a href="{{ .lien }}"><img class="mx-auto img-home" src="{{ .img }}" alt="Image {{ .title }}" style="height:150px;"></a>
           </div>
         </div>
+        {{ end }}
       </div>
+    </div>
+  </section>
+
+  <section class="section text-blue">
+    <h2 class="accueil-title">{{ .Params.actualite }}</h2>
+    <div class="container">
+      <div class="row">
+        {{ range first 4 (where .Data.Pages "Section" "actualite") }}
+        <div class="col-lg-3 d-flex align-items-stretch col-sm-12">
+          <div class="card text-center">
+            <a href="{{ .URL }}"><img class="card-img-top" src="{{ .Params.galerieaccueil }}" alt="Image {{ .Title }}"></a>
+            <div class="card-body">
+              <div class="date-actu-accueil">    <time class="competition-jour" datetime="{{ .Date.Format "2006-01-02" | safeHTML }}">{{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</time></div>
+              <h2><a href="{{ .URL }}">{{ .Title }}</a></h2>
+              <a href="{{ .URL }}"><p class="card-text">{{ .Params.accueil }} [...]</p></a>
+            </div>
+            <div class="lien-accueil">
+              <p><a href="{{ .URL }}">Lire l'article</a></p>
+            </div>
+          </div>
+        </div>
       {{ end }}
     </div>
   </div>
-</section>
-
-<section class="section-blue">
-  <h2 class="accueil-title text-white">{{ .Params.actualite }}</h2>
-  <div class="container">
-    <div class="row">
-      {{ range first 3 (where .Data.Pages "Section" "actualite") }}
-      <div class="col-lg-4 d-flex align-items-stretch col-sm-12">
-        <div class="card text-center">
-          <a href="{{ .URL }}"><img class="card-img-top" src="{{ .Params.galerieaccueil }}" alt="Image {{ .Title }}"></a>
-          <div class="card-body">
-            <div class="date-actu-accueil">    <time class="competition-jour" datetime="{{ .Date.Format "2006-01-02" | safeHTML }}">{{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</time></div>
-            <h2><a href="{{ .URL }}">{{ .Title }}</a></h2>
-            <a href="{{ .URL }}"><p class="card-text">{{ .Params.accueil }} [...]</p></a>
-          </div>
-          <div class="lien-accueil">
-            <a href="{{ .URL }}">Lire l'article</p></a>
-          </div>
-        </div>
-      </div>
-    {{ end }}
-  </div>
-</div>
-</section>
-
-<!--  <section>
-  <a href="https://www.pslm.fr/actualite/18-03-06/">
-  <img src="/img/banniere-challenge-accueil.jpg" alt="Challenge Anselme" width="100%"></a>
-</section> -->
-
-<section class="container section">
-  <div class="row">
-    <div class="col-lg-4 col-md-12 col-sm-12">
-      <div class="accueil-logo">
-        <img src="/img/logo-pslm.png" alt="PSLM" width="200px">
-      </div>
-    </div>
-    <div class="col-lg-8 col-md-12 col-sm-12">
-      <div class="accueil-slogan">
-        <h2>{{ .Params.slogan }}</h2>
-        <h3>{{ .Params.catchline }}</h3>
-      </div>
-      <section class="container section-icon">
-        <div class="text-thin text-center">
-          <div class="row">
-                {{ range .Params.icon }}
-            <div class="col-lg-4 col-md-4 col-sm-12">
-              <a href="{{ .lien }}"><img src="{{ .img }}" alt="{{ .nom }}" width="90px" class="icon"></a>
-              <h3><a href="{{ .lien }}">{{ .nom }}</a></h3>
-            </div>
-                {{ end }}
-          </div>
-        </div>
-      </section>
-    </div>
-  </div>
-</section>
+  </section>
 
 
 
-<section class="section-blue">
+
+
+
+
+
+<!--<section class="section-blue">
   <div class="container">
     <div class="row">
       <div class="col-md-3 col-sm-12">
@@ -114,7 +110,7 @@
       </div>
     </div>
   </div>
-</section>
+</section>-->
 
 
 {{ end }}

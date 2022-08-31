@@ -4,55 +4,93 @@
 
 {{ partial "description.html" . }}
 
-<section class="container">
-{{ range .Data.Pages }}
-{{ if isset .Params "elus"}}
-<div class="content">
-  <h3>{{ .Title }}</h3>
-</div>
-<div class="container enca">
-  <div class="row">
-    {{ range .Params.bureau }}
-    <div class="col col-md-4 col-sm-12">
-      <div class="encadrement">
-        <img src="{{ .img }}" alt="{{ .title }}" class="img-enca">
-        <p class="enom">{{ .nom }}</p>
-        <p class="efonc">{{ .fonction }}</p>
-      </div>
-    </div>
-    {{ end }}
-  </div>
-</div>
-{{ else }}
-<div class="content">
-  <h3>{{ .Title }}</h3>
-</div>
-<div class="container enca">
-  <div class="container admin">
-    {{ range .Params.conseil }}
-    <div class="row">
-      <div class="col-md-4 col-sm-6">
-        <p class="admin-fonc">{{ .fonction }}</p>
-      </div>
-      <div class="col-md-8 col-sm-6">
-        <p class="admin-nom">{{ .nom }}
-        </div>
-      </div>
-      {{ end }}
 
-      {{ range .Params.commission }}
+  {{ range .Data.Pages }}
+<section class="container">
+    {{ if isset .Params "elus" }}
+    <div class="content">
+      <h3>{{ .Title }}</h3>
+    </div>
+    <div class="container enca">
       <div class="row">
-        <div class="col-md-7 col-sm-6">
-          <p class="admin-fonc">{{ .fonction }}</p>
-        </div>
-        <div class="col-md-5 col-sm-6">
-          <p class="admin-nom">{{ .nom }}
+        {{ range .Params.eluspres }}
+        <div class="col-lg-4 col-md-4 col-sm-6">
+          <div class="encadrement">
+            <img src="{{ .img }}" alt="{{ .title }}" class="img-elus">
+            <p class="enom">{{ .nom }}</p>
+            <p class="efonc">{{ .fonction }}</p>
           </div>
         </div>
         {{ end }}
+        {{ range .Params.elus }}
+        <div class="col-lg-3 col-md-3 col-sm-6">
+          <div class="encadrement">
+            <img src="{{ .img }}" alt="{{ .title }}" class="img-elus">
+            <p class="enom">{{ .nom }}</p>
+            <p class="efonc">{{ .fonction }}</p>
+          </div>
+        </div>
+        {{ end }}
+      </div>
     </div>
-  </div>
-{{ end }}
-{{ end }}
-{{ end }}
+    {{ end }}
 </section>
+<section class="container">
+    {{ if isset .Params "conseil" }}
+    <div class="content">
+      <h3>{{ .Title }}</h3>
+    </div>
+    <div class="container enca">
+      <div class="row">
+        {{ range .Params.conseil }}
+        <div class="col-lg-2 col-md-2 col-sm-6">
+          <div class="encadrement">
+            <img src="{{ .img }}" alt="{{ .title }}" class="img-conseil">
+            <p class="conseilnom">{{ .nom }}</p>
+          </div>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+</section>
+<section class="container">
+    {{ if isset .Params "commission" }}
+    <div class="content">
+      <h3>{{ .Title }}</h3>
+    </div>
+    <div class="container enca">
+      {{ range .Params.commission }}
+        <div class="row">
+          <div class="col-md-6 col-sm-6">
+            <p class="admin-fonc">{{ .fonction }}</p>
+          </div>
+          <div class="col-md-6 col-sm-6">
+            <p class="admin-nom">{{ .nom }}
+          </div>
+        </div>
+    {{ end }}
+    </div>
+  {{ end }}
+</section>
+<section class="container">
+    {{ if isset .Params "impliques" }}
+    <div class="content">
+      <h3>{{ .Title }}</h3>
+    </div>
+    <div class="container enca">
+      {{ range .Params.impliques }}
+        <div class="row">
+          <div class="col-md-6 col-sm-6">
+            <p class="admin-nom-g">{{ .nom }}
+          </div>
+          <div class="col-md-6 col-sm-6">
+            <p class="admin-fonc-d">{{ .fonction }}</p>
+          </div>
+        </div>
+    {{ end }}
+    </div>
+  {{ end }}
+</section>
+{{ end }}
+{{ end }}

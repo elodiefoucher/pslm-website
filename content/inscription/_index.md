@@ -17,7 +17,7 @@ documents:
  - photo: "/img/inscription-danse.png"
    lien: "/doc/inscription-danse.pdf"
    nom: "Danse"
-banner: "/img/banner-inscription2.jpg"
+banner: "/img/banner-inscription.jpg"
 color: "text-black"
 background: "banner-light"
 ---
@@ -27,7 +27,7 @@ background: "banner-light"
 
 ### Permanences paiement et aide à l'inscription en ligne (au bureau du PSLM) :
 
-A partir du 1er juin 2022 :
+A partir du 5 septembre 2022 :
 
 - Permanences paiement : Lundi - Mardi 17h-19h30, Mercredi 15h - 17h, Jeudi 17h- 19h, Vendredi 17h-18h
 - Permanence aide à l'inscription en ligne : Mercredi 16h - 17h

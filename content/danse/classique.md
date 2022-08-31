@@ -40,9 +40,11 @@ description: >-
   de se hisser sur la pointe des pieds et d'enchainer pirouettes et sauts de
   chat.
 tarifs:
-  - prix: 245 €
-    public: 1 cours par semaine
   - prix: 265 €
+    public: 1 cours par semaine
+    cotisation: 245 €
+  - prix: 285 €
     public: Classique 4
+    cotisation: 265 €
 weight: 1
 ---

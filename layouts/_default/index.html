@@ -16,7 +16,7 @@
           <h2>{{ .Params.slogan }}</h2>
           <h3>{{ .Params.catchline }}</h3>
         </div>
-        <section class="container section-icon">
+<section class="container section-icon">
           <div class="text-thin text-center">
             <div class="row">
                   {{ range .Params.icon }}
@@ -31,56 +31,6 @@
       </div>
     </div>
   </section>
-
-<!--<section>
-  <img class="d-block w-100" src="/img/banner-accueil.jpg" alt="PSLM">
-  <div class="c-accueil">
-    <div class="accueil-caption">
-      <h1>{{ .Title }}</h1>
-      <h2>{{ .Params.subtitle }}</h2>
-    </div>
-  </section>
-<section>
-  <div class="container-a-la-une">
-  <div class="a-la-une">
-    <h2>Informations<section class="container section">
-      <div class="row">
-        <div class="col-lg-4 col-md-12 col-sm-12">
-          <div class="accueil-logo">
-            <img src="/img/logo-pslm.png" alt="PSLM" width="200px">
-          </div>
-        </div>
-        <div class="col-lg-8 col-md-12 col-sm-12">
-          <div class="accueil-slogan">
-            <h2>{{ .Params.slogan }}</h2>
-            <h3>{{ .Params.catchline }}</h3>
-          </div>
-          <section class="container section-icon">
-            <div class="text-thin text-center">
-              <div class="row">
-                    {{ range .Params.icon }}
-                <div class="col-lg-4 col-md-4 col-sm-12">
-                  <a href="{{ .lien }}"><img src="{{ .img }}" alt="{{ .nom }}" width="90px" class="icon"></a>
-                  <h3><a href="{{ .lien }}">{{ .nom }}</a></h3>
-                </div>
-                    {{ end }}
-              </div>
-            </div>
-          </section>
-        </div>
-      </div>
-    </section>
- Covid 19</h2>
-  </div>
-  <br>
-  <div class="inscriptions">
-        <br>
-        {{ .Content }}
-          <br>
-          <br>
-    </div>
-  </div>
-</section>-->
 
 <section class="section">
   <h2 class="accueil-title text-blue">{{ .Params.actualite }}</h2>
@@ -115,6 +65,7 @@
           <div>
             <a href="{{ .lien }}"><img class="mx-auto img-home" src="{{ .img }}" alt="Image {{ .title }}"></a>
             <a href="{{ .lien }}"><h3 class="text-center" style="margin-bottom:2rem;">{{ .title }}</h3></a>
+            <p>{{ .description }}</p>
           </div>
         </div>
       </div>

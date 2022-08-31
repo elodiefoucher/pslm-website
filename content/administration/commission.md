@@ -11,5 +11,5 @@ commission:
    nom: "Christine PONCET, Hervé LENOIR, Christine DONOVAN"
  - fonction: "Commission Communication"
    nom: "Laetitia BASTIN, Elodie FOUCHER, Valentine NORE, Estelle VARAGNAT, Christelle MURGUE (non-membre du CA)"
-weight: 4
+weight: 3
 ---

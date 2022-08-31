@@ -5,7 +5,7 @@ galerieaccueil: /img/actu-22-01-6b.jpg
 galerie:
   - photo: /img/actu-22-01-6.jpg
   - photo: /img/actu-22-01-6a.jpg
-accueil: "On l’avait laissée au mois de Juin lors des championnats de France Elite, à une 7è place, pour sa 1ère année parmi les séniors ; un résultat ni brillant, ni décevant, sans saveur, dans une salle du Vendéespace, sans spectateurs, vidée par le Covid."
+accueil: "On l’avait laissée au mois de Juin lors des championnats de France Elite, à une 7è place, pour sa 1ère année parmi les séniors "
 ---
 
 On l’avait laissée au mois de Juin lors des championnats de France Elite, à une 7è place, pour sa 1ère année parmi les séniors ; un résultat ni brillant, ni décevant, sans saveur, dans une salle du Vendéespace, sans spectateurs, vidée par le Covid. Dépassant péniblement les 50 points, Djenna avait clôturé discrètement une saison compliquée. Elle même l’avouait à la sortie de la compétition, il n’y avait pas de surprises, compte tenu des entraînements qu’elle avait produits.

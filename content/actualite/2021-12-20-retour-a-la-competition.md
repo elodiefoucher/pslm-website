@@ -6,7 +6,7 @@ galerie:
   - photo: /img/actu-21-12-20.jpg
   - photo: /img/actu-21-12-20a.jpg
   - photo: /img/actu-21-12-20b.jpg
-accueil: "Les poussines du PSLM ont retrouvé le chemin des compétitions ce week-end pour le plus grand bonheur des gyms et des entraîneurs ! Les plus jeunes du club"
+accueil: "Les poussines du PSLM ont retrouvé le chemin des compétitions ce week-end pour le plus grand bonheur des gyms et des entraîneurs !"
 ---
 
 Les poussines du PSLM ont retrouvé le chemin des compétitions ce week-end pour le plus grand bonheur des gyms et des entraîneurs !

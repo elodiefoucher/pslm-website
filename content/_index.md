@@ -14,8 +14,8 @@ domaines:
   lien: "/ecole-de-gym"
 - competition:
   title: "Gym compétition"
-  description: "."
-  img: /img/inscription-competition.png
+  description: "S'épanouir et performer dans la gymnastique."
+  img: /img/inscription-gym-competition.png
   lien: "/competition"
 - gym-fitness:
   title: "Gym fitness"
@@ -70,9 +70,11 @@ icon:
  - nom: "Qui sommes nous ?"
    img: "/img/icon-qui-sommes-nous-g.png"
    lien: "/qui-sommes-nous"
- - nom: "Portraits"
+ - nom: "Les dirigeants"
+   nom2: "L'encadrement"
    img: "/img/icon-portraits-g.png"
-   lien: "/portraits"
+   lien: "/administration"
+   lien2: "/encadrement"
  - nom: "Nos projets"
    img: "/img/icon-projets-g.png"
    lien: "/nos-projets"

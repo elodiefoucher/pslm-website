@@ -2,23 +2,23 @@
 title: Danse Classique
 slug: danse-classique
 horaires2:
-  - age: Enfants nés en 2016-2017
+  - age: Enfants nés en 2017-2018
     cours: Eveil
     heures: 15h45 - 16h30
     jour: mercredi
     weight: 1
-  - age: Enfants nés en 2014-2015
+  - age: Enfants nés en 2015-2016
     cours: Initiation
     heures: 15h - 15h45
     jour: mercredi
     weight: '1'
 horaires4:
-  - age: Enfants nés en 2012-2013
+  - age: Enfants nés en 2013-2014
     cours: Classique 1
     heures: 14h - 15h
     jour: mercredi
     weight: 1
-  - age: Enfants nés à partir de 2011
+  - age: Enfants nés à partir de 2012
     cours: Classique 2
     heures: 16h30 - 17h30
     jour: mercredi

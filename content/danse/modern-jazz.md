@@ -4,15 +4,15 @@ slug: modern-jazz
 horaires4:
   - age: 8-11 ans
     cours: Enfant
-    heures: 10h - 11h
+    heures: 9h - 10h
     jour: Samedi
   - age: 12-15 ans
     cours: Ado
-    heures: 11h - 12h30
+    heures: 10h - 11h30
     jour: Samedi
   - age: 16-18 ans
     cours: Ado
-    heures: 12h30 - 14h
+    heures: 11h30 - 13h
     jour: Samedi
   - age: Adultes
     cours: Adulte

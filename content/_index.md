@@ -28,18 +28,6 @@ domaines:
   img: /img/inscription-danse.png
   lien: "/danse"
 
-interlude1: "Patronage Scolaire Laïque de Montchat est un club de quartier crée en 1913, au service des jeunes, des adultes et des séniors.
-Il œuvre au développement de ses valeurs pour permettre à chacun de trouver bien-être et bonne humeur dans les différentes sections proposées.<br>
-Une association impliquée dans un quartier vivant et en pleine expansion ; une pratique sportive pour tous, adaptée à tous les niveaux et au service de chacun, du loisir à la performance.   "
-
-interlude2: "À la tête du PSL Montchat depuis 2001 comme présidente, mais entrée dans le club en 1992 comme entraîneur de gymnastique, c’est avec plaisir et fierté que je regarde tout le chemin parcouru depuis tant d’années.<br>
-Une progression permanente des effectifs, une qualité d’enseignement reconnue et un esprit particulier et familial font de ce club de 650 adhérents et de 680 membres une grande famille où on se sent bien.<br>
-La pérennité de l’encadrement et de certains membres du conseil d’administration, tous garants de l'esprit du PSLM, en fait un vrai atout qui fédère nos adhérents et toutes nos nouvelles recrues."
-
-signature: "Audret Chapelan"
-
-presidente: "/img/encadrement-audret-chapelan.png"
-
 actualite: "Les dernières actualités"
 
 partenaire:
@@ -81,8 +69,3 @@ icon:
 color: "text-green"
 background: "banner-dark"
 ---
-##### 23/08/2021
-#### Les cours reprennent pour tous à partir du 13 septembre au PSLM.<br><br>
-#### En vertu des nouvelles normes en vigueur, le pass sanitaire est obligatoire pour toute personne majeure dès la rentrée et à partir de 12 ans à compter du 30 septembre.<br><br>
-#### Permanences paiement et inscription : Les lundis, mardis et jeudis de 17h à 19h et les mercredis de 15h à 17h.
-#### Toutes les informations necessaires à une inscription sur [pslm.fr/inscription](https://www.pslm.fr/inscription/)<br>

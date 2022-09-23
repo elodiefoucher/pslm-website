@@ -19,11 +19,13 @@
         <div class="accueil-logo">
           <img src="/img/logo-pslm.png" alt="PSLM" width="300px">
         </div>
-        <h3 class="accueil-slogan">{{ .Params.catchline }}</h3>
-          <!--  <h3 class="accueil-slogan">Gymnastique loisir</h3>
-          <h3 class="accueil-slogan">Gymnastique compétition</h3>
-          <h3 class="accueil-slogan">Gymnastique fitness</h3>
-          <h3 class="accueil-slogan">Danse</h3>-->
+        <div class="accueil-slogan">
+      <!--  <h3 class="accueil-slogan">{{ .Params.catchline }}</h3>-->
+          <h3>Gymnastique loisir</h3>
+          <h3>Gymnastique compétition</h3>
+          <h3>Gymnastique fitness</h3>
+          <h3>Danse</h3>
+        </div>
       </div>
       <div class="col-lg-8 col-md-12 col-sm-12">
         <!--<div class="accueil-slogan">
@@ -89,28 +91,4 @@
     </div>
   </div>
   </section>
-
-
-
-
-
-
-
-
-<!--<section class="section-blue">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-3 col-sm-12">
-        <img src="{{ .Params.presidente }}" alt="{{ .Title }}" width="180" style="margin:1rem">
-      </div>
-      <div class="col-md-9 col-sm-12 text-white">
-        <h2 class="accueil-title">Le mot de la présidente</h2>
-        <p class="presidente">{{ .Params.interlude2 | markdownify }}</p>
-        <p class="presidente-s">{{ .Params.signature }}</p>
-      </div>
-    </div>
-  </div>
-</section>-->
-
-
 {{ end }}

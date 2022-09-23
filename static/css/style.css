@@ -687,17 +687,17 @@ img[alt=dossier-de-partenariat] {
 .accueil-slogan {
    color: rgb(0,109,152);
    text-align: center;
-   padding-top: 1rem;
 }
 
 .accueil-slogan h3 {
   font-weight: 400;
   color: black;
-  font-size: 1.7rem;
+  font-size: 1.5rem;
 }
 
 .accueil-logo {
   text-align: center;
+  padding-bottom: 1rem;
 
 }
 

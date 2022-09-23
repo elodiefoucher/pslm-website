@@ -28,5 +28,3 @@ Conditions de remboursement : Toute inscription vous engage à régler les somme
 -	En cas d’annulation du stage par le PSLM
 
 - En période de Covid 19, un remboursement est effectué sur certificat médical si une mise à l'isolement est nécessaire durant la période de stage (cas contact, test positif).
-
-Le port du masque sera obligatoire pour tous les enfants pendant les journées de stage.

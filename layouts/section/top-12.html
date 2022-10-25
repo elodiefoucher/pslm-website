@@ -4,32 +4,27 @@
 
 {{ partial "description.html" . }}
 
-<section>
-  <div class="partenaires">
-  <h2>PARTENAIRES CLUB</h2>
-  <div class="row">
-  {{ range .Params.partenaire }}
-  <div class="col col-lg-4">
-<a href="{{ .lien }}" target="_blank"><img src="{{ .img }}" width="300" alt="{{ .nom }}"></a>
-</div>
-{{ end }}
-</div>
-</div>
-</section>
+  <section>
+  <ul class="nav nav-tabs justify-content-center" id="myTab" role="tablist">
+    {{ range .Data.Pages }}
+    <li class="nav-item">
+      <a class="nav-link {{ if eq .Weight 1 }}active{{end}}" id="{{.Params.slug}}-tab" data-toggle="tab" href="#{{.Params.slug}}" role="tab" aria-controls="{{.Params.slug }}" aria-selected="{{if eq .Weight 1}}true{{ else}}false{{end}}" >{{ .Title }}</a>
+    </li>
+    {{ end }}
+    </ul>
+  </section>
 
-<section>
-  <div class="partenaires">
-  <h2>PARTENAIRES HAUT NIVEAU</h2>
-  <div class="row">
-  {{ range .Params.partenairetop12 }}
-  <div class="col col-lg-3 col-md-3 col-sm-6 col-centered">
-      <div class="part">
-<a href="{{ .lien }}" target="_blank"><img src="{{ .img }}" width="200" alt="{{ .nom }}"></a>
-</div>
-</div>
-{{ end }}
-</div>
-</div>
-</section>
+ <section class="container qui">
+    <div class="tab-content" id="myTabContent">
+      {{ range .Data.Pages }}
+      <div class="tab-pane fade {{ if eq .Weight 1 }}show active{{end}}" id="{{.Params.slug}}" role="tabpanel" aria-labelledby="{{.Params.slug}}-tab">
+       <div class="description-deroule">
+        <div class="content">{{ .Content | markdownify}}</div>
+       </div>
+      </div>
+      {{end}}
+    </div>
+  </section>
+
 
 {{ end }}

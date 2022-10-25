@@ -4,7 +4,7 @@ slug: cardio-training
 horaires:
   - heures: 19h30 - 20h15
     jour: lundi
-  - heures: 19h30 - 20h15
+  - heures: 19h00 - 19h45
     jour: mercredi
   - heures: 20h15 - 21h
     jour: jeudi

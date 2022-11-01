@@ -1,7 +1,7 @@
 ---
 title: "Devenir partenaire"
 description: "​Afin de donner encore plus d’ampleur et de continuer à développer notre association, <br>nous avons besoin de partenaires pour un **soutien financier**."
-banner: "/img/banner-partenaires.png"
+banner: "/img/banner-partenaires.jpg"
 color: "text-black"
 background: "banner-white"
 ---

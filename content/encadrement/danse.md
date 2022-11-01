@@ -11,10 +11,10 @@ encadrement:
    fonction: "Hip Hop"
    entree: "2014"
    img: "/img/encadrement-julie-katchadourian.jpg"
- - nom: "Sophie KATCHADOURIAN"
+ - nom: "Maxime BOZONNET"
    diplome: "Formation "
-   fonction: "Danse et hip hop"
-   entree: "2021"
+   fonction: "Modern Jazz"
+   entree: "2022"
    img: "/img/encadrement-none.jpg"
 
 weight: 3

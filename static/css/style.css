@@ -1331,3 +1331,15 @@ img[alt=dossier-de-partenariat] {
   text-align: left;
   color: red;
 }
+
+.top-12-club {
+  font-weight: 600;
+  font-size: 1rem;
+  padding: 0;
+  margin: 0;
+}
+
+.top-12-ville {
+  font-weight: lighter;
+  font-size: 1rem;
+}

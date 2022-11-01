@@ -24,7 +24,7 @@ partenaire:
   img: /img/partenaire-a-corps-et-accord.png
   lien: https://acorpsetaccord.jimdo.com/
 - nom: ANS
-  img: /img/partenaire-ans.PNG
+  img: /img/partenaire-ans.png
   lien: https://www.agencedusport.fr/
 - nom: Kaffee Berlin
   img: /img/partenaire-kaffee-berlin.png
@@ -45,7 +45,7 @@ partenairetop12:
 - nom: "Région Auvergne-Rhône-Alpes"
   img: "/img/partenaire-region.png"
   lien: "https://www.auvergnerhonealpes.fr/"
-banner: "/img/banner-partenaires.png"
+banner: "/img/banner-partenaires.jpg"
 color: "text-black"
 background: "banner-white"
 ---

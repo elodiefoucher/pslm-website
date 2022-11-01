@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+{{ partial "banner.html" . }}
+
+<section class="container historique">
+  <div class="description-historique">
+  <p class="lead">{{ .Params.Description2 | markdownify }}</p>
+  </div>
+  <div class="description-historique">
+  <p class="lead">{{ .Description | markdownify }}</p>
+  </div>
+<!--  <div class="logo-historique">
+  <div class="col text-center">
+    {{ range .Params.galerie }}
+    <img src="{{ .logo }}" alt="{{ .Title }}" width="200" style="margin-top:1rem;margin-bottom:1rem;">
+    {{ end }}
+  </div>
+</div>-->
+  <div class="description-deroule">
+    <div class="content">{{ .Content | markdownify}}</div>
+  </div>
+</section>
+
+{{ end }}

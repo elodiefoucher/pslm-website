@@ -1,0 +1,28 @@
+{{ define "main" }}
+
+{{ partial "banner.html" . }}
+
+{{ partial "description.html" . }}
+
+<section class="container">
+  <div class="actu">
+    {{ range .Data.Pages }}
+<div class="container article">
+  <div class="row">
+    <div class="col-lg-4 md-12 sm-12">
+        <a href="{{ .Params.lien }}" target="_blank"><img src="{{ .Params.galerieaccueil }}" alt="{{ .Title }}" width="300"></a>
+    </div>
+    <div class="col-lg-7 md-12 sm-12">
+      <a href="{{ .Params.lien }}" target="_blank"><h2>{{ .Title }}</h2></a>
+      <a href="{{ .Params.lien }}" target="_blank"><p class="article-ajust">{{ .Params.accueil | markdownify }}</p></a>
+      </div>
+    <div class="col-lg-2 md-12 sm-0">
+    </div>
+  </div>
+</div>
+{{ end }}
+</div>
+</section>
+
+
+{{ end }}

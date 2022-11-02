@@ -26,29 +26,37 @@ Chaque rencontre oppose deux équipes. Lors des phases de poule, les équipes vo
 ### Des matchs sous forme de duels de gymnaste
 Un match oppose deux équipes. Il va se dérouler avec des duels de gymnaste.
 
-A chaque agrès il y aura 3 passages de 2 gymnastes. Tour à tour les deux clubs qui s'affrontent vont envoyer une gymnaste pour faire le meilleur mouvement possible.
+A chaque agrès il y aura 3 passages de 2 gymnastes soit 12 duels au total. Tour à tour les deux clubs qui s'affrontent vont envoyer une gymnaste pour faire le meilleur mouvement possible.
 
 - Un duel remporté fait gagner 3 points à l'équipe,
 - Une défaite fait gagner 1 point,
 - En cas de match nul c'est 2 points pour chaque équipe.
 
-En début de rencontre on tire au sort l'équipe qui commencera par débuter les duels, et ensuite on alterne à chaque duel.
+En début de rencontre on tire au sort l'équipe qui commencera par débuter les duels, et ensuite on alterne à chaque duel qui débute.
 <br><br>
 ### Stratégie, adrénaline et dépassement de soi !
 
-Cette forme de compétition fait appel à une vraie stratégie de la part des entraîneurs. En effet, ce n'est pas forcément l'équipe qui marque le plus de points sur les notes des mouvements qui remporte la rencontre, mais bien l'équipe qui gagnera le plus de duels !
+Cette forme de compétition fait appel à une vraie stratégie de la part des entraîneurs.
 
-Le choix des gymnastes est primordial car il est donné pour chaque équipe juste avant le passage, ce qui permet d'ajuster en fonction de la prestation de l'équipe adverse.
+En effet, ce n'est pas forcément l'équipe qui marque le plus de points sur les notes des mouvements qui remporte la rencontre, mais bien l'équipe qui gagnera le plus de duels !
 
-Pour les gymnastes c'est aussi de l'adrénaline tout au long de la rencontre car l'ordre de passage n'est pas défini ni définitif. La gymnaste doit se tenir prête à tout moment.
+- Le choix des gymnastes est primordial pour remporter les duels.
+- Il doit être donné par l'entraineur dans les 10 secondes après la fin du passage de l'adversaire.
+
+Cela permet d'ajuster l'ordre de passage des gymnastes en fonction de la prestation de l'équipe adverse.
+
+Pour les gymnastes c'est beaucoup d'adrénaline tout au long de la rencontre car l'ordre de passage n'étant pas défini ni définitif, la gymnaste doit se tenir prête à tout moment.
 Lors de son passage elle est ensuite seule en scène, ce qui peut décupler son stress mais aussi la pousser à se dépasser pour son équipe.
 <br><br>
-### Ambiance match et animation
+
+### Ambiance match et animation sur mesure
 
 Dans les matchs Top 12, un speaker présente les duels, interviewe les gymnastes et s'assure que le public est en forme pour encourager les deux équipes !
 
-Une mascotte est présente pour assurer l'animation, encourager les gymnastes et chatouiller le public.
+Une mascotte est présente pour faire le show, encourager les gymnastes et chatouiller le public.
 
 Un espace "kiss and cry" dans lequel les gymnastes attendent leur résultat et/ou le passage de la gymnaste concurente.
+
+Un grand écran pour annoncer les résultats des duels.
 
 Et bien sûr un espace buvette et restauration pour apprécier le spectacle avec boissons et encas !

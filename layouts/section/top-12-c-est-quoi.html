@@ -3,11 +3,8 @@
 {{ partial "banner.html" . }}
 
 <section class="container historique">
-  <div class="description-historique">
+  <div class="top-12-quoi text-center">
   <p class="lead">{{ .Params.Description2 | markdownify }}</p>
-  </div>
-  <div class="description-historique">
-  <p class="lead">{{ .Description | markdownify }}</p>
   </div>
 <!--  <div class="logo-historique">
   <div class="col text-center">
@@ -16,7 +13,7 @@
     {{ end }}
   </div>
 </div>-->
-  <div class="description-deroule">
+  <div class="top-12-quoi">
     <div class="content">{{ .Content | markdownify}}</div>
   </div>
 </section>

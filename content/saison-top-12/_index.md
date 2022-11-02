@@ -1,7 +1,7 @@
 ---
 title: "Saison 2022-2023"
 description: ""
-description2: "Le Top 12 se déroule sur toute l'année avec des matchs entre 2 équipes.<br> Retrouvez ici le calendrier des rencontres du PSLM ainsi que les équipes présentent en Top 12 cette saison."
+description2: "Le Top 12 se déroule sur toute l'année avec des matchs entre 2 équipes.<br> Retrouvez ici le calendrier des rencontres du PSLM ainsi que les équipes présentes en Top 12 cette saison."
 equipe:
 - nom:  Club Athlétique de Combs-la-Ville Gymnastique
   ville: Combs-la-ville (77)
@@ -84,8 +84,8 @@ background: "banner-white"
 <br>
 
 ### **25 mars 2023** : les matchs selon notre classement en poule
-- Si nous nous classons premier de notre poule nous accederons aux demi-finales.
-- Si nous nous classons deuxième nous jouerons les match de classement
+- Si nous nous classons premier de notre poule nous accéderons aux demi-finales.
+- Si nous nous classons deuxième nous jouerons un match de classement
 - Si nous sommes troisième nous serons en match de relégation
 
 Selon notre place, nous recevrons la compétition ou nous irons matcher à l'extérieur.

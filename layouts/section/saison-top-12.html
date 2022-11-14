@@ -12,9 +12,9 @@
     {{ .Content | markdownify}}
     <br><br>
   <h3 style="font-weight:400">La poule du PSLM</h3>
+<p>Les poules ont été tirées au sort le 24 septembre à Paris à l'occasion des Internationaux de France.</p>
   <div class="row">
-    <p>Les poules ont été tirées au sort le 24 septembre à Paris à l'occasion des Internationaux de France.</p>
-  {{ range .Params.equipepoule }}
+      {{ range .Params.equipepoule }}
   <div class="col-sm-6 col-md-4 col-lg-4 text-center">
 <a href="{{ .lien }}" target="_blank"><img src="{{ .img }}" width="100%" alt="{{ .nom }}">
 <p class="top-12-club">{{ .nom }}</p>

@@ -78,14 +78,15 @@ background: "banner-white"
 ### **11 février 2023** : deuxième journée : **PSLM - Meaux** à domicile
 
 - C'est notre tour de recevoir le match !
-- La rencontre se passera au Gymnase Mado Bonnet (Lyon 8). Elle se déroulera l'après-midi.
+- La rencontre se passera au Gymnase Mado Bonnet (Lyon 8).
+- L'échauffement des équipes démarrera à 14h30 pour un début de compétition à 16h.
 - Nous vous donnons plus d'informations prochainement !
 <br>
 <br>
 
 ### **25 mars 2023** : les matchs selon notre classement en poule
 - Si nous nous classons premier de notre poule nous accéderons aux demi-finales.
-- Si nous nous classons deuxième nous jouerons un match de classement
-- Si nous sommes troisième nous serons en match de relégation
+- Si nous nous classons deuxième nous jouerons un match de classement.
+- Si nous sommes troisième nous serons en match de relégation.
 
 Selon notre place, nous recevrons la compétition ou nous irons matcher à l'extérieur.

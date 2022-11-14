@@ -35,7 +35,7 @@ encadrement:
    diplome: ""
    fonction: "Secteur compétition"
    entree: "2020"
-   img: "/img/encadrement-none.jpg"
+   img: "/img/encadrement-vincent.png"
  - nom: "Laurence"
    diplome: "Bénévole"
    fonction: "Ecole de Gym"

@@ -32,7 +32,7 @@ encadrement:
    entree: "2008"
    img: "/img/encadrement-elodie-foucher.jpg"
  - nom: "Vincent DUGAST"
-   diplome: ""
+   diplome: "BE 1"
    fonction: "Secteur compétition"
    entree: "2020"
    img: "/img/encadrement-vincent.png"

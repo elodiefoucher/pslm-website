@@ -12,7 +12,7 @@ encadrement:
    entree: "2011"
    img: "/img/encadrement-valentine-nore.png"
  - nom: "Vincent DUGAST"
-   diplome: ""
+   diplome: "BE 1"
    fonction: "Secteur compétition"
    entree: "2020"
    img: "/img/encadrement-vincent.png"

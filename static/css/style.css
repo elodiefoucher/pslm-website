@@ -642,9 +642,7 @@ img[alt=dossier-de-partenariat] {
   background-image: url("/img/banner-top-12-meaux-tel.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  height: 70vh;
   min-height: 490px;
-  width: 98.7vw;
 }
 }
 
@@ -664,9 +662,7 @@ img[alt=dossier-de-partenariat] {
     background-image: url("/img/banner-voeux-site-internet-tel.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    height: 70vh;
     min-height: 490px;
-    width: 98.7vw;
   }
   }
   

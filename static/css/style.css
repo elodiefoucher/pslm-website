@@ -626,24 +626,35 @@ img[alt=dossier-de-partenariat] {
   zoom: 1;
 }
 
-@media (min-width: 768px) {
+.banner-annonce {
+  width: 100%;
+}
+
 .top-12-accueil {
-  background-image: url("/img/banner-top-12-meaux.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   height: 70vh;
   min-height: 400px;
   width: 98.7vw;
 }
+@media (min-width: 1008px) {
+  .top-12-accueil {
+    background-image: url("/img/banner-top-12-meaux.jpg");
+}
 }
 
-@media (max-width: 576px) {
-.top-12-accueil {
-  background-image: url("/img/banner-top-12-meaux-tel.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  min-height: 490px;
+@media (max-width: 1008px) {
+  .top-12-accueil {
+    background-image: url("/img/banner-top-12-meaux-tel.jpg");
+    min-height: 900px;
 }
+}
+
+@media (max-width: 768px) {
+  .top-12-accueil {
+    background-image: url("/img/banner-top-12-meaux-tel2.jpg");
+    min-height: 900px;
+  }
 }
 
 @media (min-width: 768px) {
@@ -657,12 +668,14 @@ img[alt=dossier-de-partenariat] {
   }
   }
   
-  @media (max-width: 576px) {
+  @media (max-width: 768px) {
   .voeux-accueil {
-    background-image: url("/img/banner-voeux-site-internet-tel.jpg");
+    background-image: url("/img/banner-voeux-site-internet-tel2.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    min-height: 490px;
+    height: 70vh;
+    min-height: 470px;
+    width: 98.7vw;
   }
   }
   

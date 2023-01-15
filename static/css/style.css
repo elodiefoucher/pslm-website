@@ -626,60 +626,6 @@ img[alt=dossier-de-partenariat] {
   zoom: 1;
 }
 
-.banner-annonce {
-  width: 100%;
-}
-
-.top-12-accueil {
-  background-size: cover;
-  background-repeat: no-repeat;
-  height: 70vh;
-  min-height: 400px;
-  width: 98.7vw;
-}
-@media (min-width: 1008px) {
-  .top-12-accueil {
-    background-image: url("/img/banner-top-12-meaux.jpg");
-}
-}
-
-@media (max-width: 1008px) {
-  .top-12-accueil {
-    background-image: url("/img/banner-top-12-meaux-tel.jpg");
-    min-height: 900px;
-}
-}
-
-@media (max-width: 768px) {
-  .top-12-accueil {
-    background-image: url("/img/banner-top-12-meaux-tel2.jpg");
-    min-height: 900px;
-  }
-}
-
-@media (min-width: 768px) {
-  .voeux-accueil {
-    background-image: url("/img/banner-voeux-site-internet.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 70vh;
-    min-height: 400px;
-    width: 98.7vw;
-  }
-  }
-  
-  @media (max-width: 768px) {
-  .voeux-accueil {
-    background-image: url("/img/banner-voeux-site-internet-tel2.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 70vh;
-    min-height: 470px;
-    width: 98.7vw;
-  }
-  }
-  
-
 .c-accueil p {
   text-align: right;
   font-size: 1.5rem;

@@ -26,14 +26,14 @@ description: >-
   ceux qui souhaitent libérer leur esprit, leurs tensions et ressentir la
   musique.
 tarifs:
-  - prix: 265 €
+  - prix: 280 €
     public: Modern Jazz Enfant
-    cotisation: 245 €
-  - prix: 285 €
+    cotisation: 260 €
+  - prix: 310 €
     public: Modern Jazz Ado
-    cotisation: 265 €
-  - prix: 285 €
+    cotisation: 290 €
+  - prix: 310 €
     public: Modern Jazz Adulte
-    cotisation: 265 €
+    cotisation: 290 €
 weight: 3
 ---

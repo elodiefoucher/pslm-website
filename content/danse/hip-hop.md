@@ -4,7 +4,7 @@ slug: hip-hop
 horaires2:
   - age: 9-14 ans
     cours: Hip-Hop
-    heures: 17h15 - 18h15
+    heures: 17h30 - 18h30
     jour: Mardi
 description: >-
   La danse hip-hop est une danse urbaine née aux Etats-Unis. <br>Elle compte de
@@ -12,8 +12,8 @@ description: >-
   le krump.... et s'inpire de beaucoup d'autres. <br>Idéal à tous les enfants
   qui aiment bouger et qui ont de l'énergie à revendre !
 tarifs:
-  - prix: 265 €
+  - prix: 280 €
     public: Hip-Hop
-    cotisation: 245 €
+    cotisation: 260 €
 weight: 2
 ---

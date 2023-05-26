@@ -1,9 +1,9 @@
 ---
-title: Zumba Ados
-slug: zumba-ados
+title: Yoga Danse
+slug: yoga-danse
 horaires:
-  - heures: 17h45 - 18h30
-    jour: jeudi
+  - heures: 15h15 - 16h
+    jour: mardi
 ---
 12-16 ans
 

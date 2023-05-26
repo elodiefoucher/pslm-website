@@ -6,7 +6,7 @@ horaires:
     jour: lundi
   - heures: 19h00 - 19h45
     jour: mercredi
-  - heures: 20h15 - 21h
+  - heures: 20h30 - 21h15
     jour: jeudi
 ---
 

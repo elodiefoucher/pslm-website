@@ -29,8 +29,8 @@ background: "banner-light"
 
 A partir du 1 juin 2023 :
 
-- Permanences paiement : Mardi 17h-19h, Mercredi 15h - 17h, Jeudi 17h-19h Vendredi 17h-18h
-- Permanence aide à l'inscription en ligne : Mercredi 16h - 17h
+- Permanences paiement : Mardi 17h-19h, Mercredi 15h - 17h, Vendredi 17h-18h
+- Permanence aide à l'inscription en ligne : Mercredi 15h30 - 16h
 - Vous pouvez aussi déposer un réglement dans la boîte aux lettres du PSLM, elle est relevée très régulièrement.
 
 

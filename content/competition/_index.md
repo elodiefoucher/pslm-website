@@ -5,20 +5,20 @@ thumbnail: /img/home-banner.png
 inscription:
 tarifs:
 - public: Pré-poussine (5-6 ans)
-  prix: "410 €"
-  cotisation: 346 €
+  prix: "435 €"
+  cotisation: 365 €
 - public: Poussine départementale (7-8 ans)
   prix: "440 €"
-  cotisation: 376 €
+  cotisation: 370 €
 - public: Poussine régionale (8-10 ans)
-  prix: "540 €"
-  cotisation: 476 €
+  prix: "565 €"
+  cotisation: 495 €
 - public: Fédéral
-  prix: "440 €"
-  cotisation: 376 €
+  prix: "465 €"
+  cotisation: 395 €
 - public: Performance
-  prix: 540 €
-  cotisation: 476 €
+  prix: 565 €
+  cotisation: 495 €
 condition: "A partir de 5 entraînements par semaine les tarifs compétition sont à demander directement au bureau."
 banner: "/img/banner-competition.jpg"
 color: "text-blue"

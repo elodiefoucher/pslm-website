@@ -6,10 +6,10 @@ tarifs:
    prix: "290 €"
    cotisation: 220 €
  - public: " Access Gym féminin (Flic-Flac, Salti)"
-   prix: "295 €"
+   prix: "315 €"
    cotisation: 245 €
  - public: "Adultes & Ados"
-   prix: "295 €"
+   prix: "315 €"
    cotisation: 245 €
 banner: "/img/banner-ecole-de-gym.jpg"
 color: "text-green"

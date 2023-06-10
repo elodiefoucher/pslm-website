@@ -29,7 +29,7 @@ background: "banner-light"
 
 Du 12 juin au 1er juillet 2023 :
 
-- Permanences : les mercredis 17h-19h, les jeudis 17h-19h, samedi 17: 10h-11H30, samedi 24: 13h30-17h30, samedi 1er: 10h-12h 
+- Permanences : les mercredis 17h-19h, les jeudis 17h-19h, samedi 17 et 1er: 10h-12h, samedi 24: 13h30-17h30.
 - Vous pouvez aussi déposer un réglement dans la boîte aux lettres du PSLM, elle est relevée très régulièrement.
 
 

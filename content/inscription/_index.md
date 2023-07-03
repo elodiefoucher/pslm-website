@@ -27,9 +27,9 @@ background: "banner-light"
 
 ### Permanences paiement et aide à l'inscription en ligne (au bureau du PSLM) :
 
-Du 12 juin au 1er juillet 2023 :
+Reprise des permanences de paiement début septembre.
 
-- Permanences : les mercredis 17h-19h, les jeudis 17h-19h, samedi 17 et 1er: 10h-12h, samedi 24: 13h30-17h30.
+<!-- Permanences : les mercredis 17h-19h, les jeudis 17h-19h, les samedis 10h-12h.-->
 - Vous pouvez aussi déposer un réglement dans la boîte aux lettres du PSLM, elle est relevée très régulièrement.
 
 

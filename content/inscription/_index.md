@@ -27,10 +27,11 @@ background: "banner-light"
 
 ### Permanences paiement et aide à l'inscription en ligne (au bureau du PSLM) :
 
-Reprise des permanences de paiement début septembre.
+Reprise des permanences de paiement du 2 au 30 septembre.
 
-<!-- Permanences : les mercredis 17h-19h, les jeudis 17h-19h, les samedis 10h-12h.-->
+Permanences de paiement : les mercredis et jeudis de 17h-19h, les samedis 2, 9, 23 et 30 septembre 10h-12h.
 - Vous pouvez aussi déposer un réglement dans la boîte aux lettres du PSLM, elle est relevée très régulièrement.
+- après le 30 septembre, voir auprès des entraineurs, coachs ou professeurs.
 
 
 ## Pièces à fournir pour toute Adhésion
@@ -48,11 +49,11 @@ Reprise des permanences de paiement début septembre.
 pour les gymnastes en compétitions.
 
 ## Réductions
-- 10% de réduction sur la 2ème inscription et pour les étudiants
-- 15% de réduction sur la 3ème inscription
+- 10% de réduction sur la 2ème inscription (sur la moins chère des 2) et pour les étudiants
+- 15% de réduction sur la 3ème inscription (sur la moins chère des 3)
 - Coupons sport acceptés
 - Chèques vacances acceptés
-- Paiement pass région accepté (fournir le numéro de la carte et la date de naissance du titulaire)
+- Paiement pass région accepté (fournir la photo de la carte et le code d'utilisateur à 4 chiffres)
 
 ## Facture
 - Une fois le réglement validé par le PSLM, votre facture est disponible dans votre espace personnel sur **<a href="https://sigpas.fr/pslm" target="_blank">sigpas.fr/pslm</a>** dans "Mes inscriptions" > "Inscription annuelle"
@@ -61,11 +62,11 @@ pour les gymnastes en compétitions.
 
 ### Créer un compte
 - Créez votre identifiant et votre mot de passe
-- Remplissez vos **Informations personnelles**, elles sont nécessaire pour toute inscription
+- Remplissez vos **Informations personnelles**, nécessaire pour toute inscription
 
 ### Créer un compte pour mon enfant
-- Si seulement votre enfant est adhérent, il n'est pas nécessaire de créer un compte pour le parent.
-- Si vous possédez déjà un compte à votre nom, créez un nouveau compte avec la même adresse mail et le même mot de passe que le votre. Les deux comptes seront reliés automatiquement.
+- Si seulement votre enfant est adhérent, il n'est pas nécessaire de créer un compte pour le parent
+- Si vous possédez déjà un compte à votre nom, créez un nouveau compte avec la même adresse mail et le même mot de passe que le votre. Les deux comptes seront reliés automatiquement
 - Lorsque le compte de votre enfant est créé, remplissez ses **Informations personnelles**
 
 ### S'inscrire à un cours

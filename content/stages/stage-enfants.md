@@ -14,7 +14,7 @@ journee: ""
 img: "/doc/stages/janvier-2024-bonne-annee-1sem-site.jpg"
 img1: "/doc/stages/stage-decembre-2022.jpg"
 img2: "/doc/stages/février-2024-pslm-mene-enquete-2sem-site.jpg"
-img3: "/doc/stages/stage-avril-2023.jpg"
+img3: "/doc/stages/Avril-2024-cirque-2sem-site.jpg"
 tarif: "35€ la journée<br>150€ la semaine"
 tel: "09 67 49 69 40"
 ---

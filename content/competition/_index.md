@@ -4,21 +4,21 @@ description: "La compétition permet aux enfants de montrer à leurs parents ce 
 thumbnail: /img/home-banner.png
 inscription:
 tarifs:
-- public: Pré-poussine (5-6 ans)
-  prix: "435 €"
-  cotisation: 365 €
-- public: Poussine départementale (7-8 ans)
-  prix: "440 €"
-  cotisation: 370 €
-- public: Poussine régionale (8-10 ans)
-  prix: "565 €"
-  cotisation: 495 €
-- public: Fédéral
-  prix: "465 €"
-  cotisation: 395 €
+- public: Gymni Pré-poussine (5-7 ans)
+  prix: "475 €"
+  cotisation: 405 €
+- public: Poussine régionale (8-9 ans)
+  prix: "610 €"
+  cotisation: 540 €
+- public: Fédéral/Performance région 10/15 ans, 3 entrainements 
+  prix: "525 €"
+  cotisation: 455 €
+- public: Fédéral (16 ans et +), 2 entrainements 
+  prix: "475 €"
+  cotisation: 405 €
 - public: Performance
-  prix: 565 €
-  cotisation: 495 €
+  prix: 610 €
+  cotisation: 540 €
 condition: "A partir de 5 entraînements par semaine les tarifs compétition sont à demander directement au bureau."
 banner: "/img/banner-competition.jpg"
 color: "text-blue"

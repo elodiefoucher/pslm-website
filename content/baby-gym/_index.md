@@ -5,8 +5,8 @@ description: "Durant les séances votre enfant **découvre les mouvements** qu'i
 condition: "La Baby Gym concerne un public âgé de 18 mois à 4 ans.<br>Lors du cours des 18 mois à 3 ans, la présence des parents est obligatoire pour le plus grand plaisir de l'enfant."
 tarifs:
  - public: mixte
-   prix: 265 €
-   cotisation: 195 €
+   prix: 275 €
+   cotisation: 205 €
 banner: "/img/banner-baby-gym.jpg"
 color: "text-red"
 background: banner-light

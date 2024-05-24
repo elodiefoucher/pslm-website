@@ -2,33 +2,23 @@
 title: Danse Classique
 slug: danse-classique
 horaires2:
-  - age: Enfants nés en 2018-2019
-    cours: Eveil
-    heures: 9h30 - 10h15
-    jour: mercredi
-    weight: 1
-  - age: Enfants nés en 2018-2019
+  - age: Enfants nés en 2019-2020
     cours: Eveil
     heures: 16h45 - 17h30
     jour: mercredi
     weight: 1
-  - age: Enfants nés en 2016-2017
-    cours: Initiation
-    heures: 10h15 - 11h
-    jour: mercredi
-    weight: '1'
-  - age: Enfants nés en 2016-2017
+  - age: Enfants nés en 2017-2018
     cours: Initiation
     heures: 16h - 16h45
     jour: mercredi
     weight: '1'
 horaires4:
-  - age: Enfants nés en 2014-2015
+  - age: Enfants nés en 2015-2016
     cours: Classique 1
     heures: 11h - 12h30
     jour: mercredi
     weight: 1
-  - age: Enfants nés à partir de 2013
+  - age: Enfants nés à partir de 2014
     cours: Classique 2
     heures: 14h30 - 16h00
     jour: mercredi
@@ -38,7 +28,7 @@ horaires4:
     heures: 13h - 14h30
     jour: mercredi
     weight: 3
-  - age: à partir de 13 ans
+  - age: cf professeur pour niveau
     cours: Classique 4
     heures: 17h30 - 19h
     jour: mercredi
@@ -50,11 +40,11 @@ description: >-
   de se hisser sur la pointe des pieds et d'enchainer pirouettes et sauts de
   chat.
 tarifs:
-  - prix: 280 €
+  - prix: 295 €
     public: 1 cours par semaine
-    cotisation: 260 €
-  - prix: 310 €
+    cotisation: 275 €
+  - prix: 325 €
     public: Classique 1, 2, 3 et 4
-    cotisation: 290 €
+    cotisation: 305€
 weight: 1
 ---

@@ -27,11 +27,13 @@ background: "banner-light"
 
 ### Permanences paiement et aide à l'inscription en ligne (au bureau du PSLM) :
 
-Reprise des permanences de paiement du 2 au 30 septembre.
+**Il est désormais possible de payer par virement ou paiement par CB sur notre site internet**, pour les réglements en une fois, merci de privilégier ces modes de paiement.
 
-Permanences de paiement : les mercredis et jeudis de 17h-19h, les samedis 2, 9, 23 et 30 septembre 10h-12h.
-- Vous pouvez aussi déposer un réglement dans la boîte aux lettres du PSLM, elle est relevée très régulièrement.
-- après le 30 septembre, voir auprès des entraineurs, coachs ou professeurs.
+Attention, en cas de remboursement d'une inscription réglée par CB, les frais bancaires ne vous seront pas remboursés.
+
+**Permanences de paiement du 1er juin au 29 juin : : les mercredis de 17h à 19h, les samedis 8, 15, 22 et 29 juin de 10h à 12h.**
+
+Vous pouvez aussi déposer un réglement dans la boîte aux lettres du PSLM, elle est relevée très régulièrement.
 
 
 ## Pièces à fournir pour toute Adhésion

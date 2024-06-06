@@ -1,6 +1,6 @@
 ---
 title: "Inscriptions"
-description: "Les inscriptions pour la saison 2023-2024 démarrent à partir du 1er juin.<br>Retrouvez tous les horaires de permanence d'inscription et les pièces à fournir ci dessous.<br>Les horaires des cours dispensés sont dans la rubrique Activités."
+description: "Les inscriptions pour la saison 2024-2025 démarrent à partir du 1er juin.<br>Retrouvez tous les horaires de permanence d'inscription et les pièces à fournir ci dessous.<br>Les horaires des cours dispensés sont dans la rubrique Activités."
 
 conditions: "Nous vous rappelons que pour valider l'inscription il nous faut impérativement le règlement.<br> Le certificat médical est obligatoire pour les activités gym."
 
@@ -45,7 +45,7 @@ Vous pouvez aussi déposer un réglement dans la boîte aux lettres du PSLM, ell
 - 1 chèque de caution 100 € rendu au retour de la tenue.
 - Pour tout nouvel adhérent la validation de l'inscription se fera après essai et confirmation par l'équipe du PSLM.
 
-## Saison 2023 / 2024
+## Saison 2024 / 2025
 - Début des cours à partir du 18 septembre pour toutes les activités
 - Reprise progressive des entraînements à partir du 21 août
 pour les gymnastes en compétitions.

@@ -26,7 +26,7 @@ background: "banner-light"
 weight: 2
 ---
 
-*Les  compétitions débutent à partir de 7 ans.*<br>
+*Les  compétitions débutent à partir de 6 ans.*<br>
 
 **La filière compétition demande un investissement important de la part des enfants, des entraîneurs et des
 parents. Elle nécessite un travail d’équipe basé sur de nombreuses heures d’entraînement.**<br>
@@ -47,6 +47,7 @@ Pour passer au niveau régional et/ou national la gymnaste doit se qualifier.
 
 **Les catégories compétitives sont fonctions de l'âge** :
 
+* Pré-poussine : 6 ans
 * Poussin(e) : 7-8-9 ans
 * Benjamin(e) : 10-11 ans
 * Minime : 12-13 ans

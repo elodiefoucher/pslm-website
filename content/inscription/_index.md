@@ -2,7 +2,7 @@
 title: "Inscriptions"
 description: "Les inscriptions pour la saison 2024-2025 démarrent à partir du 1er juin.<br>Retrouvez tous les horaires de permanence d'inscription et les pièces à fournir ci dessous.<br>Les horaires des cours dispensés sont dans la rubrique Activités."
 
-conditions: "Nous vous rappelons que pour valider l'inscription il nous faut impérativement le règlement.<br> Le certificat médical est obligatoire pour les activités gym."
+conditions: "Nous vous rappelons que pour valider l'inscription il nous faut impérativement le règlement.<br> Le certificat médical est obligatoire pour les activités gym, à garder chez soi et à télécharger sur le site d'inscription."
 
 documents:
  - photo: "/img/inscription-ecole-de-gym.png"
@@ -31,9 +31,9 @@ background: "banner-light"
 
 Attention, en cas de remboursement d'une inscription réglée par CB, les frais bancaires ne vous seront pas remboursés.
 
-**Permanences de paiement du 1er juin au 29 juin : : les mercredis de 17h à 19h, les samedis 8, 15, 22 et 29 juin de 10h à 12h.**
+**Permanences de paiement du 2 au 29 septembre 2024 : : les mercredis de 17h30 à 19h30, les vendredis de 1èh30 à 19h30, les samedis de 10h à 12h.**
 
-Vous pouvez aussi déposer un réglement dans la boîte aux lettres du PSLM, elle est relevée très régulièrement.
+Vous pouvez aussi déposer un réglement dans la boîte aux lettres du PSLM, elle est relevée très régulièrement. Attention, pas de réglement en espèces dans la boîte aux lettres, nous déclinons toutes responsabilités en cas de vol ou de perte.
 
 
 ## Pièces à fournir pour toute Adhésion
@@ -47,13 +47,13 @@ Vous pouvez aussi déposer un réglement dans la boîte aux lettres du PSLM, ell
 
 ## Saison 2024 / 2025
 - Début des cours à partir du 18 septembre pour toutes les activités
-- Reprise progressive des entraînements à partir du 21 août
+- Reprise progressive des entraînements à partir du 19 août
 pour les gymnastes en compétitions.
 
 ## Réductions
 - 10% de réduction sur la 2ème inscription (sur la moins chère des 2) et pour les étudiants
 - 15% de réduction sur la 3ème inscription (sur la moins chère des 3)
-- Coupons sport acceptés
+- Pass sport
 - Chèques vacances acceptés
 - Paiement pass région accepté (fournir la photo de la carte et le code d'utilisateur à 4 chiffres)
 

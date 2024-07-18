@@ -1,5 +1,5 @@
 ---
-title: "Saison 2022-2023"
+title: "Saison 2023-2024"
 description: ""
 description2: "Le Top 12 se déroule sur toute l'année avec des matchs entre 2 équipes.<br> Retrouvez ici le calendrier des rencontres du PSLM ainsi que les équipes présentes en Top 12 cette saison."
 equipe:

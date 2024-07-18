@@ -1,6 +1,7 @@
 ---
 title: Jeux Olympiques
-date: '2024-07-16'
+date: '2024-07-17
+'
 galerieaccueil: /img/actu/actu-2024-07-17.jpg
 galerie:
   - photo: /img/actu/actu-2024-07-17.jpg
